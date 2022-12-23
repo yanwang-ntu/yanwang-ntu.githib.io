@@ -2,9 +2,6 @@
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
 <head>
-    {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
-    {{ partial "analytics.html" . }}
-    {{ end }}
     {{- partial "head.html" . }}
 </head>
 

@@ -20,19 +20,19 @@ minify:
 menu:
     main:
         - name: Papers
-          url: papers/
+          url: /papers/
           weight: 1
         - name: Courses
-          url: courses/
+          url: /courses/
           weight: 2
         - name: LaTeX
-          url: latex/
+          url: /latex/
           weight: 3
         - name: Newsletter
           url: https://pmichaillat.substack.com
           weight: 5
         - name: Keywords
-          url: tags/
+          url: /tags/
           weight: 4
         # - name: Search
         #   url: search/
@@ -86,13 +86,13 @@ params:
           imageTitle: Pascal Michaillat
           buttons:
             - name: Papers
-              url: papers/
+              url: /papers/
             # - name: Book
             #   url: papers/
             - name: Courses
-              url: courses/
+              url: /courses/
             - name: LaTeX
-              url: latex/
+              url: /latex/
             # - name: Newsletter
             #   url: https://pmichaillat.substack.com
 #         title: Pascal Michaillat
@@ -155,7 +155,7 @@ params:
     - name: Zoom
       url: "https://brown.zoom.us/my/pascalmichaillat"
     - name: Office Hours
-      url: "https://github.com/"
+      url: /officehours/
     # - name: Address
     #   url: "https://brown.zoom.us/my/pascalmichaillat"   
 

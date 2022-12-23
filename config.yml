@@ -164,11 +164,6 @@ params:
         Text: "Permalink" # edit text
         appendFilePath: false # to append file path to Edit link
 
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
-
     # analytics:
     #     google:
     #         SiteVerificationTag: "XYZabc"

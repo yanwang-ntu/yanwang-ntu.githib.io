@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pascal Michaillat</title>
+    <link>https://pmichaillat.github.io/latex/</link>
+    <description>Recent content on Pascal Michaillat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pmichaillat.github.io/latex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>paper.sty</title>
+      <link>https://pmichaillat.github.io/latex/c1/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pmichaillat.github.io/latex/c1/</guid>
+      <description>LaTeX style file to format academic papers.
+paper code &amp;amp; data online appendix Pascal Michaillat. 2020. &amp;ldquo;Critical Values Robust to P-Hacking.&amp;rdquo; arXiv:2005.04141. https://doi.org/10.48550/arXiv.2005.04141.</description>
+    </item>
+    
+  </channel>
+</rss>

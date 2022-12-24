@@ -6,11 +6,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Critical Values Robust to P-Hacking | Pascal Michaillat</title>
-<meta name="keywords" content="p-hacking, critical values, metascience">
-<meta name="description" content="This paper proposes a model of p-hacking and critical values robust to it. This is nice and cool. Great models and such. This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it.">
-<meta name="author" content="Pascal Michaillat & Adam McCloskey">
+<meta name="keywords" content="hypothesis testing, statistical significance, p-hacking, critical values, metascience, optimal stopping, scientific incentives">
+<meta name="description" content="This paper develops a model of p-hacking by researchers. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking.">
+<meta name="author" content="Adam McCloskey & Pascal Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/12/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.4270f8344cc0202700248ac744283ed6f2778352312a4a6d8cd30a9be78da07d.css" integrity="sha256-QnD4NEzAICcAJIrHRCg&#43;1vJ3g1IxKkptjNMKm&#43;eNoH0=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.96f105a7bcb04f01712dcdee40b0fdbc3f9302eefae1ab8ad021843bc87f2c83.css" integrity="sha256-lvEFp7ywTwFxLc3uQLD9vD&#43;TAu764auK0CGEO8h/LIM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -29,7 +29,7 @@
 </noscript>
 
 <meta property="og:title" content="Critical Values Robust to P-Hacking" />
-<meta property="og:description" content="This paper proposes a model of p-hacking and critical values robust to it. This is nice and cool. Great models and such. This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it." />
+<meta property="og:description" content="This paper develops a model of p-hacking by researchers. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://pascalmichaillat.org/12/" />
 <meta property="og:image" content="https://pascalmichaillat.org/12.png" /><meta property="article:section" content="papers" />
@@ -39,7 +39,7 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://pascalmichaillat.org/12.png" />
 <meta name="twitter:title" content="Critical Values Robust to P-Hacking"/>
-<meta name="twitter:description" content="This paper proposes a model of p-hacking and critical values robust to it. This is nice and cool. Great models and such. This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it."/>
+<meta name="twitter:description" content="This paper develops a model of p-hacking by researchers. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking."/>
 
 
 <script type="application/ld+json">
@@ -68,18 +68,18 @@
   "@type": "BlogPosting",
   "headline": "Critical Values Robust to P-Hacking",
   "name": "Critical Values Robust to P-Hacking",
-  "description": "This paper proposes a model of p-hacking and critical values robust to it. This is nice and cool. Great models and such. This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it.  This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it.",
+  "description": "This paper develops a model of p-hacking by researchers. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking.",
   "keywords": [
-    "p-hacking", "critical values", "metascience"
+    "hypothesis testing", "statistical significance", "p-hacking", "critical values", "metascience", "optimal stopping", "scientific incentives"
   ],
-  "articleBody": " Paper Code \u0026 data Abstract: This paper proposes a model of p-hacking and critical values robust to it. THis is nice and cool. Great Models and such. This book shows the following. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it\nFigure 2: Critical values for different parametrizations Citation: Pascal Michaillat. 2020. “Critical Values Robust to P-Hacking.” arXiv:2005.04141. https://doi.org/10.48550/arXiv.2005.04141.\n",
-  "wordCount" : "102",
+  "articleBody": " Paper Abstract: P-hacking occurs when researchers engage in various behaviors that increase their chances of reporting statistically significant results. P-hacking is problematic because it reduces the informativeness of hypothesis tests—by making significant results much more common than they are supposed to be in the absence of true significance. Despite its prevalence, p-hacking is not taken into account in hypothesis testing theory: the critical values used to determine significance assume no p-hacking. To address this problem, we build a model of p-hacking and use it to construct critical values such that, if these values are used to determine significance, and if researchers adjust their p-hacking behavior to these new significance standards, then significant results occur with the desired frequency. Because such robust critical values allow for p-hacking, they are larger than classical critical values. As an illustration, we calibrate the model with evidence from the social and medical sciences. We find that the robust critical value for any test is the classical critical value for the same test with one fifth of the significance level—a form of Bonferroni correction. For instance, for a z-test with a significance level of 5%, the robust critical value is 2.31 instead of 1.65 if the test is one-sided and 2.57 instead of 1.96 if the test is two-sided.\nFigure 3: Robust critical values for different parametrizations Citation: McCloskey, Adam and Pascal Michaillat. 2022. “Critical Values Robust to P-Hacking.” arXiv:2005.04141. https://doi.org/10.48550/arXiv.2005.04141.\n",
+  "wordCount" : "235",
   "inLanguage": "en",
   "image":"https://pascalmichaillat.org/12.png","datePublished": "2022-06-18T00:00:00Z",
   "dateModified": "2022-06-18T00:00:00Z",
   "author":[{
     "@type": "Person",
-    "name": "Pascal Michaillat \u0026 Adam McCloskey"
+    "name": "Adam McCloskey \u0026 Pascal Michaillat"
   }],
   "mainEntityOfPage": {
     "@type": "WebPage",
@@ -122,13 +122,8 @@
                 </a>
             </li>
             <li>
-                <a href="https://pascalmichaillat.org/latex/" title="Code">
-                    <span>Code</span>
-                </a>
-            </li>
-            <li>
-                <a href="https://pascalmichaillat.org/tags/" title="Tags">
-                    <span>Tags</span>
+                <a href="https://pascalmichaillat.org/latex/" title="LaTeX">
+                    <span>LaTeX</span>
                 </a>
             </li>
             <li>
@@ -153,7 +148,9 @@
     <h1 class="post-title">
       Critical Values Robust to P-Hacking
     </h1>
-    <div class="post-meta"><span title='2022-06-18 00:00:00 +0000 UTC'>June 2022</span>&nbsp;&middot;&nbsp;Pascal Michaillat & Adam McCloskey&nbsp;&middot;&nbsp;<a href="https://doi.org/10.48550/arXiv.2005.04141" rel="noopener noreferrer" target="_blank">Review of Economic Studies</a>
+
+    
+    <div class="post-meta"><span title='2022-06-18 00:00:00 +0000 UTC'>June 2022</span>&nbsp;&middot;&nbsp;Adam McCloskey & Pascal Michaillat&nbsp;&middot;&nbsp;<a href="https://doi.org/10.48550/arXiv.2005.04141" rel="noopener noreferrer" target="_blank">arXiv</a>
 
 </div>
   </header> 
@@ -161,31 +158,39 @@
 <!-- #### Files: -->
 <ul>
 <li><a href="/12.pdf">Paper</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2005.04141">Code &amp; data</a></li>
 </ul>
+<!-- + [Code & data](https://doi.org/10.48550/arXiv.2005.04141) -->
 <!-- + [online appendix](https://doi.org/10.48550/arXiv.2005.04141) -->
 <hr>
 <h4 id="abstract">Abstract:</h4>
-<p>This paper proposes a model of p-hacking and critical values robust to it. THis is nice and cool. Great Models and such. This book shows the following. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it</p>
+<p>P-hacking occurs when researchers engage in various behaviors that increase their chances of reporting statistically significant results. P-hacking is problematic because it reduces the informativeness of hypothesis tests&mdash;by making significant results much more common than they are supposed to be in the absence of true significance. Despite its prevalence, p-hacking is not taken into account in hypothesis testing theory: the critical values used to determine significance assume no p-hacking. To address this problem, we build a model of p-hacking and use it to construct critical values such that, if these values are used to determine significance, and if researchers adjust their p-hacking behavior to these new significance standards, then significant results occur with the desired frequency. Because such robust critical values allow for p-hacking, they are larger than classical critical values. As an illustration, we calibrate the model with evidence from the social and medical sciences. We find that the robust critical value for any test is the classical critical value for the same test with one fifth of the significance level&mdash;a form of Bonferroni correction. For instance, for a z-test with a significance level of 5%, the robust critical value is 2.31 instead of 1.65 if the test is one-sided and 2.57 instead of 1.96 if the test is two-sided.</p>
 <hr>
-<h4 id="figure-2--critical-values-for-different-parametrizations">Figure 2:  Critical values for different parametrizations</h4>
-<p><img loading="lazy" src="/12.png" alt="Figure 2:  Critical values for different parametrizations"  />
+<h4 id="figure-3--robust-critical-values-for-different-parametrizations">Figure 3:  Robust critical values for different parametrizations</h4>
+<p><img loading="lazy" src="/12.png" alt=""  />
 </p>
 <hr>
 <h4 id="citation">Citation:</h4>
-<p>Pascal Michaillat. 2020. &ldquo;Critical Values Robust to P-Hacking.&rdquo; arXiv:2005.04141. <a href="https://doi.org/10.48550/arXiv.2005.04141">https://doi.org/10.48550/arXiv.2005.04141</a>.</p>
+<p>McCloskey, Adam and Pascal Michaillat. 2022. &ldquo;Critical Values Robust to P-Hacking.&rdquo; arXiv:2005.04141. <a href="https://doi.org/10.48550/arXiv.2005.04141">https://doi.org/10.48550/arXiv.2005.04141</a>.</p>
+<hr>
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://pascalmichaillat.org/tags/hypothesis-testing/">hypothesis testing</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/statistical-significance/">statistical significance</a></li>
       <li><a href="https://pascalmichaillat.org/tags/p-hacking/">p-hacking</a></li>
       <li><a href="https://pascalmichaillat.org/tags/critical-values/">critical values</a></li>
       <li><a href="https://pascalmichaillat.org/tags/metascience/">metascience</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/optimal-stopping/">optimal stopping</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/scientific-incentives/">scientific incentives</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://pascalmichaillat.org/papers/1/">
-    <span> &larr;&nbsp;Do Matching Frictions Explain Unemployment</span>
+  <a class="prev" href="https://pascalmichaillat.org/13/">
+    <span> &larr;&nbsp;u* = √uv</span>
+  </a>
+  <a class="next" href="https://pascalmichaillat.org/11/">
+    <span>Resolving New Keynesian Anomalies with Wealth in the Utility Function&nbsp;&rarr;</span>
   </a>
 </nav>
 

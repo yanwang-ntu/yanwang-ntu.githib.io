@@ -53,13 +53,12 @@ params:
     author: Pascal Michaillat
     googleAnalytics: "G-97G4MZ4061"
     DateFormat: "January 2006"
-    defaultTheme: light # dark, light, auto
+    defaultTheme: light
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    # displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
@@ -79,8 +78,8 @@ params:
           title: Pascal Michaillat
           subtitle: "Associate Professor of Economics at Brown University"
           imageUrl: "/picture.jpeg"
-          imageWidth: 120
-          imageHeight: 120
+          imageWidth: 140
+          imageHeight: 140
           imageTitle: Pascal Michaillat
           buttons:
             - name: Papers

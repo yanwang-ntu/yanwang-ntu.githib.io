@@ -376,7 +376,7 @@ h6:hover .anchor {
 .paginav {
     margin: 10px 0;
     display: flex;
-    line-height: 34px;
+    line-height: 20px;
     font-size: 14px;
     border-radius: var(--radius);
 }

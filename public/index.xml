@@ -7,25 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Economic Slack</title>
-      <link>https://pascalmichaillat.org/courses/t1/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/courses/t1/</guid>
-      <description>This paper proposes a model of p-hacking and critical values robust to it. THis is nice and cool. Great Models and such. This book shows the following. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it. This paper proposes a model of p-hacking and critical values robust to it</description>
-    </item>
-    
-    <item>
-      <title>paper.sty</title>
-      <link>https://pascalmichaillat.org/latex/c1/</link>
-      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/latex/c1/</guid>
-      <description>LaTeX style file to format academic papers.
-paper code &amp;amp; data online appendix Pascal Michaillat. 2020. &amp;ldquo;Critical Values Robust to P-Hacking.&amp;rdquo; arXiv:2005.04141. https://doi.org/10.48550/arXiv.2005.04141.</description>
-    </item>
-    
-    <item>
       <title>Office Hours</title>
       <link>https://pascalmichaillat.org/officehours/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
@@ -50,6 +31,15 @@ paper code &amp;amp; data online appendix Pascal Michaillat. 2020. &amp;ldquo;Cr
       
       <guid>https://pascalmichaillat.org/12/</guid>
       <description>This paper develops a model of p-hacking by researchers. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking.</description>
+    </item>
+    
+    <item>
+      <title>Beveridgean Unemployment Gap</title>
+      <link>https://pascalmichaillat.org/9/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/9/</guid>
+      <description>This paper develops a sufficient-statistic formula for the unemployment gap based on the Beveridge curve. The US gap is countercyclical and often positive.</description>
     </item>
     
     <item>

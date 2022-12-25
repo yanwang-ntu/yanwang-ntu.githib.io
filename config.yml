@@ -23,8 +23,8 @@ menu:
         - name: Courses
           url: /courses/
           weight: 2
-        - name: LaTeX
-          url: /latex/
+        - name: Code
+          url: /code/
           weight: 3
         - name: Newsletter
           url: https://pmichaillat.substack.com
@@ -91,8 +91,8 @@ params:
             #   url: papers/
             - name: Courses
               url: /courses/
-            - name: LaTeX
-              url: /latex/
+            - name: Code
+              url: /code/
             # - name: Newsletter
             #   url: https://pmichaillat.substack.com
 #         title: Pascal Michaillat
@@ -160,7 +160,7 @@ params:
     #   url: "https://brown.zoom.us/my/pascalmichaillat"   
 
     editPost:
-        URL: "https://www.pascalmichaillat.org"
+        URL: "https://pascalmichaillat.org"
         Text: "Permalink" # edit text
         appendFilePath: false # to append file path to Edit link
 

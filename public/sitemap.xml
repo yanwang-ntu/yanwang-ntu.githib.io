@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/courses/t1/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/latex/c1/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/officehours/</loc>
     <lastmod>2022-12-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,12 +32,6 @@
     <loc>https://pascalmichaillat.org/tags/unemployment-gap/</loc>
     <lastmod>2022-06-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/courses/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/latex/</loc>
-    <lastmod>2022-06-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/tags/critical-values/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,6 +56,21 @@
     <loc>https://pascalmichaillat.org/tags/statistical-significance/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/9/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/homophily/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/paradigms/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/scientific-power/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/scientific-progress/</loc>
+    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/tags/forward-guidance/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -89,20 +92,12 @@
     <loc>https://pascalmichaillat.org/tags/zero-lower-bound/</loc>
     <lastmod>2021-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/homophily/</loc>
-    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/paradigms/</loc>
-    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/10/</loc>
     <lastmod>2018-12-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/scientific-power/</loc>
-    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
+    <loc>https://pascalmichaillat.org/code/</loc>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/scientific-progress/</loc>
-    <lastmod>2018-12-26T00:00:00+00:00</lastmod>
+    <loc>https://pascalmichaillat.org/courses/</loc>
   </url><url>
     <loc>https://pascalmichaillat.org/search/</loc>
   </url><url>

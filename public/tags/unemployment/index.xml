@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>unemployment on Pascal Michaillat</title>
+    <link>https://pascalmichaillat.org/tags/unemployment/</link>
+    <description>Recent content in unemployment on Pascal Michaillat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/unemployment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Economical Business-Cycle Model</title>
+      <link>https://pascalmichaillat.org/7/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/7/</guid>
+      <description>This paper develops a policy-oriented business-cycle model with fluctuating unemployment, stable inflation, and long-lasting zero-lower-bound episodes.</description>
+    </item>
+    
+  </channel>
+</rss>

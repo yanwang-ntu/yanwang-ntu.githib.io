@@ -15,5 +15,14 @@
       <description>Under simple but realistic assumptions, the efficient unemployment rate u* is the geometric average of the unemployment and vacancy rates.</description>
     </item>
     
+    <item>
+      <title>Beveridgean Unemployment Gap</title>
+      <link>https://pascalmichaillat.org/9/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/9/</guid>
+      <description>This paper develops a sufficient-statistic formula for the unemployment gap based on the Beveridge curve. The US gap is countercyclical and often positive.</description>
+    </item>
+    
   </channel>
 </rss>

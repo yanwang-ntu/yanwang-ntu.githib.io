@@ -50,7 +50,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     # description: "This website hosts Pascal Michaillat's research papers and courses."
-    description: "Associate Professor of Economics at Brown University. Papers & courses on unemployment & economic slack, business cycles, monetary & fiscal policy."
+    description: "Associate Professor of Economics at Brown University. Research & teaching on unemployment & economic slack, business cycles, and macroeconomic policies."
     author: Pascal Michaillat
     # googleAnalyticsID: "G-97G4MZ4061"
     googleAnalytics: "G-97G4MZ4061"

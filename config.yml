@@ -23,7 +23,7 @@ menu:
         - name: Courses
           url: /courses/
           weight: 2
-        - name: Code
+        - name: LaTeX
           url: /code/
           weight: 3
         - name: Newsletter

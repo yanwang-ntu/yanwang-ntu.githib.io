@@ -332,7 +332,7 @@
     padding-inline-end: 14px;
     color: var(--secondary);
     font-size: 14px;
-    line-height: 34px;
+    line-height: 28px;
     background: var(--code-bg);
 }
 
@@ -376,7 +376,7 @@ h6:hover .anchor {
 .paginav {
     margin: 10px 0;
     display: flex;
-    line-height: 20px;
+    line-height: 28px;
     font-size: 14px;
     border-radius: var(--radius);
 }

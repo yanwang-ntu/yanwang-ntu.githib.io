@@ -26,12 +26,12 @@ menu:
         - name: LaTeX
           url: /code/
           weight: 3
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
-        # - name: Tags
-        #   url: /tags/
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
         #   weight: 4
+        - name: Keywords
+          url: /tags/
+          weight: 4
         # - name: Search
         #   url: search/
         #   weight: 11
@@ -88,10 +88,10 @@ params:
             #   url: papers/
             - name: Courses
               url: /courses/
-            - name: Code
+            - name: LaTeX
               url: /code/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
+            - name: Newsletter
+              url: https://pmichaillat.substack.com
 #         title: Pascal Michaillat
 #         imageUrl: "/favicon.ico"
 #         imageTitle: Purple
@@ -156,10 +156,10 @@ params:
     # - name: Address
     #   url: "https://brown.zoom.us/my/pascalmichaillat"   
 
-    editPost:
-        URL: "https://pascalmichaillat.org"
-        Text: "Permalink" # edit text
-        appendFilePath: false # to append file path to Edit link
+    # editPost:
+    #     URL: "https://pascalmichaillat.org"
+    #     Text: "Permalink" # edit text
+    #     appendFilePath: false # to append file path to Edit link
 
     # analytics:
     #     google:

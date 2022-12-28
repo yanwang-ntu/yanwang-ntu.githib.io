@@ -5,7 +5,25 @@
     <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
     <description>Recent content in price rigidity on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/price-rigidity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/price-rigidity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economic Slack</title>
+      <link>https://pascalmichaillat.org/c2/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/c2/</guid>
+      <description>This course presents a matching model of economic slack, and use it to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
+    </item>
+    
+    <item>
+      <title>An Economical Business-Cycle Model</title>
+      <link>https://pascalmichaillat.org/7/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/7/</guid>
+      <description>This paper develops a policy-oriented business-cycle model with fluctuating unemployment, stable inflation, and long-lasting zero-lower-bound episodes.</description>
+    </item>
+    
     <item>
       <title>Pricing under Fairness Concerns</title>
       <link>https://pascalmichaillat.org/8/</link>
@@ -13,6 +31,15 @@
       
       <guid>https://pascalmichaillat.org/8/</guid>
       <description>This paper develops a model of pricing in which buyers care about the fairness of markups but misinfer them from prices. The model yields price rigidity.</description>
+    </item>
+    
+    <item>
+      <title>Aggregate Demand, Idle Time, and Unemployment</title>
+      <link>https://pascalmichaillat.org/3/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/3/</guid>
+      <description>This paper develops a model of unemployment fluctuations. The innovation is to represent the labor and product markets with a matching structure.</description>
     </item>
     
   </channel>

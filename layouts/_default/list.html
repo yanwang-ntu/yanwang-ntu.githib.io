@@ -9,7 +9,7 @@
   {{- partial "breadcrumbs.html" . }}
   <h1>
     {{- if (eq .Kind `term`) }}
-    #{{ .Title }}
+    # {{ .Title }}
     {{- else}}
     <!-- {{ .Title }} -->
     {{- end}}

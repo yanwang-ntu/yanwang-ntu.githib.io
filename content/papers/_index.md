@@ -1,5 +1,5 @@
 ---
 title: "Papers"
-description: "Articles & preprints on unemployment & economic slack, business cycles, monetary policy, government spending, unemployment insurance. Some metascience too."
+description: "Preprints and articles on unemployment and economic slack, business cycles, monetary policy, fiscal policy, and on science-related topics."
 # layout: "terms"
 ---

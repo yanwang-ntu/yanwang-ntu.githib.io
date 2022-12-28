@@ -49,7 +49,7 @@ outputs:
 
 params:
     env: production
-    description: "Associate Professor of Economics at Brown University. Research on unemployment & economic slack, business cycles, and macroeconomic policies."
+    description: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, metascience."
     author: Pascal Michaillat
     googleAnalytics: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -76,7 +76,7 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "Associate Professor of Economics at Brown University"
+          subtitle: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, and also in metascience."
           imageUrl: "/picture.jpeg"
           imageWidth: 140
           imageHeight: 140

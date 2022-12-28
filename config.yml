@@ -76,7 +76,9 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, and also in metascience."
+          # subtitle: "Associate Professor of Economics at Brown University"
+          subtitle: "Associate Professor of Economics at Brown University. Unemployment and economic slack, business cycles, macroeconomic policy, and some metascience."
+          # subtitle: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, and also in metascience."
           imageUrl: "/picture.jpeg"
           imageWidth: 140
           imageHeight: 140

@@ -16,21 +16,21 @@
     </item>
     
     <item>
-      <title>Mathematical Methods for Macroeconomics</title>
-      <link>https://pascalmichaillat.org/c3/</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/c3/</guid>
-      <description>This course covers basic mathematical methods for macroeconomics: dynamic programming, differential equations, and optimal control.</description>
-    </item>
-    
-    <item>
       <title>Resolving New Keynesian Anomalies with Wealth in the Utility Function</title>
       <link>https://pascalmichaillat.org/11/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/11/</guid>
       <description>This paper resolves all the anomalies of the New Keynesian model at the zero lower bound by introducing wealth into the utility function.</description>
+    </item>
+    
+    <item>
+      <title>Mathematical Methods for Macroeconomics</title>
+      <link>https://pascalmichaillat.org/c3/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/c3/</guid>
+      <description>This course covers basic mathematical methods for macroeconomics: dynamic programming, differential equations, and optimal control.</description>
     </item>
     
   </channel>

@@ -23,7 +23,7 @@ menu:
         - name: Courses
           url: /courses/
           weight: 2
-        - name: LaTeX
+        - name: Code
           url: /code/
           weight: 3
         - name: Newsletter
@@ -52,6 +52,7 @@ params:
     description: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, metascience."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
+    # googleAnalytics: G-97G4MZ4061
     DateFormat: "January 2006"
     defaultTheme: light
     disableThemeToggle: true
@@ -90,7 +91,7 @@ params:
             #   url: papers/
             - name: Courses
               url: /courses/
-            - name: LaTeX
+            - name: Code
               url: /code/
             # - name: Newsletter
             #   url: https://pmichaillat.substack.com
@@ -109,7 +110,7 @@ params:
         # - name: Keywords
         #   url: tags/
         #   weight: 10
-        # - name: LaTeX
+        # - name: Code
         #   url: latex/
         #   weight: 4
         # - name: Newsletter

@@ -125,10 +125,10 @@ params:
         # - name: Contact
         #   url: contact/
         #   weight: 8
-    label:
-      text: "Pascal Michaillat"
-      icon: /apple-touch-icon.png
-      iconHeight: 14
+    # label:
+    #   text: "Pascal Michaillat"
+    #   icon: favicon-16x16.png
+    #   iconHeight: 14
 
     # homeInfoParams:
     #     Title: Pascal Michaillat

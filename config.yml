@@ -128,7 +128,7 @@ params:
     label:
       text: "Pascal Michaillat"
       icon: /apple-touch-icon.png
-      iconHeight: 16
+      iconHeight: 14
 
     # homeInfoParams:
     #     Title: Pascal Michaillat

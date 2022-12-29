@@ -26,9 +26,9 @@ menu:
         - name: LaTeX
           url: /code/
           weight: 3
-        # - name: Newsletter
-        #   url: https://pmichaillat.substack.com
-        #   weight: 4
+        - name: Newsletter
+          url: https://pmichaillat.substack.com
+          weight: 5
         - name: Tags
           url: /tags/
           weight: 4
@@ -48,10 +48,10 @@ outputs:
         - JSON
 
 params:
-    env: production
+    # env: production
     description: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, metascience."
     author: Pascal Michaillat
-    googleAnalytics: "G-97G4MZ4061"
+    googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
     defaultTheme: light
     disableThemeToggle: true
@@ -70,7 +70,7 @@ params:
     ShowRssButtonInSectionTermList: false
     UseHugoToc: true
     comments: false
-    # images: ["papermod-cover.png"]
+    images: ["/apple-touch-icon.png"]
     # mainSections:
     #   - papers
     profileMode:
@@ -92,8 +92,8 @@ params:
               url: /courses/
             - name: LaTeX
               url: /code/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
 #         title: Pascal Michaillat
 #         imageUrl: "/favicon.ico"
 #         imageTitle: Purple
@@ -126,7 +126,7 @@ params:
         #   weight: 8
     label:
       text: "Pascal Michaillat"
-      icon: /favicon.ico
+      icon: /apple-touch-icon.png
       iconHeight: 16
 
     # homeInfoParams:

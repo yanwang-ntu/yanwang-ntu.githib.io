@@ -13,7 +13,7 @@ pygmentsUseClasses: true
 
 minify:
     disableXML: true
-    # minifyOutput: true
+    minifyOutput: true
 
 menu:
     main:
@@ -23,9 +23,9 @@ menu:
         - name: Courses
           url: /courses/
           weight: 2
-        - name: Code
-          url: /code/
-          weight: 3
+        # - name: Code
+        #   url: /code/
+        #   weight: 3
         - name: Newsletter
           url: https://pmichaillat.substack.com
           weight: 5
@@ -91,8 +91,8 @@ params:
             #   url: papers/
             - name: Courses
               url: /courses/
-            - name: Code
-              url: /code/
+            # - name: Code
+            #   url: /code/
             # - name: Newsletter
             #   url: https://pmichaillat.substack.com
 #         title: Pascal Michaillat

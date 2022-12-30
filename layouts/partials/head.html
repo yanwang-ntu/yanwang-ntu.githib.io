@@ -147,12 +147,15 @@
     {{- end }}
 </noscript>
 
-<!-- {{- if hugo.IsProduction | or (eq site.Params.env "production") }} -->
 {{- template "partials/templates/opengraph.html" . }}
 {{- template "partials/templates/twitter_cards.html" . }}
 {{- template "partials/templates/schema_json.html" . }}
-<!-- {{- template "_internal/google_analytics.html" . }} -->
-<!-- {{- end -}} -->
+
 {{ if and (hugo.IsProduction) (.Site.Params.googleAnalyticsID) }}
 {{- partial "analytics.html" . }}
 {{ end }}
+
+{{ if or .Page.Params.math .Site.Params.math }}
+{{- partial "math.html" .}}
+{{ end }} 
+

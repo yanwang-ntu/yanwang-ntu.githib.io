@@ -11,6 +11,9 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
+taxonomies:
+  tag: tags
+
 minify:
     disableXML: true
     minifyOutput: true
@@ -72,8 +75,10 @@ params:
     UseHugoToc: true
     comments: false
     images: ["/apple-touch-icon.png"]
+    math: true
     # mainSections:
     #   - papers
+    #   - courses
     profileMode:
           enabled: true
           title: Pascal Michaillat
@@ -195,33 +200,33 @@ markup:
         renderer:
             unsafe: true
     highlight:
-        noClasses: false
         # anchorLineNos: true
-        # codeFences: true
-        # guessSyntax: true
-        # lineNos: true
-        # style: monokai
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        style: github-light
 
-privacy:
-    vimeo:
-        disabled: true
-        simple: true
+# privacy:
+#     vimeo:
+#         disabled: true
+#         simple: true
 
-    twitter:
-        disabled: true
-        enableDNT: true
-        simple: true
+#     twitter:
+#         disabled: true
+#         enableDNT: true
+#         simple: true
 
-    instagram:
-        disabled: true
-        simple: true
+#     instagram:
+#         disabled: true
+#         simple: true
 
-    youtube:
-        disabled: true
-        privacyEnhanced: true
+#     youtube:
+#         disabled: true
+#         privacyEnhanced: true
 
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+# services:
+#     instagram:
+#         disableInlineCSS: true
+#     twitter:
+#         disableInlineCSS: true

@@ -11,8 +11,11 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 
+social:
+    twitter: pmichaillat
+
 taxonomies:
-  tag: tags
+    tag: tags
 
 minify:
     disableXML: true
@@ -51,11 +54,9 @@ outputs:
         - JSON
 
 params:
-    # env: production
-    description: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, metascience."
+    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
-    # googleAnalytics: G-97G4MZ4061
     DateFormat: "January 2006"
     defaultTheme: light
     disableThemeToggle: true
@@ -231,3 +232,9 @@ markup:
 #         disableInlineCSS: true
 #     twitter:
 #         disableInlineCSS: true
+
+
+# number of characters here:
+# title: 70
+# descriptions: 120–155
+# summary: 260

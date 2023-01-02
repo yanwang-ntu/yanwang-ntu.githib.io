@@ -5,21 +5,12 @@ theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-enableEmoji: true
-pygmentsUseClasses: true
 
 social:
     twitter: pmichaillat
 
 taxonomies:
     tag: tags
-
-minify:
-    disableXML: true
-    minifyOutput: true
 
 menu:
     main:
@@ -44,9 +35,7 @@ menu:
         # - name: Archive
         #   url: archives
         #   weight: 7
-        # - name: Contact
-        #   url: contact/
-        #   weight: 8
+
 outputs:
     home:
         - HTML
@@ -70,9 +59,8 @@ params:
     ShowRssButtonInSectionTermList: false
     ShowToc: false
     disableScrollToTop: true
-    TocOpen: false
+    TocOpen: true
     ShowWordCount: false
-    ShowRssButtonInSectionTermList: false
     UseHugoToc: true
     comments: false
     images: ["/apple-touch-icon.png"]
@@ -83,9 +71,7 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          # subtitle: "Associate Professor of Economics at Brown University"
           subtitle: "Associate Professor of Economics at Brown University. Unemployment and economic slack, business cycles, macroeconomic policy, and some metascience."
-          # subtitle: "I'm an Associate Professor of Economics at Brown University. I work on unemployment and economic slack, business cycles, macroeconomic policy, and also in metascience."
           imageUrl: "/picture.jpeg"
           imageWidth: 140
           imageHeight: 140
@@ -99,52 +85,6 @@ params:
               url: /courses/
             # - name: Code
             #   url: /code/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
-#         title: Pascal Michaillat
-#         imageUrl: "/favicon.ico"
-#         imageTitle: Purple
-#         imageWidth: 80
-#         imageHeight: 80
-#         buttons:
-        # - name: Archive
-        #   url: archive
-          # weight: 7
-        # - name: Search
-        #   url: search/
-        #   weight: 11
-        # - name: Keywords
-        #   url: tags/
-        #   weight: 10
-        # - name: Code
-        #   url: latex/
-        #   weight: 4
-        # - name: Newsletter
-        #   url: https://pmichaillat.substack.com
-        #   weight: 9
-        # - name: Courses
-        #   url: courses/
-        #   weight: 6
-        # - name: Papers
-        #   url: papers/
-        #   weight: 1
-        # - name: Contact
-        #   url: contact/
-        #   weight: 8
-    # label:
-    #   text: "Pascal Michaillat"
-    #   icon: favicon-16x16.png
-    #   iconHeight: 14
-
-    # homeInfoParams:
-    #     Title: Pascal Michaillat
-    #     Content: 
-    #       - Associate Professor of Economics at Brown University
-
-    #       - Spring 2023: on leave at UCSD
-
-            # - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-
     socialIcons:
     - name: CV
       url: "/cv.pdf"
@@ -162,77 +102,21 @@ params:
       url: "https://github.com/pmichaillat"
     - name: YouTube
       url: "https://www.youtube.com/@pmichaillat"
-    # - name: Address
-    #   url: "https://brown.zoom.us/my/pascalmichaillat"   
-
-    # editPost:
-    #     URL: "https://pascalmichaillat.org"
-    #     Text: "Permalink" # edit text
-    #     appendFilePath: false # to append file path to Edit link
-
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
-
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
-
     cover:
-        # hidden: true # hide everywhere but not in structured data
-        hiddenInList: true # hide on list pages and home
-        hiddenInSingle: true # hide on single page
-
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+        hiddenInList: true
+        hiddenInSingle: true
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
     highlight:
-        # anchorLineNos: true
-        # codeFences: true
         guessSyntax: true
-        # lineNos: true
-        # noClasses: false
         style: xcode
-
-# privacy:
-#     vimeo:
-#         disabled: true
-#         simple: true
-
-#     twitter:
-#         disabled: true
-#         enableDNT: true
-#         simple: true
-
-#     instagram:
-#         disabled: true
-#         simple: true
-
-#     youtube:
-#         disabled: true
-#         privacyEnhanced: true
-
-# services:
-#     instagram:
-#         disableInlineCSS: true
-#     twitter:
-#         disableInlineCSS: true
-
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
 
 # number of characters here:
 # title: 70

@@ -6,7 +6,6 @@ aliases: /oh.html
 author: "Pascal Michaillat"
 hidemeta: true
 description: "In the Spring 2023, I am on leave at the University of California–San Diego. I will therefore not hold regular office hours."
-ShowPostNavLinks: false
 
 ---
 

@@ -85,6 +85,8 @@ params:
               url: /courses/
             # - name: Code
             #   url: /code/
+            - name: Newsletter
+              url: https://pmichaillat.substack.com
     socialIcons:
     - name: CV
       url: "/cv.pdf"

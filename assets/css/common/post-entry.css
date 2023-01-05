@@ -11,7 +11,7 @@
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 7;
 }
 
 .first-entry .entry-header h1 {
@@ -22,7 +22,7 @@
 .first-entry .entry-content {
     margin: 14px 0;
     font-size: 16px;
-    -webkit-line-clamp: 4;
+    -webkit-line-clamp: 7;
 }
 
 .first-entry .entry-footer {
@@ -70,7 +70,7 @@
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 6;
+    -webkit-line-clamp: 7;
 }
 
 .entry-footer {

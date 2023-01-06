@@ -63,7 +63,7 @@ params:
     ShowWordCount: false
     UseHugoToc: true
     comments: false
-    images: ["/apple-touch-icon.png"]
+    # images: ["/apple-touch-icon.png"]
     math: true
     mainSections:
       - papers

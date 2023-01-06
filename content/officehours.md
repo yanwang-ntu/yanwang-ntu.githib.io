@@ -2,7 +2,9 @@
 title: "Office Hours"
 date: 2022-12-24
 url: /officehours/
-aliases: /oh.html
+aliases:
+    - /oh.html
+    - /contact.html
 author: "Pascal Michaillat"
 hidemeta: true
 description: "Schedule and location for my office hours in Winter and Spring 2023."

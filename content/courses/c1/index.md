@@ -202,9 +202,19 @@ This section reviews basic facts about the labor market and unemployment in the 
 
 #### Readings:
 
-- [Elsby, Michaels, Ratner](https://doi.org/10.1257/jel.53.3.571) -- This survey reviews the empirical properties of the Beveridge curve and possible microfoundations for it.
+- [Elsby, Michaels, Ratner (2015)](https://doi.org/10.1257/jel.53.3.571) -- This survey reviews the empirical properties of the Beveridge curve and possible microfoundations for it.
 - [Shimer (2012)](https://doi.org/10.1016/j.red.2012.02.001) -- This paper shows that in the United States, unemployment fluctuations are caused by fluctuations in the job-finding rate and not fluctuations in the job-separation rate.
 - [Petrongolo, Pissarides (2001)](https://doi.org/10.1257/jel.39.2.390) -- This survey reviews the microfoundations of the matching function, its empirical properties, and its applications.
+
+<!-- #### Homework:
+
+- [Problem set 1](ps1.md)
+- [Problem set 2](ps1/)
+- [Problem set 1](/ps1/)
+- [Problem set 1](ps1)
+- [Problem set 2](/c1/ps1/)
+- [Problem set 1](/c1/ps1) -->
+
 
 ## Matching model of the labor market
 
@@ -237,6 +247,7 @@ This section introduces the matching model of the labor market. This is the mode
 - [Kuhn (1992)](https://www.hup.harvard.edu/catalog.php?isbn=9780674171039) -- This book studies the Copernican Revolution in astronomy and in the process isolates the three properties of a good model: economy, accuracy, and fruitfulness.
 - [Pissarides (2001, chapter 1)](https://mitpress.mit.edu/9780262533980/equilibrium-unemployment-theory/) -- This chapter introduces the standard version of the labor-market matching model.
 - [Rogerson, Shimer, Wright (2005)](https://doi.org/10.1257/002205105775362014) -- This survey reviews a range of matching models and search models.
+
 
 ## Wage functions
 
@@ -389,7 +400,7 @@ Over the business cycle, fluctuations in labor demand generate fluctuations in u
 
 - [Neumark, Shirley (2022)]( https://doi.org/10.1111/irel.12306) -- This survey reviews US evidence on the effect of the minimum wage on employment. 
 - [Michaillat (2014)](/2/) -- This paper obtains the results that in a matching model with job rationing, the public-employment multiplier is positive but less than one, and the multiplier is larger when the unemployment rate is higher. 
-- [Auerbach, Gorodnichenko (2010)](https://doi.org/10.1257/pol.4.2.1) -- This paper finds that in the United States, government multipliers are larger when the unemployment rate is higher.
+- [Auerbach, Gorodnichenko (2012)](https://doi.org/10.1257/pol.4.2.1) -- This paper finds that in the United States, government multipliers are larger when the unemployment rate is higher.
 
 ## Unemployment insurance
 

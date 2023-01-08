@@ -110,6 +110,10 @@ params:
     cover:
         hiddenInList: true
         hiddenInSingle: true
+    label:
+      text: "Pascal Michaillat"
+      icon: /favicon.ico
+      iconHeight: 16
 
 markup:
     highlight:

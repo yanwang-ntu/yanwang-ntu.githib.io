@@ -28,13 +28,13 @@ menu:
         #   weight: 5
         - name: Tags
           url: /tags/
-          weight: 4
+          weight: 3
         # - name: Search
         #   url: search/
         #   weight: 11
-        # - name: Archive
-        #   url: archives
-        #   weight: 7
+        - name: Archive
+          url: /archive/
+          weight: 4
 
 outputs:
     home:
@@ -65,13 +65,13 @@ params:
     comments: false
     # images: ["/apple-touch-icon.png"]
     math: true
-    mainSections:
-      - papers
-      - courses
+    # mainSections:
+    #   - papers
+    #   - courses
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "Associate Professor of Economics at Brown University. Unemployment, economic slack, business cycles, macroeconomic policy, and some metascience."
+          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and on metascience. In January–June 2023, I am visiting the Department of Economics at the University of California–San Diego."
           imageUrl: "/picture.jpeg"
           imageWidth: 140
           imageHeight: 140
@@ -79,8 +79,6 @@ params:
           buttons:
             - name: Papers
               url: /papers/
-            # - name: Book
-            #   url: papers/
             - name: Courses
               url: /courses/
             # - name: Code
@@ -92,18 +90,21 @@ params:
       url: "/cv.pdf"
     - name: Google Scholar
       url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-    - name: Email
-      url: "mailto:pascalmichaillat@gmail.com"
-    - name: Zoom
-      url: "https://brown.zoom.us/my/pascalmichaillat"
-    - name: Office Hours
-      url: /officehours/
     - name: Substack
       url: "https://pmichaillat.substack.com"
     - name: GitHub
       url: "https://github.com/pmichaillat"
     - name: YouTube
       url: "https://www.youtube.com/@pmichaillat"
+    - name: Email
+      url: "mailto:pascalmichaillat@brown.edu"
+    - name: Office Hours
+      url: /officehours/
+    - name: Zoom
+      url: "https://brown.zoom.us/my/pascalmichaillat"
+    - name: Location
+      url: /location/
+
     assets:
         disableHLJS: true
         disableScrollBarStyle: true

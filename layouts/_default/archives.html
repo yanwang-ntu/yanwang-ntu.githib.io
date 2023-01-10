@@ -1,15 +1,16 @@
 {{- define "main" }}
 
 <header class="page-header">
-  <h1>{{ .Title }}</h1>
+<!--   <h1>{{ .Title }}</h1>
   {{- if .Description }}
   <div class="post-description">
     {{ .Description }}
   </div>
-  {{- end }}
+  {{- end }} -->
 </header>
 
-{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- $pages := site.RegularPages}}
+<!-- where "Type" "in" site.Params.mainSections  -->
 
 {{- if site.Params.ShowAllPagesInArchive }}
 {{- $pages = site.RegularPages }}

@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/officehours/</link>
-      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/officehours/</guid>
-      <description>Schedule and location for my office hours in Winter and Spring 2023.</description>
-    </item>
-    
-    <item>
       <title>Economic Slack</title>
       <link>https://pascalmichaillat.org/c2/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
@@ -57,7 +48,7 @@
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/c1/</guid>
-      <description>This graduate course presents matching models of unemployment and uses them to study unemployment fluctuations, job rationing, and labor-market policies.</description>
+      <description>This graduate course presents matching models of unemployment and uses them to study unemployment fluctuations, job rationing, and labor market policies.</description>
     </item>
     
     <item>
@@ -168,6 +159,24 @@
       <description>This paper proposes a matching model of the labor market with job rationing: unemployment does not disappear in the absence of matching frictions.</description>
     </item>
     
+    
+    <item>
+      <title>Office and Mailing Address</title>
+      <link>https://pascalmichaillat.org/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/location/</guid>
+      <description>My current office at UC San Diego, permanent office at Brown University, and mailing address.</description>
+    </item>
+    
+    <item>
+      <title>Office Hours</title>
+      <link>https://pascalmichaillat.org/officehours/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/officehours/</guid>
+      <description>Schedule and location for my office hours in Winter and Spring 2023.</description>
+    </item>
     
     
   </channel>

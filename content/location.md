@@ -6,13 +6,13 @@ url: /location/
 aliases:
     - /contact.html
 hidemeta: true
-description: "My office address and mailing address."
+description: "My current office at UC San Diego, permanent office at Brown University, and mailing address."
 
 ---
 
 ---
 
-- At UC San Diego (January--June 2023): office #220, Economics Building
+- At the University of California--San Diego: office #220, Economics Building
 
 - At Brown University: office #201, 70 Waterman Street
 

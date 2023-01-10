@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pascalmichaillat.org/officehours/</loc>
-    <lastmod>2022-12-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/tags/business-cycles/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -122,10 +119,14 @@
     <loc>https://pascalmichaillat.org/1/</loc>
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/search/</loc>
-  </url><url>
-    <loc>https://pascalmichaillat.org/archives/</loc>
+    <loc>https://pascalmichaillat.org/archive/</loc>
   </url><url>
     <loc>https://pascalmichaillat.org/code/</loc>
+  </url><url>
+    <loc>https://pascalmichaillat.org/location/</loc>
+  </url><url>
+    <loc>https://pascalmichaillat.org/officehours/</loc>
+  </url><url>
+    <loc>https://pascalmichaillat.org/search/</loc>
   </url>
 </urlset>

@@ -1,0 +1,105 @@
+\documentclass[12pt,xcolor={dvipsnames},hyperref={pdftex,pdfpagemode=UseNone,hidelinks,pdfdisplaydoctitle=true},usepdftitle=false]{beamer}
+\usepackage{presentation,math}
+\def\pdf{figures.pdf}
+\hypersetup{pdftitle={Presentation Title}}
+
+\begin{document}
+
+\title{Presentation Title}
+\information{Author}%
+{Date}%
+{https://github.com/pmichaillat/latex-presentation}
+\frame[plain]{\titlepage}
+
+\begin{frame}
+\frametitle{Slide title}
+\begin{itemize}
+\item lorem ipsum dolor sit amet
+\item consectetur adipiscing elit
+\item sed do eiusmod tempor incididunt
+\begin{itemize}
+\item  ut labore et dolore magna aliqua
+\item ut enim ad minim veniam
+\end{itemize}
+\item quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+\item duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{A text slide with alerts}
+\begin{enumerate}
+\item sed do eiusmod tempor incididunt
+\begin{itemize}
+\item ut labore et dolore magna aliqua
+\item ut enim ad minim veniam
+\end{itemize}
+\item ut enim \al{ad minim veniam}
+\item quis nostrud exercitation \tal{2}{ullamco} laboris nisi ut aliquip ex ea commodo consequat
+\item[\then] duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+\end{enumerate}
+\end{frame}
+
+
+\begin{frame}
+\heading{Section title}
+\end{frame}
+
+\begin{frame}
+\frametitle{Slide with graph}
+\includegraphics[scale=\sfig,page=4]{\pdf}%
+\end{frame}
+
+\begin{frame}
+\frametitle{Several graphs \only<1>{(use title as caption)}}
+\includegraphics<1>[scale=\sfig,page=1]{\pdf}%
+\includegraphics<2>[scale=\sfig,page=2]{\pdf}%
+\includegraphics<3>[scale=\sfig,page=3]{\pdf}%
+\includegraphics<4>[scale=\sfig,page=5]{\pdf}%
+\end{frame}
+
+\begin{frame}
+\frametitle{Slide with math}
+\begin{itemize}
+\item self-employed household $j \in \R$ maximizes utility
+\begin{equation*}
+\int_{0}^{\infty}e^{-\d t} \bs{\ln{c_{j}(t)}+ \Uc\of{\frac{b_{j}(t)}{p(t)}-\frac{\Bc(t)}{p(t)}}- \frac{\z}{2} h_{j}(t) -\frac{\g}{2} \pi_{j}(t)^2}dt
+\end{equation*}
+\vspace{-0.5cm}
+\begin{itemize}
+\item consumption index: $c_{j}(t) = \bs{\int_{0}^{1}c_{jk}(t)^{(\e-1)/\e}\,dk}^{\e/(\e-1)}$
+\item aggregate wealth:  $\Bc(t) = \int_{0}^{1} b_{j}(t)\,dj$
+\item inflation: $\pi_{j}(t) = \dot{p}_{j}(t)/p_{j}(t)$
+\end{itemize}
+\item subject to budget constraint:
+\begin{equation*}
+\dot{b}_{j}(t) = i(t) b_{j}(t) + p_{j}(t)  y_{j}(t) - \int_0^1 p_{k}(t) c_{jk}(t)\,dk
+\end{equation*}
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\heading{Another section title}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Slide with table and alerts}
+\begin{table}
+\begin{tabular*}{\textwidth}{@{\extracolsep\fill}lccc}
+\toprule
+ & $m < 0$ & $m = 0$ & $m > 0$\\
+\midrule
+$u>u^{*}$  & $\tral{2}{g/c<(g/c)^{*}}$  & $\tbal{1}{g/c=(g/c)^{*}}$ & $\tgal{3}{g/c>(g/c)^{*}}$ \\
+$u=u^{*}$ & $\tbal{1}{g/c=(g/c)^{*}}$ & $\tbal{1}{g/c=(g/c)^{*}}$  & $\tbal{1}{g/c=(g/c)^{*}}$ \\ 
+$u<u^{*}$ & $\tgal{3}{g/c>(g/c)^{*}}$ & $\tbal{1}{g/c=(g/c)^{*}}$ & $\tral{2}{g/c<(g/c)^{*}}$ \\ 
+\midrule
+$\a = \b$ & $\f=\m$ & $\o=\t$  & $\Q=\N$ \\ 
+\bottomrule
+\end{tabular*}
+\end{table}
+\end{frame}
+
+\lastslide
+
+\end{document}

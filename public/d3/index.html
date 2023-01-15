@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>LaTeX Commands to Typeset and Read Math | Pascal Michaillat</title>
+<title>LaTeX Commands to Typeset Math | Pascal Michaillat</title>
 <meta name="keywords" content="">
-<meta name="description" content="This style file collects LaTeX commands that make math easy to typeset and easy to read.">
+<meta name="description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.">
 <meta name="author" content="Pascal Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d3/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.aae750fc530aafab1416388a0668909ac530bdc6b2c9d86947192bfcf7edd5f6.css" integrity="sha256-qudQ/FMKr6sUFjiKBmiQmsUwvcayydhpRxkr/Pft1fY=" rel="preload stylesheet" as="style">
@@ -26,18 +26,18 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="LaTeX Commands to Typeset and Read Math" />
-<meta property="og:description" content="This style file collects LaTeX commands that make math easy to typeset and easy to read." />
+</noscript><meta property="og:title" content="LaTeX Commands to Typeset Math" />
+<meta property="og:description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://pascalmichaillat.org/d3/" />
 <meta property="og:image" content="https://pascalmichaillat.org/d3.png" /><meta property="article:section" content="design" />
-<meta property="article:published_time" content="2023-01-01T00:00:00+00:00" />
-<meta property="article:modified_time" content="2023-01-01T00:00:00+00:00" />
+<meta property="article:published_time" content="2022-11-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-11-09T00:00:00+00:00" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="https://pascalmichaillat.org/d3.png" />
-<meta name="twitter:title" content="LaTeX Commands to Typeset and Read Math"/>
-<meta name="twitter:description" content="This style file collects LaTeX commands that make math easy to typeset and easy to read."/>
+<meta name="twitter:title" content="LaTeX Commands to Typeset Math"/>
+<meta name="twitter:description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them."/>
 <meta name="twitter:site" content="@pmichaillat"/>
 
 
@@ -55,7 +55,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "LaTeX Commands to Typeset and Read Math",
+      "name": "LaTeX Commands to Typeset Math",
       "item": "https://pascalmichaillat.org/d3/"
     }
   ]
@@ -65,17 +65,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "LaTeX Commands to Typeset and Read Math",
-  "name": "LaTeX Commands to Typeset and Read Math",
-  "description": "This style file collects LaTeX commands that make math easy to typeset and easy to read.",
+  "headline": "LaTeX Commands to Typeset Math",
+  "name": "LaTeX Commands to Typeset Math",
+  "description": "This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.",
   "keywords": [
     
   ],
-  "articleBody": "Download math.sty – This LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project. Goal The commands in math.sty are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.\nHow to use Add math.sty to the folder with your LaTeX files Insert \\usepackage{math} in the preamble of your document Use the commands defined in math.sty – Standard math commands should not be affected so you can continue to use those too Some useful commands Statistical operators Expectation operator:\n\\E produces $\\mathbb{E}$ \\E[X] produces $\\mathbb{E}_X$ \\E{Y} produces $\\mathbb{E}[Y]$ \\E[X]{Y} produces $\\mathbb{E}_X[Y]$ Probability operator:\n\\P produces $\\mathbb{P}$ \\P[X] produces $\\mathbb{P}_X$ \\P{Y} produces $\\mathbb{P}[Y]$ \\P[X]{Y} produces $\\mathbb{P}_X[Y]$ Greek letters Lower-case Greek letters are reduced to one character: \\a gives $\\alpha$ and so on Upper-case Greek letters are reduced to one character: \\L gives $\\Lambda$ and so on Calligraphic letters Calligraphic letters are reduced to two characters: \\Ac gives $\\mathcal{A}$ and so on Brackets \\bp{x} gives $(x)$ with appropriately scaling parenthesis \\bs{x} gives $[x]$ with appropriately scaling square brackets \\bc{x} gives ${x}$ with appropriately scaling curly brackets \\abs{x} gives $|x|$ with appropriately scaling straight brackets Derivatives \\pd{x}{y} gives the partial derivative of $x$ with respect to $y$: $\\frac{\\partial x}{\\partial y}$ \\pdx{x}{y} gives the same partial derivative in text mode: $\\partial x/\\partial y$ \\pdl{x}{y} gives the partial elasticity of $x$ with respect to $y$: $\\frac{\\partial\\ln x}{\\partial\\ln y}$ \\od{x}{y} gives the ordinary derivative of $x$ with respect to $y$: $\\frac{d x}{d y}$ \\odx{x}{y} gives the same ordinary derivative in text mode: $d x/d y$ \\odl{x}{y} gives the ordinary elasticity of $x$ with respect to $y$: $\\frac{d\\ln x}{d\\ln y}$ Other commands There are many other commands to be discovered in the file math.sty. What they produce is hopefully self-explanatory.\n",
-  "wordCount" : "353",
+  "articleBody": "Download math.sty – LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project. Goal The commands in math.sty are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.\nHow to use Add math.sty to the folder with your LaTeX files Insert \\usepackage{math} in the preamble of your document Use the commands defined in math.sty – Standard math commands should not be affected so you can continue to use those too Some useful commands Statistical operators Expectation operator:\n\\E produces $\\mathbb{E}$ \\E[X] produces $\\mathbb{E}_X$ \\E{Y} produces $\\mathbb{E}[Y]$ \\E[X]{Y} produces $\\mathbb{E}_X[Y]$ Probability operator:\n\\P produces $\\mathbb{P}$ \\P[X] produces $\\mathbb{P}_X$ \\P{Y} produces $\\mathbb{P}[Y]$ \\P[X]{Y} produces $\\mathbb{P}_X[Y]$ Greek letters Lower-case Greek letters are reduced to one character: \\a gives $\\alpha$ and so on Upper-case Greek letters are reduced to one character: \\L gives $\\Lambda$ and so on Calligraphic letters Calligraphic letters are reduced to two characters: \\Ac gives $\\mathcal{A}$ and so on Brackets \\bp{x} gives $(x)$ with appropriately scaling parenthesis \\bs{x} gives $[x]$ with appropriately scaling square brackets \\bc{x} gives ${x}$ with appropriately scaling curly brackets \\abs{x} gives $|x|$ with appropriately scaling straight brackets Derivatives \\pd{x}{y} gives the partial derivative of $x$ with respect to $y$: $\\frac{\\partial x}{\\partial y}$ \\pdx{x}{y} gives the same partial derivative in text mode: $\\partial x/\\partial y$ \\pdl{x}{y} gives the partial elasticity of $x$ with respect to $y$: $\\frac{\\partial\\ln x}{\\partial\\ln y}$ \\od{x}{y} gives the ordinary derivative of $x$ with respect to $y$: $\\frac{d x}{d y}$ \\odx{x}{y} gives the same ordinary derivative in text mode: $d x/d y$ \\odl{x}{y} gives the ordinary elasticity of $x$ with respect to $y$: $\\frac{d\\ln x}{d\\ln y}$ Other commands There are many other commands to be discovered in the file math.sty. What they produce is hopefully self-explanatory.\n",
+  "wordCount" : "352",
   "inLanguage": "en",
-  "image":"https://pascalmichaillat.org/d3.png","datePublished": "2023-01-01T00:00:00Z",
-  "dateModified": "2023-01-01T00:00:00Z",
+  "image":"https://pascalmichaillat.org/d3.png","datePublished": "2022-11-09T00:00:00Z",
+  "dateModified": "2022-11-09T00:00:00Z",
   "author":{
     "@type": "Person",
     "name": "Pascal Michaillat"
@@ -183,17 +183,17 @@
   <header class="post-header">
     
     <h1 class="post-title">
-      LaTeX Commands to Typeset and Read Math
+      LaTeX Commands to Typeset Math
     </h1>
 
     
-    <div class="post-meta"><span title='2023-01-01 00:00:00 +0000 UTC'>January 2023</span>&ensp;&middot;&ensp;Pascal Michaillat&ensp;&middot;&ensp;<a href="https://github.com/pmichaillat/latex-math" rel="noopener noreferrer" target="_blank">GitHub repository</a>
+    <div class="post-meta"><span title='2022-11-09 00:00:00 +0000 UTC'>November 2022</span>&ensp;&middot;&ensp;Pascal Michaillat&ensp;&middot;&ensp;<a href="https://github.com/pmichaillat/latex-math" rel="noopener noreferrer" target="_blank">GitHub repository</a>
 
 </div>
   </header> 
   <div class="post-content"><h2 id="download">Download</h2>
 <ul>
-<li><a href="/math.sty">math.sty</a> &ndash; This LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project.</li>
+<li><a href="/math.sty">math.sty</a> &ndash; LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project.</li>
 </ul>
 <h2 id="goal">Goal</h2>
 <p>The commands in <code>math.sty</code> are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.</p>

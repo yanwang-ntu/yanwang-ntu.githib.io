@@ -16,30 +16,39 @@
     </item>
     
     <item>
-      <title>Minimalist Template for Academic Papers</title>
-      <link>https://pascalmichaillat.org/d2/</link>
-      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d2/</guid>
-      <description>This template produces minimalist academic papers with LaTeX.</description>
-    </item>
-    
-    <item>
-      <title>LaTeX Commands to Typeset and Read Math</title>
-      <link>https://pascalmichaillat.org/d3/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This style file collects LaTeX commands that make math easy to typeset and easy to read.</description>
-    </item>
-    
-    <item>
       <title>Economic Slack</title>
       <link>https://pascalmichaillat.org/c2/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/c2/</guid>
       <description>This graduate course presents matching models of economic slack and uses them to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
+    </item>
+    
+    <item>
+      <title>Minimalist Template for Academic Papers</title>
+      <link>https://pascalmichaillat.org/d2/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d2/</guid>
+      <description>This template produces minimalist academic papers with LaTeX.</description>
+    </item>
+    
+    <item>
+      <title>LaTeX Commands to Typeset Math</title>
+      <link>https://pascalmichaillat.org/d3/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d3/</guid>
+      <description>This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.</description>
+    </item>
+    
+    <item>
+      <title>LaTeX Bibliography Style File</title>
+      <link>https://pascalmichaillat.org/d4/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d4/</guid>
+      <description>This style file formats academic bibliographies stored in BibTeX files and produced by LaTeX documents.</description>
     </item>
     
     <item>

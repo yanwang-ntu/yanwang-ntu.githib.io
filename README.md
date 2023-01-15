@@ -1,0 +1,25 @@
+# Source code to https://pascalmichaillat.org
+
+This repository contains the source code to my [academic website](https://pascalmichaillat.org). The source code is publicly available as a template repository so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The source code might also be helpful for anyone who wishes to learn about Hugo or wants to recreate specific features for their own site.
+
+## Tools used
+
+- [Hugo](https://gohugo.io) – A very fast, open-source static website generator 
+- [Papermod](https://github.com/adityatelange/hugo-PaperMod) – A minimalist, fast, and flexible Hugo theme
+- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) –  The website is hosted in a repository on [GitHub](https://github.com) and produced from there using [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+- [Google Domains](https://domains.google) – A simple way to register your domain name and [link it to your website](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) 
+
+## Key features
+
+I modified the original theme to be more adapted to an academic website:
+
+- Added social icons specific to academia: icon for office hours, icon for Zoom, and icon for Substack. Also improved the social icon for Google Scholar.
+- Modified footer to have easy access to email address and newsletter
+- Adjusted metadata for the academic context (date format, permalink on single pages)
+- Organized pages in three categories: papers, courses, and design projects. It is easy to add new categories from here (code, data, etc.). The three categories are available from any page through the menu and from the home page through buttons.
+- Selected two automatically generated pages to add to the menu:
+    + `Tags`: a list of all the keywords for papers and courses
+    + `Archive`: a chronological list of all papers, courses, and design projects
+    + A search page could also easily be added
+- Developed templates for paper pages and course pages
+- Personalized color scheme and general appearance

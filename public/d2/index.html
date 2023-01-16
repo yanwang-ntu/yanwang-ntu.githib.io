@@ -71,8 +71,8 @@
   "keywords": [
     
   ],
-  "articleBody": "This template produces minimalist academic papers with LaTeX.\nDownload paper.tex – Skeleton for the paper. Fill it out with the content of your paper. paper.sty – LaTeX style file collecting all the formatting commands. Must be included in the same folder as paper.tex. math.sty – LaTeX style file collecting many mathematical commands. Must be included in the same folder as paper.tex. This file is described on this page. bibliography.bst – LaTeX style file to format academic bibliographies. Must be included in the same folder as paper.tex. This file is described on this page. paper.pdf – PDF file produced by compiling paper.tex (with PDFTeX; requires figures and bibliography). This file is not required to use the template; it only illustrate the output of the template. Key features The font for text, roman math, and numbers is Source Serif Pro. The font for Greek and calligraphic math is Euler. No colors are used in the text (only black and gray) to reduce distraction. Colors are reserved for graphs. Margins, spacing, and font size are set for comfortable reading. Reference As much as possible the template follows Matthew Butterick’s wonderful typographical advice in Practical Typography.\n",
-  "wordCount" : "192",
+  "articleBody": "This template produces minimalist academic papers with LaTeX.\nDownload paper.tex – Skeleton for the paper. Fill it out with the content of your paper. paper.sty – LaTeX style file collecting all the formatting commands. Must be included in the same folder as paper.tex. figures.pdf – PDF file with all the figures included in the presentation. Replace the figures with your own figures—one per page. An easy way to do that is to create a Keynote or Powerpoint presentation; insert each figure as a slide background; and save the resulting presentation as PDF. With this method, all the figures have the exact same size. It is also possible to use Keynote or Powerpoint to annotate easily the figures created with an external software (Matlab, R, and so on). bibliography.bib – BibTeX file with all the references included in the paper. Replace the references with your own. bibliography.bst – LaTeX style file to format academic bibliographies. Must be included in the same folder as paper.tex. This file is described on this page. paper.pdf – PDF file produced by compiling paper.tex (with PDFTeX; requires figures and bibliography). This file is not required to use the template; it only illustrate the output of the template. Additional files for online appendix The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix.\nappendix.tex – Skeleton of the online appendix. Fill it out with the content of your online appendix. The appendix must be in the same folder as the paper so the equation and section labels from the paper can be used in the online appendix. appendix.sty – LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as appendix.tex. This style file must be used in conjonction with paper.sty, which must also be included in the folder. appendix.pdf – PDF file produced by compiling appendix.tex (with PDFTeX). This file is not required to use the template; it only illustrate the output of the template. Key features The font for text, roman math, and numbers is Source Serif Pro. The font for Greek and calligraphic math is Euler. No colors are used in the text (only black) to reduce distraction, and so papers print well. Colors are reserved for graphs. Margins, spacing, and font size are set for comfortable reading. Formating is also specified for appendix and online appendix. Reference As much as possible the template follows Matthew Butterick’s wonderful typographical advice in Practical Typography.\n",
+  "wordCount" : "423",
   "inLanguage": "en",
   "image":"https://pascalmichaillat.org/d2.png","datePublished": "2022-11-10T00:00:00Z",
   "dateModified": "2022-11-10T00:00:00Z",
@@ -197,19 +197,26 @@
 <ul>
 <li><a href="/paper.tex">paper.tex</a> &ndash;  Skeleton for the paper. Fill it out with the content of your paper.</li>
 <li><a href="/paper.sty">paper.sty</a> &ndash;  LaTeX style file collecting all the formatting commands. Must be included in the same folder as <code>paper.tex</code>.</li>
-<li><a href="/math.sty">math.sty</a> &ndash; LaTeX style file collecting many mathematical commands. Must be included in the same folder as <code>paper.tex</code>. This file is described <a href="/d3/">on this page</a>.</li>
+<li><a href="/figures.pdf">figures.pdf</a> – PDF file with all the figures included in the presentation. Replace the figures with your own figures&mdash;one per page. An easy way to do that is to create a Keynote or Powerpoint presentation; insert each figure as a slide background; and save the resulting presentation as PDF. With this method, all the figures have the exact same size. It is also possible to use Keynote or Powerpoint to annotate easily the figures created with an external software (Matlab, R, and so on).</li>
+<li><a href="/bibliography.bib">bibliography.bib</a> – BibTeX file with all the references included in the paper. Replace the references with your own.</li>
 <li><a href="/bibliography.bst">bibliography.bst</a> &ndash; LaTeX style file to format academic bibliographies. Must be included in the same folder as <code>paper.tex</code>. This file is described <a href="/d4/">on this page</a>.</li>
 <li><a href="/paper.pdf">paper.pdf</a> &ndash; PDF file produced by compiling <code>paper.tex</code> (with PDFTeX; requires figures and bibliography). This file is not required to use the template; it only illustrate the output of the template.</li>
 </ul>
-<!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
+<h2 id="additional-files-for-online-appendix">Additional files for online appendix</h2>
+<p>The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix.</p>
+<ul>
+<li><a href="/appendix.tex">appendix.tex</a> –  Skeleton of the online appendix. Fill it out with the content of your online appendix. The appendix must be in the same folder as the paper so the equation and section labels from the paper can be used in the online appendix.</li>
+<li><a href="/appendix.sty">appendix.sty</a> –  LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as <code>appendix.tex</code>. This style file must be used in conjonction with <code>paper.sty</code>, which must also be included in the folder.</li>
+<li><a href="/appendix.pdf">appendix.pdf</a> – PDF file produced by compiling <code>appendix.tex</code> (with PDFTeX). This file is not required to use the template; it only illustrate the output of the template.</li>
+</ul>
 <h2 id="key-features">Key features</h2>
 <ul>
 <li>The font for text, roman math, and numbers is <a href="https://fonts.google.com/specimen/Source+Serif+Pro">Source Serif Pro</a>.</li>
 <li>The font for Greek and calligraphic math is <a href="http://luc.devroye.org/fonts-26139.html">Euler</a>.</li>
-<li>No colors are used in the text (only black and gray) to reduce distraction.</li>
+<li>No colors are used in the text (only black) to reduce distraction, and so papers print well.</li>
 <li>Colors are reserved for graphs.</li>
 <li>Margins, spacing, and font size are set for comfortable reading.</li>
+<li>Formating is also specified for appendix and online appendix.</li>
 </ul>
 <h2 id="reference">Reference</h2>
 <p>As much as possible the template follows Matthew Butterick&rsquo;s wonderful typographical advice in <a href="https://practicaltypography.com">Practical Typography</a>.</p>

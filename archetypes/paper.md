@@ -24,7 +24,7 @@ editPost:
 
 - [Paper](/paper.pdf)
 - [Online appendix](/appendix.pdf)
-- [Code & data](https://github.com/paper)
+- [Code and data](https://github.com/paper)
 
 ---
 

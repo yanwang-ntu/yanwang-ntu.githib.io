@@ -112,6 +112,9 @@ params:
       iconHeight: 16
 
 markup:
+    goldmark:
+        renderer:
+            unsafe: true
     highlight:
         guessSyntax: true
         style: xcode

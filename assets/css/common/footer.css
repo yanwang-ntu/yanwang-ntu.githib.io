@@ -23,12 +23,9 @@
 
 .footer a {
     color: var(--secondary);
-/*    color: inherit;*/
-/*    border-bottom: 1px solid var(--secondary);*/
 }
 
 .footer a:hover {
-/*    border-bottom: 1px solid var(--primary);*/
     border-bottom: 1px solid var(--darkpurple);
 }
 
@@ -53,7 +50,6 @@
 
 .footer a:hover,
 .top-link:hover {
-/*    color: var(--primary);*/
     color: var(--secondary);
 }
 

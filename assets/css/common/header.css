@@ -66,14 +66,8 @@ body:not(.dark) #sun {
     font-weight: 400;
 }
 
-/*#menu a:hover {
-    font-weight: 400;
-    border-bottom: 2px solid var(--darkpurple);
-}*/
-
 #menu .active {
-/*    font-weight: 400;*/
-    border-bottom: 2px solid var(--darkpurple);# currentColor
+    border-bottom: 2px solid var(--darkpurple);
 }
 
 .lang-switch li,

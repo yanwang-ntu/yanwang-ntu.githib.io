@@ -52,12 +52,12 @@
     </item>
     
     <item>
-      <title>LaTeX Bibliography Style File</title>
+      <title>LaTeX Style File to Format Bibliographies</title>
       <link>https://pascalmichaillat.org/d4/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d4/</guid>
-      <description>This style file formats academic bibliographies stored in BibTeX files and produced by LaTeX documents.</description>
+      <description>This style file formats bibliographies stored in BibTeX files and produced by LaTeX documents.</description>
     </item>
     
     <item>

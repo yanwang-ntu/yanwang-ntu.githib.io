@@ -12,6 +12,20 @@ social:
 taxonomies:
     tag: tags
 
+mediaTypes:
+  text/tex:
+    suffixes:
+    - tex
+  text/bib:
+    suffixes:
+    - bib  
+  text/sty:
+    suffixes:
+    - sty
+  text/bst:
+    suffixes:
+    - bst
+
 menu:
     main:
         - name: Papers

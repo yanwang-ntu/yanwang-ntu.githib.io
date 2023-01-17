@@ -23,24 +23,12 @@ menu:
         - name: Design
           url: /design/
           weight: 3
-        # - name: Newsletter
-        #   url: https://pmichaillat.substack.com
-        #   weight: 5
         - name: Tags
           url: /tags/
           weight: 4
-        # - name: Search
-        #   url: search/
-        #   weight: 11
         - name: Archive
           url: /archive/
           weight: 5
-
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
 
 params:
     description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
@@ -63,15 +51,11 @@ params:
     ShowWordCount: false
     UseHugoToc: true
     comments: false
-    # images: ["/apple-touch-icon.png"]
     math: true
-    # mainSections:
-    #   - papers
-    #   - courses
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and on metascience. In January–June 2023, I am visiting the Department of Economics at the University of California–San Diego."
+          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and on science-related topics. In January–June 2023, I am visiting the Department of Economics at the University of California–San Diego."
           imageUrl: "/picture.jpeg"
           imageWidth: 140
           imageHeight: 140
@@ -83,8 +67,6 @@ params:
               url: /courses/
             - name: Design
               url: /design/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
     socialIcons:
     - name: CV
       url: "/cv.pdf"
@@ -124,7 +106,7 @@ markup:
         ordered: false
         startLevel: 2
 
-# number of characters here:
-# title: 70
-# description: 120–155
-# summary: 270
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 270

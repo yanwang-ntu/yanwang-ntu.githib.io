@@ -1,26 +1,4 @@
----
-title: "Minimalist Template for Academic Presentations" 
-date: 2023-01-13
-url: /d1/
-# tags: ["differential equations","optimal control"]
-author: "Pascal Michaillat"
-description: "This template produces a minimalist academic presentation with LaTeX Beamer." 
-summary: "This template produces a minimalist academic presentation with LaTeX Beamer." 
-cover:
-    image: "/d1.png"
-    alt: "Presentation slide produced with template"
-    relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/latex-presentation"
-    Text: "GitHub repository"
-# disableAnchoredHeadings: false
- 
----
-
 This template produces minimalist academic presentations with LaTeX Beamer. [This newsletter post](https://pmichaillat.substack.com/p/a-minimalist-template-for-academic) explains the design choices made in the template. [This presentation](/d1.pdf) illustrates the output of the template. 
-
-[This file](/test.md) illustrates the output of the template. 
-
 
 ## Download
 

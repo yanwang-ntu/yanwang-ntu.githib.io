@@ -1,6 +1,356 @@
-<!doctype html><html lang=en dir=auto><head><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name=robots content="index, follow"><title>LaTeX Commands to Typeset Math | Pascal Michaillat</title><meta name=keywords content><meta name=description content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them."><meta name=author content="Pascal Michaillat"><link rel=canonical href=https://pascalmichaillat.org/d3/><link crossorigin=anonymous href=/assets/css/stylesheet.2dcf8bd2fa1ad69d0aeadda831c9aad67692f63c8a7b04953aa9b1875e9ea0cb.css integrity="sha256-Lc+L0voa1p0K6t2oMcmq1naS9jyKewSVOqmxh16eoMs=" rel="preload stylesheet" as=style><link rel=icon href=https://pascalmichaillat.org/favicon.ico><link rel=icon type=image/png sizes=16x16 href=https://pascalmichaillat.org/favicon-16x16.png><link rel=icon type=image/png sizes=32x32 href=https://pascalmichaillat.org/favicon-32x32.png><link rel=apple-touch-icon href=https://pascalmichaillat.org/apple-touch-icon.png><meta name=theme-color content="#2e2e33"><meta name=msapplication-TileColor content="#2e2e33"><noscript><style>#theme-toggle,.top-link{display:none}</style></noscript><meta property="og:title" content="LaTeX Commands to Typeset Math"><meta property="og:description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them."><meta property="og:type" content="article"><meta property="og:url" content="https://pascalmichaillat.org/d3/"><meta property="og:image" content="https://pascalmichaillat.org/d3.png"><meta property="article:section" content="design"><meta property="article:published_time" content="2022-11-09T00:00:00+00:00"><meta property="article:modified_time" content="2022-11-09T00:00:00+00:00"><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://pascalmichaillat.org/d3.png"><meta name=twitter:title content="LaTeX Commands to Typeset Math"><meta name=twitter:description content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them."><meta name=twitter:site content="@pmichaillat"><script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Design","item":"https://pascalmichaillat.org/design/"},{"@type":"ListItem","position":2,"name":"LaTeX Commands to Typeset Math","item":"https://pascalmichaillat.org/d3/"}]}</script><script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"LaTeX Commands to Typeset Math","name":"LaTeX Commands to Typeset Math","description":"This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.","keywords":[],"articleBody":"This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.\nDownload math.sty – LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project. Goal The commands in math.sty are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.\nHow to use Add math.sty to the folder with your LaTeX files Insert \\usepackage{math} in the preamble of your document Use the commands defined in math.sty – Standard math commands should not be affected so you can continue to use those too Some useful commands Statistical operators Expectation operator:\n\\E produces $\\mathbb{E}$ \\E[X] produces $\\mathbb{E}_X$ \\E{Y} produces $\\mathbb{E}[Y]$ \\E[X]{Y} produces $\\mathbb{E}_X[Y]$ Probability operator:\n\\P produces $\\mathbb{P}$ \\P[X] produces $\\mathbb{P}_X$ \\P{Y} produces $\\mathbb{P}[Y]$ \\P[X]{Y} produces $\\mathbb{P}_X[Y]$ Greek letters Lower-case Greek letters are reduced to one character: \\a gives $\\alpha$ and so on Upper-case Greek letters are reduced to one character: \\L gives $\\Lambda$ and so on Calligraphic letters Calligraphic letters are reduced to two characters: \\Ac gives $\\mathcal{A}$ and so on Brackets \\bp{x} gives $(x)$ with appropriately scaling parenthesis \\bs{x} gives $[x]$ with appropriately scaling square brackets \\bc{x} gives ${x}$ with appropriately scaling curly brackets \\abs{x} gives $|x|$ with appropriately scaling straight brackets Derivatives \\pd{x}{y} gives the partial derivative of $x$ with respect to $y$: $\\frac{\\partial x}{\\partial y}$ \\pdx{x}{y} gives the same partial derivative in text mode: $\\partial x/\\partial y$ \\pdl{x}{y} gives the partial elasticity of $x$ with respect to $y$: $\\frac{\\partial\\ln x}{\\partial\\ln y}$ \\od{x}{y} gives the ordinary derivative of $x$ with respect to $y$: $\\frac{d x}{d y}$ \\odx{x}{y} gives the same ordinary derivative in text mode: $d x/d y$ \\odl{x}{y} gives the ordinary elasticity of $x$ with respect to $y$: $\\frac{d\\ln x}{d\\ln y}$ Other commands There are many other commands to be discovered in the file math.sty. What they produce is hopefully self-explanatory.\n","wordCount":"367","inLanguage":"en","image":"https://pascalmichaillat.org/d3.png","datePublished":"2022-11-09T00:00:00Z","dateModified":"2022-11-09T00:00:00Z","author":{"@type":"Person","name":"Pascal Michaillat"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://pascalmichaillat.org/d3/"},"publisher":{"@type":"Organization","name":"Pascal Michaillat","logo":{"@type":"ImageObject","url":"https://pascalmichaillat.org/favicon.ico"}}}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-97G4MZ4061"></script>
-<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-97G4MZ4061")</script><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css integrity=sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js integrity=sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8 crossorigin=anonymous></script>
-<script defer src=https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js integrity=sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl crossorigin=anonymous></script>
-<script>document.addEventListener("DOMContentLoaded",function(){renderMathInElement(document.body,{delimiters:[{left:"$$",right:"$$",display:!0},{left:"$",right:"$",display:!1},{left:"\\begin{equation}",right:"\\end{equation}",display:!0},{left:"\\begin{equation*}",right:"\\end{equation*}",display:!0},{left:"\\begin{align}",right:"\\end{align}",display:!0},{left:"\\begin{align*}",right:"\\end{align*}",display:!0},{left:"\\begin{alignat}",right:"\\end{alignat}",display:!0},{left:"\\begin{gather}",right:"\\end{gather}",display:!0},{left:"\\begin{CD}",right:"\\end{CD}",display:!0}],throwOnError:!1})})</script></head><body id=top><header class=header><nav class=nav><div class=logo><a href=https://pascalmichaillat.org/ accesskey=h title="Pascal Michaillat"><img src=https://pascalmichaillat.org/favicon.ico alt aria-label=logo height=16 width=16>Pascal Michaillat</a><div class=logo-switches></div></div><ul id=menu><li><a href=https://pascalmichaillat.org/papers/ title=Papers><span>Papers</span></a></li><li><a href=https://pascalmichaillat.org/courses/ title=Courses><span>Courses</span></a></li><li><a href=https://pascalmichaillat.org/design/ title=Design><span>Design</span></a></li><li><a href=https://pascalmichaillat.org/tags/ title=Tags><span>Tags</span></a></li><li><a href=https://pascalmichaillat.org/archive/ title=Archive><span>Archive</span></a></li></ul></nav></header><main class=main><article class=post-single><header class=post-header><h1 class=post-title>LaTeX Commands to Typeset Math</h1><div class=post-meta><span title='2022-11-09 00:00:00 +0000 UTC'>November 2022</span>&ensp;&#183;&ensp;Pascal Michaillat&ensp;&#183;&ensp;<a href=https://github.com/pmichaillat/latex-math rel="noopener noreferrer" target=_blank>GitHub repository</a></div></header><div class=post-content><p>This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.</p><h2 id=download>Download</h2><ul><li><a href=/math.sty>math.sty</a>
-&ndash; LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project.</li></ul><h2 id=goal>Goal</h2><p>The commands in <code>math.sty</code> are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.</p><h2 id=how-to-use>How to use</h2><ul><li>Add <code>math.sty</code> to the folder with your LaTeX files</li><li>Insert <code>\usepackage{math}</code> in the preamble of your document</li><li>Use the commands defined in <code>math.sty</code>
-– Standard math commands should not be affected so you can continue to use those too</li></ul><h2 id=some-useful-commands>Some useful commands</h2><h3 id=statistical-operators>Statistical operators</h3><ul><li><p>Expectation operator:</p><ul><li><code>\E</code> produces $\mathbb{E}$</li><li><code>\E[X]</code> produces $\mathbb{E}_X$</li><li><code>\E{Y}</code> produces $\mathbb{E}[Y]$</li><li><code>\E[X]{Y}</code> produces $\mathbb{E}_X[Y]$</li></ul></li><li><p>Probability operator:</p><ul><li><code>\P</code> produces $\mathbb{P}$</li><li><code>\P[X]</code> produces $\mathbb{P}_X$</li><li><code>\P{Y}</code> produces $\mathbb{P}[Y]$</li><li><code>\P[X]{Y}</code> produces $\mathbb{P}_X[Y]$</li></ul></li></ul><h3 id=greek-letters>Greek letters</h3><ul><li>Lower-case Greek letters are reduced to one character: <code>\a</code> gives $\alpha$ and so on</li><li>Upper-case Greek letters are reduced to one character: <code>\L</code> gives $\Lambda$ and so on</li></ul><h3 id=calligraphic-letters>Calligraphic letters</h3><ul><li>Calligraphic letters are reduced to two characters: <code>\Ac</code> gives $\mathcal{A}$ and so on</li></ul><h3 id=brackets>Brackets</h3><ul><li><code>\bp{x}</code> gives $(x)$ with appropriately scaling parenthesis</li><li><code>\bs{x}</code> gives $[x]$ with appropriately scaling square brackets</li><li><code>\bc{x}</code> gives ${x}$ with appropriately scaling curly brackets</li><li><code>\abs{x}</code> gives $|x|$ with appropriately scaling straight brackets</li></ul><h3 id=derivatives>Derivatives</h3><ul><li><code>\pd{x}{y}</code> gives the partial derivative of $x$ with respect to $y$: $\frac{\partial x}{\partial y}$</li><li><code>\pdx{x}{y}</code> gives the same partial derivative in text mode: $\partial x/\partial y$</li><li><code>\pdl{x}{y}</code> gives the partial elasticity of $x$ with respect to $y$: $\frac{\partial\ln x}{\partial\ln y}$</li><li><code>\od{x}{y}</code> gives the ordinary derivative of $x$ with respect to $y$: $\frac{d x}{d y}$</li><li><code>\odx{x}{y}</code> gives the same ordinary derivative in text mode: $d x/d y$</li><li><code>\odl{x}{y}</code> gives the ordinary elasticity of $x$ with respect to $y$: $\frac{d\ln x}{d\ln y}$</li></ul><h3 id=other-commands>Other commands</h3><p>There are many other commands to be discovered in the file <code>math.sty</code>. What they produce is hopefully self-explanatory.</p></div><footer class=post-footer><ul class=post-tags></ul></footer></article></main><footer class=footer><span><a href=mailto:pascalmichaillat@brown.edu>Contact by email</a>&ensp;&#183;&ensp;<a href=https://pmichaillat.substack.com>Subscribe to newsletter</a></span></footer><script>let menu=document.getElementById("menu");menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>document.querySelectorAll("pre > code").forEach(e=>{const n=e.parentNode.parentNode,t=document.createElement("button");t.classList.add("copy-code"),t.innerHTML="copy";function s(){t.innerHTML="copied!",setTimeout(()=>{t.innerHTML="copy"},2e3)}t.addEventListener("click",t=>{if("clipboard"in navigator){navigator.clipboard.writeText(e.textContent),s();return}const n=document.createRange();n.selectNodeContents(e);const o=window.getSelection();o.removeAllRanges(),o.addRange(n);try{document.execCommand("copy"),s()}catch{}o.removeRange(n)}),n.classList.contains("highlight")?n.appendChild(t):n.parentNode.firstChild==n||(e.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?e.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(t):e.parentNode.appendChild(t))})</script></body></html>
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>LaTeX Commands to Typeset Math | Pascal Michaillat</title>
+<meta name="keywords" content="">
+<meta name="description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.">
+<meta name="author" content="Pascal Michaillat">
+<link rel="canonical" href="https://pascalmichaillat.org/d3/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.2dcf8bd2fa1ad69d0aeadda831c9aad67692f63c8a7b04953aa9b1875e9ea0cb.css" integrity="sha256-Lc&#43;L0voa1p0K6t2oMcmq1naS9jyKewSVOqmxh16eoMs=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://pascalmichaillat.org/apple-touch-icon.png">
+
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript><meta property="og:title" content="LaTeX Commands to Typeset Math" />
+<meta property="og:description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://pascalmichaillat.org/d3/" />
+<meta property="og:image" content="https://pascalmichaillat.org/d3.png" /><meta property="article:section" content="design" />
+<meta property="article:published_time" content="2022-11-09T00:00:00+00:00" />
+<meta property="article:modified_time" content="2022-11-09T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://pascalmichaillat.org/d3.png" />
+<meta name="twitter:title" content="LaTeX Commands to Typeset Math"/>
+<meta name="twitter:description" content="This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them."/>
+<meta name="twitter:site" content="@pmichaillat"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Design",
+      "item": "https://pascalmichaillat.org/design/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "LaTeX Commands to Typeset Math",
+      "item": "https://pascalmichaillat.org/d3/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "LaTeX Commands to Typeset Math",
+  "name": "LaTeX Commands to Typeset Math",
+  "description": "This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.",
+  "keywords": [
+    
+  ],
+  "articleBody": "This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.\nDownload math.sty – LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project. Goal The commands in math.sty are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.\nHow to use Add math.sty to the folder with your LaTeX files Insert \\usepackage{math} in the preamble of your document Use the commands defined in math.sty – Standard math commands should not be affected so you can continue to use those too Some useful commands Statistical operators Expectation operator:\n\\E produces $\\mathbb{E}$ \\E[X] produces $\\mathbb{E}_X$ \\E{Y} produces $\\mathbb{E}[Y]$ \\E[X]{Y} produces $\\mathbb{E}_X[Y]$ Probability operator:\n\\P produces $\\mathbb{P}$ \\P[X] produces $\\mathbb{P}_X$ \\P{Y} produces $\\mathbb{P}[Y]$ \\P[X]{Y} produces $\\mathbb{P}_X[Y]$ Greek letters Lower-case Greek letters are reduced to one character: \\a gives $\\alpha$ and so on Upper-case Greek letters are reduced to one character: \\L gives $\\Lambda$ and so on Calligraphic letters Calligraphic letters are reduced to two characters: \\Ac gives $\\mathcal{A}$ and so on Brackets \\bp{x} gives $(x)$ with appropriately scaling parenthesis \\bs{x} gives $[x]$ with appropriately scaling square brackets \\bc{x} gives ${x}$ with appropriately scaling curly brackets \\abs{x} gives $|x|$ with appropriately scaling straight brackets Derivatives \\pd{x}{y} gives the partial derivative of $x$ with respect to $y$: $\\frac{\\partial x}{\\partial y}$ \\pdx{x}{y} gives the same partial derivative in text mode: $\\partial x/\\partial y$ \\pdl{x}{y} gives the partial elasticity of $x$ with respect to $y$: $\\frac{\\partial\\ln x}{\\partial\\ln y}$ \\od{x}{y} gives the ordinary derivative of $x$ with respect to $y$: $\\frac{d x}{d y}$ \\odx{x}{y} gives the same ordinary derivative in text mode: $d x/d y$ \\odl{x}{y} gives the ordinary elasticity of $x$ with respect to $y$: $\\frac{d\\ln x}{d\\ln y}$ Other commands There are many other commands to be discovered in the file math.sty. What they produce is hopefully self-explanatory.\n",
+  "wordCount" : "367",
+  "inLanguage": "en",
+  "image":"https://pascalmichaillat.org/d3.png","datePublished": "2022-11-09T00:00:00Z",
+  "dateModified": "2022-11-09T00:00:00Z",
+  "author":{
+    "@type": "Person",
+    "name": "Pascal Michaillat"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pascalmichaillat.org/d3/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pascal Michaillat",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pascalmichaillat.org/favicon.ico"
+    }
+  }
+}
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-97G4MZ4061"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-97G4MZ4061');
+</script>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          
+          
+          delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: "\\begin{equation}", right: "\\end{equation}", display: true},
+            {left: "\\begin{equation*}", right: "\\end{equation*}", display: true},
+            {left: "\\begin{align}", right: "\\end{align}", display: true},
+            {left: "\\begin{align*}", right: "\\end{align*}", display: true},
+            {left: "\\begin{alignat}", right: "\\end{alignat}", display: true},
+            {left: "\\begin{gather}", right: "\\end{gather}", display: true},
+            {left: "\\begin{CD}", right: "\\end{CD}", display: true},
+          ],
+          
+          throwOnError : false
+        });
+    });
+</script>
+ 
+
+
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="https://pascalmichaillat.org/" accesskey="h" title="Pascal Michaillat">
+             
+                <img src="https://pascalmichaillat.org/favicon.ico" alt="" aria-label="logo"
+                    height="16"
+                    width="16">Pascal Michaillat</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="https://pascalmichaillat.org/papers/" title="Papers">
+                    <span>Papers</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/courses/" title="Courses">
+                    <span>Courses</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/design/" title="Design">
+                    <span>Design</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/tags/" title="Tags">
+                    <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://pascalmichaillat.org/archive/" title="Archive">
+                    <span>Archive</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title">
+      LaTeX Commands to Typeset Math
+    </h1>
+
+    
+    <div class="post-meta"><span title='2022-11-09 00:00:00 +0000 UTC'>November 2022</span>&ensp;&middot;&ensp;Pascal Michaillat&ensp;&middot;&ensp;<a href="https://github.com/pmichaillat/latex-math" rel="noopener noreferrer" target="_blank">GitHub repository</a>
+
+</div>
+  </header> 
+  <div class="post-content"><p>This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.</p>
+<h2 id="download">Download</h2>
+<ul>
+<li><a href="/math.sty">math.sty</a>
+ &ndash; LaTeX style file collecting many mathematical commands. Must be included in the same folder as your LaTeX project.</li>
+</ul>
+<h2 id="goal">Goal</h2>
+<p>The commands in <code>math.sty</code> are designed to make it easy to typeset math in LaTeX. They include most of the items that I use repeatedly. Of course many LaTeX editors provide functionalities to make typesetting easier. An additional advantage of these commands, however, is that they are designed so the formulas in LaTeX look as much as possible like the formulas on paper. So it is easier to check the math or write proofs directly in LaTeX.</p>
+<h2 id="how-to-use">How to use</h2>
+<ul>
+<li>Add <code>math.sty</code> to the folder with your LaTeX files</li>
+<li>Insert <code>\usepackage{math}</code> in the preamble of your document</li>
+<li>Use the commands defined in <code>math.sty</code>
+– Standard math commands should not be affected so you can continue to use those too</li>
+</ul>
+<h2 id="some-useful-commands">Some useful commands</h2>
+<h3 id="statistical-operators">Statistical operators</h3>
+<ul>
+<li>
+<p>Expectation operator:</p>
+<ul>
+<li><code>\E</code> produces $\mathbb{E}$</li>
+<li><code>\E[X]</code> produces $\mathbb{E}_X$</li>
+<li><code>\E{Y}</code> produces $\mathbb{E}[Y]$</li>
+<li><code>\E[X]{Y}</code> produces $\mathbb{E}_X[Y]$</li>
+</ul>
+</li>
+<li>
+<p>Probability operator:</p>
+<ul>
+<li><code>\P</code> produces $\mathbb{P}$</li>
+<li><code>\P[X]</code> produces $\mathbb{P}_X$</li>
+<li><code>\P{Y}</code> produces $\mathbb{P}[Y]$</li>
+<li><code>\P[X]{Y}</code> produces $\mathbb{P}_X[Y]$</li>
+</ul>
+</li>
+</ul>
+<h3 id="greek-letters">Greek letters</h3>
+<ul>
+<li>Lower-case Greek letters are reduced to one character: <code>\a</code> gives $\alpha$ and so on</li>
+<li>Upper-case Greek letters are reduced to one character: <code>\L</code> gives $\Lambda$ and so on</li>
+</ul>
+<h3 id="calligraphic-letters">Calligraphic letters</h3>
+<ul>
+<li>Calligraphic letters are reduced to two characters: <code>\Ac</code> gives $\mathcal{A}$ and so on</li>
+</ul>
+<h3 id="brackets">Brackets</h3>
+<ul>
+<li><code>\bp{x}</code> gives $(x)$ with appropriately scaling parenthesis</li>
+<li><code>\bs{x}</code> gives $[x]$ with appropriately scaling square brackets</li>
+<li><code>\bc{x}</code> gives ${x}$ with appropriately scaling curly brackets</li>
+<li><code>\abs{x}</code> gives $|x|$ with appropriately scaling straight brackets</li>
+</ul>
+<h3 id="derivatives">Derivatives</h3>
+<ul>
+<li><code>\pd{x}{y}</code> gives the partial derivative of $x$ with respect to $y$: $\frac{\partial x}{\partial y}$</li>
+<li><code>\pdx{x}{y}</code> gives the same partial derivative in text mode: $\partial x/\partial y$</li>
+<li><code>\pdl{x}{y}</code> gives the partial elasticity of $x$ with respect to $y$: $\frac{\partial\ln x}{\partial\ln y}$</li>
+<li><code>\od{x}{y}</code> gives the ordinary derivative of $x$ with respect to $y$: $\frac{d x}{d y}$</li>
+<li><code>\odx{x}{y}</code> gives the same ordinary derivative in text mode: $d x/d y$</li>
+<li><code>\odl{x}{y}</code> gives the ordinary elasticity of $x$ with respect to $y$: $\frac{d\ln x}{d\ln y}$</li>
+</ul>
+<h3 id="other-commands">Other commands</h3>
+<p>There are many other commands to be discovered in the file <code>math.sty</code>. What they produce is hopefully self-explanatory.</p>
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+
+    <span><a href="mailto:pascalmichaillat@brown.edu">Contact by email</a>&ensp;&middot;&ensp;<a href="https://pmichaillat.substack.com">Subscribe to newsletter</a></span>
+    
+    
+    
+
+</footer>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

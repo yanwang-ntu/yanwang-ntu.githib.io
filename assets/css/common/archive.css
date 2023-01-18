@@ -35,12 +35,6 @@
 .archive-entry-title {
     margin: 5px 0;
     font-weight: 400;
-/*      text-decoration: underline;*/
-}
-.archive-entry-title:hover {
-/*       color: var(--darkpurple);*/
-        text-decoration: underline;
-/*    border-bottom: 2px solid var(--darkpurple);*/
 }
 
 .archive-count,

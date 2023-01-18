@@ -16,7 +16,6 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-/*    color: var(--primary);*/
     font-size: 16px;
     display: flex;
     flex-wrap: wrap;
@@ -80,7 +79,6 @@
 .toc a:hover {
     box-shadow: 0 2px 0 var(--darkpurple);
     color: currentColor; 
-/*    var(--secondary)*/
 }
 }
 
@@ -394,9 +392,6 @@ h6:hover .anchor {
     width: 50%;
 }
 
-/*.paginav span:hover:not(.title) {
-    box-shadow: 0  0;
-}*/
 
 .paginav .next {
     margin-inline-start: auto;

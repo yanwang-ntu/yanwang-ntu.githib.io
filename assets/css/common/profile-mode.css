@@ -39,11 +39,5 @@
 }
 
 .button:hover {
-/*    transform: scale(0.96);*/
     background: var(--midpurple);
 }
-/*
-.button:active {
-/*    transform: scale(0.96);*/
-/*    background: var(--darkpurple);*/
-/*}*/

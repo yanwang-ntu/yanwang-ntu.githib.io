@@ -5,13 +5,31 @@
     <link>https://pascalmichaillat.org/tags/</link>
     <description>Recent content in Tags on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beveridge curve</title>
+      <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>business cycles</title>
       <link>https://pascalmichaillat.org/tags/business-cycles/</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unemployment gap</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     
@@ -66,24 +84,6 @@
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Beveridge curve</title>
-      <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unemployment gap</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     

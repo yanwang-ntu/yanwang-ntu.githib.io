@@ -5,7 +5,16 @@
     <link>https://pascalmichaillat.org/</link>
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>u* = √uv</title>
+      <link>https://pascalmichaillat.org/13/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/13/</guid>
+      <description>This paper shows that under simple but realistic assumptions the efficient unemployment rate is the geometric average of the unemployment and vacancy rates.</description>
+    </item>
+    
     <item>
       <title>Minimalist Template for Academic Papers</title>
       <link>https://pascalmichaillat.org/d2/</link>
@@ -58,15 +67,6 @@
       
       <guid>https://pascalmichaillat.org/d4/</guid>
       <description>This style file formats bibliographies stored in BibTeX files and produced by LaTeX documents.</description>
-    </item>
-    
-    <item>
-      <title>u* = √uv</title>
-      <link>https://pascalmichaillat.org/13/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/13/</guid>
-      <description>This paper shows that under simple but realistic assumptions the efficient unemployment rate is the geometric average of the unemployment and vacancy rates.</description>
     </item>
     
     <item>

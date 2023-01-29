@@ -12,19 +12,19 @@ social:
 taxonomies:
     tag: tags
 
-mediaTypes:
-  text/tex:
-    suffixes:
-    - tex
-  text/bib:
-    suffixes:
-    - bib  
-  text/sty:
-    suffixes:
-    - sty
-  text/bst:
-    suffixes:
-    - bst
+# mediaTypes:
+#   text/tex:
+#     suffixes:
+#     - tex
+#   text/bib:
+#     suffixes:
+#     - bib  
+#   text/sty:
+#     suffixes:
+#     - sty
+#   text/bst:
+#     suffixes:
+#     - bst
 
 menu:
     main:
@@ -108,8 +108,8 @@ params:
         hiddenInSingle: true
     label:
       text: "Pascal Michaillat"
-      icon: /favicon.ico
-      iconHeight: 16
+      # icon: /favicon.ico
+      # iconHeight: 16
 
 markup:
     goldmark:

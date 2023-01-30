@@ -5,7 +5,16 @@
     <link>https://pascalmichaillat.org/</link>
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimalist Template for Academic Papers</title>
+      <link>https://pascalmichaillat.org/d2/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d2/</guid>
+      <description>This template produces a minimalist academic paper with LaTeX.</description>
+    </item>
+    
     <item>
       <title>u* = √uv</title>
       <link>https://pascalmichaillat.org/13/</link>
@@ -13,15 +22,6 @@
       
       <guid>https://pascalmichaillat.org/13/</guid>
       <description>This paper shows that under simple but realistic assumptions the efficient unemployment rate is the geometric average of the unemployment and vacancy rates.</description>
-    </item>
-    
-    <item>
-      <title>Minimalist Template for Academic Papers</title>
-      <link>https://pascalmichaillat.org/d2/</link>
-      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d2/</guid>
-      <description>This template produces a minimalist academic paper with LaTeX.</description>
     </item>
     
     <item>

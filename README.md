@@ -1,6 +1,6 @@
 # Source code to https://pascalmichaillat.org
 
-This repository contains the source code to my [academic website](https://pascalmichaillat.org). The source code is publicly available as a template repository so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The source code might also be helpful for anyone who wishes to learn about Hugo or wants to recreate specific features for their own site.
+This repository contains the source code to my https://pascalmichaillat.org – an academic website created with Hugo, Papermod, and GitHub Pages. The source code is publicly available as a template repository so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The source code might also be helpful for anyone who wishes to learn about Hugo or wants to recreate specific features for their own site.
 
 ## Tools used
 

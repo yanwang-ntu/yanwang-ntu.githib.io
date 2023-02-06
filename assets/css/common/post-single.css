@@ -5,7 +5,7 @@
 
 .post-title {
     margin-bottom: 20px;
-    font-size: 40px;
+    font-size: 32px;
 }
 
 .post-description {
@@ -45,7 +45,7 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 32px;
 }
 
 .post-content h2 {
@@ -319,11 +319,11 @@
 
 .post-tags a {
     display: block;
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
+    padding-inline-start: 13px;
+    padding-inline-end: 13px;
     color: var(--secondary);
-    font-size: 14px;
-    line-height: 28px;
+    font-size: 13px;
+    line-height: 26px;
     background: var(--code-bg);
 }
 
@@ -368,14 +368,14 @@ h6:hover .anchor {
 .paginav {
     margin: 10px 0;
     display: flex;
-    line-height: 28px;
-    font-size: 14px;
+    line-height: 26px;
+    font-size: 13px;
     border-radius: var(--radius);
 }
 
 .paginav a {
-    padding-inline-start: 14px;
-    padding-inline-end: 14px;
+    padding-inline-start: 13px;
+    padding-inline-end: 13px;
     border-radius: var(--radius);
     color: var(--secondary);
 }

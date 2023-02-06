@@ -16,7 +16,7 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-    font-size: 16px;
+    font-size: var(--entrysize);
     display: flex;
     flex-wrap: wrap;
 }
@@ -34,6 +34,8 @@
 
 .post-content {
     color: var(--content);
+    line-height: var(--linespace);
+    font-size: var(--textsize);
 }
 
 .post-content h3,
@@ -144,7 +146,7 @@
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
     padding: 12px 8px;
-    line-height: 1.5;
+    line-height: var(--linespace);
     border-bottom: 1px solid var(--border);
 }
 
@@ -201,7 +203,7 @@
     margin: auto 4px;
     padding: 4px 6px;
     font-size: 0.78em;
-    line-height: 1.5;
+    line-height: var(--linespace);
     background: var(--code-bg);
     border-radius: 2px;
 }
@@ -322,8 +324,8 @@
     padding-inline-start: 13px;
     padding-inline-end: 13px;
     color: var(--secondary);
-    font-size: 13px;
-    line-height: 26px;
+    font-size: var(--footersize);
+    line-height: calc(2*var(--footersize));
     background: var(--code-bg);
 }
 
@@ -336,7 +338,7 @@
 }
 
 .share-buttons {
-    margin: 14px 0;
+    margin: 13px 0;
     padding-inline-start: var(--radius);
     display: flex;
     justify-content: center;
@@ -368,8 +370,8 @@ h6:hover .anchor {
 .paginav {
     margin: 10px 0;
     display: flex;
-    line-height: 26px;
-    font-size: 13px;
+    line-height: var(--linespace);
+    font-size: var(--footersize);
     border-radius: var(--radius);
 }
 

@@ -11,6 +11,7 @@
     border-radius: 6px;
     transition: transform 0.1s;
     border: 1px solid var(--border);
+    font-size: var(--headersize);
 }
 
 .terms-tags a:hover {

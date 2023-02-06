@@ -8,8 +8,8 @@
     align-items: center;
     min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
 /*    text-align: center;*/
-    font-size: 15px;
-    line-height: 1.4;
+    font-size: var(--textsize);
+    line-height: var(--linespace);
 }
 
 .profile .profile_inner h1 {

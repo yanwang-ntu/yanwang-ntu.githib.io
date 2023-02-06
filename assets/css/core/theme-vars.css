@@ -4,7 +4,7 @@
     --nav-width: 1024px;
     --main-width: 720px;
     --header-height: 40px;
-    --footer-height: 40px;
+    --footer-height: 60px;
     --radius: 8px;
     --theme: rgb(255, 255, 255);
     --entry: rgb(255, 255, 255);
@@ -21,7 +21,9 @@
     --h1size: 32px;
     --entrysize: 15px;
     --footersize: 13px;
+    --headersize: 16px;
     --textsize: 18px;
+    --linespace: 1.4;
 }
 
 .dark {

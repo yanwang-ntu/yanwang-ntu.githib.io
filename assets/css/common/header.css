@@ -23,8 +23,8 @@
 }
 
 .logo a {
-    font-size: 16px;
-    font-weight: 700;
+    font-size: var(--headersize);
+    font-weight: 600;
 }
 
 .logo a img, .logo a svg {
@@ -62,7 +62,7 @@ body:not(.dark) #sun {
 }
 
 #menu a {
-    font-size: 16px;
+    font-size: var(--headersize);
     font-weight: 400;
 }
 

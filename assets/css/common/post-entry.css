@@ -11,7 +11,7 @@
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 7;
+    -webkit-line-clamp: 8;
 }
 
 .first-entry .entry-header h1 {
@@ -22,7 +22,7 @@
 .first-entry .entry-content {
     margin: 14px 0;
     font-size: 16px;
-    -webkit-line-clamp: 7;
+    -webkit-line-clamp: 8;
 }
 
 .first-entry .entry-footer {
@@ -53,18 +53,18 @@
 
 .entry-header h2 {
     font-size: var(--listsize);
-    line-height: var(--linespace);
+    line-height: var(--lineheight);
 }
 
 .entry-content {
     margin: 20px 10px;
     color: var(--secondary);
     font-size: var(--entrysize);
-    line-height: var(--linespace);
+    line-height: var(--lineheight);
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
-    -webkit-line-clamp: 7;
+    -webkit-line-clamp: 8;
 }
 
 .entry-footer {

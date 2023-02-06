@@ -9,7 +9,7 @@
     min-height: calc(100vh - var(--header-height) - var(--footer-height) - (var(--gap) * 2));
 /*    text-align: center;*/
     font-size: var(--textsize);
-    line-height: var(--linespace);
+    line-height: var(--lineheight);
 }
 
 .profile .profile_inner h1 {

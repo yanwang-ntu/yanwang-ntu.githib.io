@@ -19,12 +19,14 @@
     --midpurple:#c0b5e5;
     --lightpurple: #e5e1f4;
     --titlesize: 24px;
+    --h2size: 22px;
     --entrysize: 15px;
-    --footersize: 13px;
+    --footersize: 14px;
     --headersize: 16px;
     --textsize: 18px;
     --listsize: 20px;
-    --linespace: 1.4;
+    --lineheight: 1.45;
+    --lineclamp: 8;
 }
 
 .dark {

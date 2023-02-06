@@ -263,8 +263,8 @@
 }
 
 .toc {
-    margin: 0 2px 40px 2px;
-    border: 1px solid var(--border);
+    margin: 0 2px 20px 2px;
+    border: 2px solid var(--border);
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;

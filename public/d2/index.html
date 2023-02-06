@@ -10,7 +10,7 @@
 <meta name="description" content="This template produces a minimalist academic paper with LaTeX.">
 <meta name="author" content="Pascal Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d2/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.870dbbd4d37b2668b611d72eebc4f3591fb0811e8fbf370bba3962a7c2cfb2c3.css" integrity="sha256-hw271NN7Jmi2Edcu68TzWR&#43;wgR6PvzcLujlip8LPssM=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.c17eb31a65098256a56b92c49a12c521600dfb9bae9f517484881591852ea083.css" integrity="sha256-wX6zGmUJglala5LEmhLFIWAN&#43;5uun1F0hIgVkYUuoIM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -190,7 +190,24 @@
     <div class="post-meta"><span title='2023-01-29 00:00:00 +0000 UTC'>January 2023</span>&nbsp;&middot;&nbsp;Pascal Michaillat&nbsp;&middot;&nbsp;<a href="https://github.com/pmichaillat/latex-paper" rel="noopener noreferrer" target="_blank">GitHub repository</a>
 
 </div>
-  </header> 
+  </header> <div class="toc">
+    <details  open>
+        <summary accesskey="c">
+            <span class="details">Table of Contents</span>
+        </summary>
+
+        <div class="inner"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#download">Download</a></li>
+    <li><a href="#additional-files-for-online-appendix">Additional files for online appendix</a></li>
+    <li><a href="#key-features">Key features</a></li>
+    <li><a href="#reference">Reference</a></li>
+  </ul>
+</nav>
+        </div>
+    </details>
+</div>
+
   <div class="post-content"><p>This template produces minimalist academic papers with LaTeX. <a href="/d2.pdf">This paper</a>
  illustrates the output of the template.</p>
 <h2 id="download">Download</h2>
@@ -228,6 +245,20 @@
 <h2 id="reference">Reference</h2>
 <p>As much as possible the template follows Matthew Butterick&rsquo;s wonderful typographical advice in <a href="https://practicaltypography.com" target="_blank">Practical Typography</a>
 .</p>
+<!-- 
+
+- [bibliography.bst](/bibliography.bst) -- Style file to format bibliographies produced by LateX documents. Must be included in the same folder as the LaTeX document. The bibliography must be stored in a BibTex document (`.bib` format).
+
+## How to use
+
+- Add `bibliography.bst` to the folder with your LaTeX files.
+- Insert `\bibliographystyle{bibliography}` in the preamble of your document to call `bibliography.bst`.
+- Insert `\usepackage{natbib}` in the preamble of your document to call the `natbib.sty` package, which is used to cite references and produce the bibliography (this package is part of standard LaTeX distributions).
+- Insert `\bibliography{bibliography}` at the end of the document to produce the bibliography. All the references cited in the text must be in a BibTex file `bibliography.bib`. The BibTeX file must be in the same folder as the other LaTeX files.
+
+## Reference
+
+As much as possible the style file follows the guidelines from the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). The style file is based on the style file `econ.bst`, which was created by [Shiro Takeda](https://shirotakeda.github.io) and is [available on GitHub](https://github.com/ShiroTakeda/econ-bst). -->
 
   </div>
 

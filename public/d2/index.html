@@ -10,7 +10,7 @@
 <meta name="description" content="This template produces a minimalist academic paper with LaTeX.">
 <meta name="author" content="Pascal Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d2/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.c17eb31a65098256a56b92c49a12c521600dfb9bae9f517484881591852ea083.css" integrity="sha256-wX6zGmUJglala5LEmhLFIWAN&#43;5uun1F0hIgVkYUuoIM=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.ef315c5400612f3d06c6d8b5879e66ed91ab37d7b6a85b56286ac9d91f6cc246.css" integrity="sha256-7zFcVABhLz0Gxti1h55m7ZGrN9e2qFtWKGrJ2R9swkY=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -71,8 +71,8 @@
   "keywords": [
     
   ],
-  "articleBody": "This template produces minimalist academic papers with LaTeX. This paper illustrates the output of the template.\nDownload paper.tex – Skeleton for the paper. Fill it out with the content of your paper. By compiling paper.tex you obtain this PDF file . paper.sty – LaTeX style file collecting all the formatting commands. Must be included in the same folder as paper.tex. bibliography.bst – LaTeX style file to format academic bibliographies. Must be included in the same folder as paper.tex. This file is described on this page . Additional files for online appendix The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix. This appendix illustrates the output of the template.\nappendix.tex – Skeleton of the online appendix. Fill it out with the content of your online appendix. The appendix must be in the same folder as the paper so the equation and section labels from the paper can be used in the online appendix. By compiling appendix.tex you obtain this PDF file . appendix.sty – LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as appendix.tex. This style file must be used in conjunction with paper.sty, which must also be included in the folder. Key features The font for text, roman math, and numbers is Source Serif Pro . The font for Greek and calligraphic math is Euler . No colors are used in the text (only black) to reduce distraction, and so papers print well. Colors are reserved for graphs. Margins, spacing, and font size are set for comfortable reading. Headings are designed so the paper is easy to scan. Formatting is also specified for appendix and online appendix. Reference As much as possible the template follows Matthew Butterick’s wonderful typographical advice in Practical Typography .\n",
-  "wordCount" : "311",
+  "articleBody": "This template produces minimalist academic papers with LaTeX. This paper illustrates the output of the template.\nDownload paper.tex – Skeleton for the paper. Fill it out with the content of your paper. By compiling paper.tex you obtain this PDF file . paper.sty – LaTeX style file collecting all the formatting commands. Must be included in the same folder as paper.tex. bibliography.bst – LaTeX style file to format academic bibliographies. Must be included in the same folder as paper.tex. The style file is based on the style file econ.bst, which was created by Shiro Takeda and is available on GitHub . Additional files for online appendix The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix. This appendix illustrates the output of the template.\nappendix.tex – Skeleton of the online appendix. Fill it out with the content of your online appendix. The appendix must be in the same folder as the paper so the equation and section labels from the paper can be used in the online appendix. By compiling appendix.tex you obtain this PDF file . appendix.sty – LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as appendix.tex. This style file must be used in conjunction with paper.sty, which must also be included in the folder. Key features The font for text, roman math, and numbers is Source Serif Pro . The font for Greek and calligraphic math is Euler . No colors are used in the text (only black) to reduce distraction, and so papers print well. Colors are reserved for graphs. Margins, spacing, and font size are set for comfortable reading. Headings are designed so the paper is easy to scan. Formatting is also specified for appendix and online appendix. Reference As much as possible the template follows Matthew Butterick’s wonderful typographical advice in Practical Typography . The references follow the guidelines from the Chicago Manual of Style .\n",
+  "wordCount" : "337",
   "inLanguage": "en",
   "image":"https://pascalmichaillat.org/d2.png","datePublished": "2023-01-29T00:00:00Z",
   "dateModified": "2023-01-29T00:00:00Z",
@@ -143,8 +143,8 @@
             <a href="https://pascalmichaillat.org/" accesskey="h" title="Pascal Michaillat">
              
                 <img src="https://pascalmichaillat.org/favicon.ico" alt="" aria-label="logo"
-                    height="16"
-                    width="16">Pascal Michaillat</a>
+                    height="14"
+                    width="14">Pascal Michaillat</a>
             <div class="logo-switches">
             </div>
         </div>
@@ -218,7 +218,8 @@
 <li><a href="/paper.sty">paper.sty</a>
  &ndash;  LaTeX style file collecting all the formatting commands. Must be included in the same folder as <code>paper.tex</code>.</li>
 <li><a href="/bibliography.bst">bibliography.bst</a>
- &ndash; LaTeX style file to format academic bibliographies. Must be included in the same folder as <code>paper.tex</code>. This file is described <a href="/d4/">on this page</a>
+ &ndash; LaTeX style file to format academic bibliographies. Must be included in the same folder as <code>paper.tex</code>. The style file is based on the style file <code>econ.bst</code>, which was created by <a href="https://shirotakeda.github.io" target="_blank">Shiro Takeda</a>
+ and is <a href="https://github.com/ShiroTakeda/econ-bst" target="_blank">available on GitHub</a>
 .</li>
 </ul>
 <h2 id="additional-files-for-online-appendix">Additional files for online appendix</h2>
@@ -244,28 +245,14 @@
 </ul>
 <h2 id="reference">Reference</h2>
 <p>As much as possible the template follows Matthew Butterick&rsquo;s wonderful typographical advice in <a href="https://practicaltypography.com" target="_blank">Practical Typography</a>
+. The references follow the guidelines from the <a href="https://www.chicagomanualofstyle.org/home.html" target="_blank">Chicago Manual of Style</a>
 .</p>
-<!-- 
-
-- [bibliography.bst](/bibliography.bst) -- Style file to format bibliographies produced by LateX documents. Must be included in the same folder as the LaTeX document. The bibliography must be stored in a BibTex document (`.bib` format).
-
-## How to use
-
-- Add `bibliography.bst` to the folder with your LaTeX files.
-- Insert `\bibliographystyle{bibliography}` in the preamble of your document to call `bibliography.bst`.
-- Insert `\usepackage{natbib}` in the preamble of your document to call the `natbib.sty` package, which is used to cite references and produce the bibliography (this package is part of standard LaTeX distributions).
-- Insert `\bibliography{bibliography}` at the end of the document to produce the bibliography. All the references cited in the text must be in a BibTex file `bibliography.bib`. The BibTeX file must be in the same folder as the other LaTeX files.
-
-## Reference
-
-As much as possible the style file follows the guidelines from the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html). The style file is based on the style file `econ.bst`, which was created by [Shiro Takeda](https://shirotakeda.github.io) and is [available on GitHub](https://github.com/ShiroTakeda/econ-bst). -->
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
     </ul>
-
   </footer>
 </article>
     </main>

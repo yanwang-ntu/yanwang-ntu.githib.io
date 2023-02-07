@@ -45,7 +45,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
+    description: "I'm an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, metascience."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -55,7 +55,7 @@ params:
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: true
+    ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: false
@@ -69,7 +69,7 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the Department of Economics at the University of California–San Diego."
+          subtitle: "I'm an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I'm visiting the Department of Economics at the University of California–San Diego."
           imageUrl: "/picture.jpeg"
           imageWidth: 140
           imageHeight: 140
@@ -109,7 +109,7 @@ params:
     label:
       text: "Pascal Michaillat"
       icon: /favicon.ico
-      iconHeight: 16
+      iconHeight: 14
 
 markup:
     goldmark:

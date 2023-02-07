@@ -321,11 +321,11 @@
 
 .post-tags a {
     display: block;
-    padding-inline-start: 13px;
-    padding-inline-end: 13px;
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
     color: var(--secondary);
-    font-size: var(--footersize);
-    line-height: calc(2*var(--footersize));
+    font-size: var(--entrysize);
+    line-height: calc(2*var(--entrysize));
     background: var(--code-bg);
 }
 
@@ -376,8 +376,8 @@ h6:hover .anchor {
 }
 
 .paginav a {
-    padding-inline-start: 13px;
-    padding-inline-end: 13px;
+    padding-inline-start: 15px;
+    padding-inline-end: 15px;
     border-radius: var(--radius);
     color: var(--secondary);
 }

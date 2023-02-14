@@ -1,8 +1,5 @@
 ---
 title: "Office and Mailing Address"
-# date: 2022-12-24
-# author: "Pascal Michaillat"
-url: /location/
 aliases:
     - /contact.html
 hidemeta: true

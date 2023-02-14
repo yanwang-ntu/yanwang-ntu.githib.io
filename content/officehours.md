@@ -1,13 +1,9 @@
 ---
 title: "Office Hours"
-# date: 2022-12-24
-# author: "Pascal Michaillat"
-url: /officehours/
 aliases:
     - /oh.html
 hidemeta: true
 description: "Schedule and location for my office hours in Winter and Spring 2023."
-
 ---
 
 In January--June 2023, I am on leave at the University of California--San Diego. I will therefore not hold regular office hours. 

@@ -1,17 +1,14 @@
-# Source code to https://pascalmichaillat.org
+# Source Code to https://pascalmichaillat.org
 
-This repository contains the source code to my https://pascalmichaillat.org – an academic website created with Hugo, Papermod, and GitHub Pages. The source code is publicly available as a template repository so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The source code might also be helpful for anyone who wishes to learn about Hugo or wants to recreate specific features for their own site.
+This repository contains the source code to https://pascalmichaillat.org, an academic website created with Hugo, Papermod, and GitHub Pages. The source code is publicly available as a template repository so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The source code might also be helpful for anyone who wishes to learn about Hugo or wants to recreate specific features for their own site.
 
-## Tools used
+## Documentation
 
-- [Hugo](https://gohugo.io) – A very fast, open-source static website generator 
-- [Papermod](https://github.com/adityatelange/hugo-PaperMod) – A minimalist, fast, and flexible Hugo theme
-- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) –  The website is hosted in a repository on [GitHub](https://github.com) and produced from there using [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
-- [Google Domains](https://domains.google) – A simple way to register your domain name and [link it to your website](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) 
+The source code is documented at https://pascalmichaillat.org/d5/.
 
-## Key features
+## Features
 
-I modified the original theme to be more adapted to an academic website:
+This website uses the Papermod theme is modified to be more adapted to an academic website:
 
 - Added social icons specific to academia: icon for office hours, icon for Zoom, and icon for Substack. Also improved the social icon for Google Scholar.
 - Modified footer to have easy access to email address and newsletter
@@ -23,3 +20,21 @@ I modified the original theme to be more adapted to an academic website:
     + A search page could also easily be added
 - Developed templates for paper pages and course pages
 - Personalized color scheme and general appearance
+- 
+## Tools used
+
+- [Hugo](https://gohugo.io) – A very fast, open-source static website generator 
+- [Papermod](https://github.com/adityatelange/hugo-PaperMod) – A minimalist, fast, and flexible Hugo theme
+- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) –  The website is hosted in a repository on [GitHub](https://github.com) and produced from there using [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
+- [Google Domains](https://domains.google) – A simple way to register your domain name and [link it to your website](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) 
+
+
+
+## License
+
+The content of this repository is licensed under the terms of the [MIT License](https://opensource.org/license/mit-license-php/).
+
+
+The material in `/content/` is copyright, Kieran Healy. All rights reserved.
+
+Other code and style files belong to their respective owners and are used in accordance with their licenses.

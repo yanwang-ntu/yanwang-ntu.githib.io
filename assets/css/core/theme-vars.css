@@ -20,11 +20,12 @@
     --lightpurple: #e5e1f4;
     --titlesize: 26px;
     --h2size: 22px;
+    --h3size: 20px;
+    --listsize: 20px;
+    --textsize: 18px;
+    --headersize: 16px;
     --entrysize: 15px;
     --footersize: 12px;
-    --headersize: 16px;
-    --textsize: 18px;
-    --listsize: 20px;
     --lineheight: 1.45;
     --lineclamp: 8;
 }

@@ -28,6 +28,7 @@
     --footersize: 12px;
     --lineheight: 1.45;
     --lineclamp: 8;
+    --marginleft: 26px;
 }
 
 .dark {

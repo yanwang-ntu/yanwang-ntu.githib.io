@@ -106,7 +106,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
-    margin-left: 26px; 
+    margin-left: var(--marginleft); 
 }
 
 .post-content li {
@@ -277,7 +277,7 @@
 
 .toc details summary {
     cursor: zoom-in;
-    margin-inline-start: 20px;
+    margin-inline-start: calc(var(--marginleft) - 12px);
 }
 
 .toc details[open] summary {
@@ -290,7 +290,7 @@
 }
 
 .toc .inner {
-    margin: 0 20px;
+    margin: 0 calc(var(--marginleft) - 12px);
     padding: 10px 20px;
 }
 

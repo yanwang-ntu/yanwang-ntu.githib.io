@@ -6,7 +6,7 @@ This repository contains the source code to https://pascalmichaillat.org: an aca
 
 The source code is documented at https://pascalmichaillat.org/d5/.
 
-## Features
+## Infrastructure
 
 The website is built using the following software and services:
 
@@ -14,6 +14,8 @@ The website is built using the following software and services:
 + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) – A minimalist, fast, and flexible Hugo theme
 + [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) and [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) – A simple way to deploy a website hosted in a GitHub repository
 + [Google Domains](https://domains.google) – A simple way to register your domain name and [link it to your website](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages) 
+
+## Features
 
 The PaperMod theme is modified in several ways to be more adapted to academic websites:
 

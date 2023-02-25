@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pascalmichaillat.org/design/</loc>
-    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/d2/</loc>
-    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+    <loc>https://pascalmichaillat.org/d3/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/d2/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/beveridge-curve/</loc>
@@ -58,9 +61,6 @@
   </url><url>
     <loc>https://pascalmichaillat.org/tags/sufficient-statistics/</loc>
     <lastmod>2022-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/d3/</loc>
-    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/12/</loc>
     <lastmod>2022-06-18T00:00:00+00:00</lastmod>

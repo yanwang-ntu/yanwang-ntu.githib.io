@@ -56,7 +56,7 @@
 }
 
 .post-content h3 {
-    font-size: var(--h3size);
+    font-size: var(--h3size);    
     color: var(--secondary);
 }
 
@@ -67,12 +67,12 @@
 }
 
 .post-content h5 {
-    font-size: 14px;
+    font-size: var(--h5size);
     color: var(--tertiary);
 }
 
 .post-content h6 {
-    font-size: 12px;
+    font-size: var(--h6size);
     color: var(--tertiary);
 }
 

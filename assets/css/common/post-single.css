@@ -16,7 +16,7 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-    font-size: var(--entrysize);
+    font-size: var(--metasize);
     display: flex;
     flex-wrap: wrap;
 }
@@ -56,12 +56,12 @@
 }
 
 .post-content h3 {
-    font-size: 24px;
+    font-size: var(--h3size);
     color: var(--secondary);
 }
 
 .post-content h4 {
-    font-size: var(--entrysize);
+    font-size: var(--h4size);
     font-weight: normal;
     color: var(--secondary);
 }
@@ -325,8 +325,8 @@
     padding-inline-start: 15px;
     padding-inline-end: 15px;
     color: var(--secondary);
-    font-size: var(--entrysize);
-    line-height: calc(2*var(--entrysize));
+    font-size: var(--tagsize);
+    line-height: calc(2*var(--tagsize));
     background: var(--code-bg);
 }
 

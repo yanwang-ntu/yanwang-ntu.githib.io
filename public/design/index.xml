@@ -34,12 +34,12 @@
     </item>
     
     <item>
-      <title>LaTeX Commands to Typeset Math</title>
+      <title>LaTeX Commands to Write Math</title>
       <link>https://pascalmichaillat.org/d3/</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This style file collects LaTeX commands to easily typeset mathematical expressions, and easily read them.</description>
+      <description>This LaTeX style file collects commands to easily write mathematical expressions in LaTeX, and easily read them.</description>
     </item>
     
   </channel>

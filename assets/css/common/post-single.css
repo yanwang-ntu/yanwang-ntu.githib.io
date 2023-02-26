@@ -62,7 +62,7 @@
 
 .post-content h4 {
     font-size: var(--h4size);
-    font-weight: normal;
+    font-weight: var(--semibold);
     color: var(--secondary);
 }
 
@@ -72,7 +72,7 @@
 }
 
 .post-content h6 {
-    font-size: var(--h6size);
+    font-size: var(--footersize);
     color: var(--tertiary);
 }
 
@@ -286,12 +286,14 @@
 
 .toc .details {
     display: inline;
-    font-weight: 500;
+    font-weight: var(--semibold);
+    font-size: var(--h4size);
 }
 
 .toc .inner {
     margin: 0 calc(var(--marginleft) - 12px);
     padding: 10px 20px;
+    font-size: var(--h4size);
 }
 
 .toc li ul {
@@ -325,8 +327,8 @@
     padding-inline-start: 15px;
     padding-inline-end: 15px;
     color: var(--secondary);
-    font-size: var(--tagsize);
-    line-height: calc(2*var(--tagsize));
+    font-size: var(--metasize);
+    line-height: calc(2*var(--metasize));
     background: var(--code-bg);
 }
 

@@ -57,17 +57,17 @@
 
 .post-content h3 {
     font-size: var(--h3size);    
-    color: var(--secondary);
+    color: var(--gray);
 }
 
 .post-content h4 {
     font-size: var(--h4size);
     font-weight: var(--semibold);
-    color: var(--secondary);
+    color: var(--gray);
 }
 
 .post-content h5 {
-    font-size: var(--h5size);
+    font-size: var(--entrysize);
     color: var(--tertiary);
 }
 
@@ -287,13 +287,13 @@
 .toc .details {
     display: inline;
     font-weight: var(--semibold);
-    font-size: var(--h4size);
+    font-size: var(--metasize);
 }
 
 .toc .inner {
     margin: 0 calc(var(--marginleft) - 12px);
     padding: 10px 20px;
-    font-size: var(--h4size);
+    font-size: var(--metasize);
 }
 
 .toc li ul {

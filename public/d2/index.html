@@ -10,7 +10,7 @@
 <meta name="description" content="This template produces a minimalist academic paper with LaTeX.">
 <meta name="author" content="P Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d2/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.de5a85db056bfe76bf591b6532bc5680c85d493dba4d8ac173623e268df8aca4.css" integrity="sha256-3lqF2wVr/na/WRtlMrxWgMhdST26TYrBc2I&#43;Jo34rKQ=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.34a9b9a46a6bfa2abc487769c493811ec2f2b5b6113a38aebbb76cb471d504f3.css" integrity="sha256-NKm5pGpr&#43;iq8SHdpxJOBHsLytbYROjiuu7dstHHVBPM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -71,8 +71,8 @@
   "keywords": [
     
   ],
-  "articleBody": "Download This template produces minimalist academic papers with LaTeX. This paper illustrates the output of the template.\npaper.tex – Skeleton for the paper. Fill it out with the content of your paper. By compiling paper.tex you obtain this PDF file . paper.sty – LaTeX style file collecting all the formatting commands. Must be included in the same folder as paper.tex. Additional files for online appendix The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix. This appendix illustrates the output of the template.\nappendix.tex – Skeleton of the online appendix. Fill it out with the content of your online appendix. The appendix must be in the same folder as the paper so the equation and section labels from the paper can be used in the online appendix. By compiling appendix.tex you obtain this PDF file . appendix.sty – LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as appendix.tex. This style file must be used in conjunction with paper.sty, which must also be included in the folder. Key features The font for text, roman math, and numbers is Source Serif Pro . The font for Greek and calligraphic math is Euler . No colors are used in the text (only black) to reduce distraction, and so papers print well. Colors are reserved for graphs. Margins, spacing, and font size are set for comfortable reading. Headings are designed so the paper is easy to scan. Formatting is also specified for appendix and online appendix. Reference As much as possible the template follows Matthew Butterick’s wonderful typographical advice in Practical Typography . The references follow the guidelines from the Chicago Manual of Style .\nAlthough academic papers are eventually formatted by their publishers, it is important to format preprints (pre-publication papers) well to disseminate their message effectively. A well-formatted preprint should be easy to read, of course, but also easy to scan. Many scientists look at papers in search of specific results, methods, or references—those should be easy to find.\nHaving well-formatted preprints is especially important in fields in which papers remain at the preprint stage for years before being published—economics for instance. Most people will read your paper at the preprint stage, not in its published form. It is therefore key to have journal-quality, or above-journal-quality formatting. (Elsevier’s journals are notoriously ugly and difficult to read: you want to aim higher than that.)\nIn a previous post, I shared a minimalist template to write academic presentations with LateX Beamer and offered some guidelines to format academic presentations. In this second post on academic typography, I share a minimalist template to write academic papers with LaTeX.\nDownloading the template The paper template is freely available on GitHub. The GitHub repository contains the paper template, accompanying style files (for the paper and bibliography), a paper example, and a readme file explaining how to use the template. The template produces a paper using LaTeX. Title page\nThe template’s title page is pretty minimalist but contains all the required information: title, authors, date, abstract, affiliations, and acknowledgements. You can specify an URL for the paper, which allows readers to go easily to the latest version of the paper.\nText font The font determines the appearance and readability of the entire paper, so choosing a good font is key. Matthew Butterick has a nice introduction to font choice. Based on Butterick’s advice, I chose Source Serif Pro for the template. Source Serif Pro is a serif font—a typical choice for long-form writing. Source Serif Pro is not part of typical paper templates (unlike Times New Roman or Palatino), so it has a new, fresh feel. And since Source Serif Pro was designed in the last decade, it also has a modern feel.\nMath font LaTeX uses one font for text and other fonts for math. For consistency, the template sticks with Source Serif Pro for roman math. It also uses Source Serif Pro for all the numbers in math. This way you do not get different-looking numbers if you type 2.5 or $2.5$.\nFor the Greek letters in math, the template uses the Euler font. These Greek letters look good, have the same thickness and height as the text letters, and are distinctive.\nThe template also uses the Euler font for calligraphic letters in math. This calligraphic letters fit well with the other fonts and are very readable.\nFinally, the template uses a simple geometric sans-serif font as blackboard bold font. It is cleaner than the default blackboard bold font.\nMathematical expressions in the paper look like this: Font size, spacing, margins\nThe font size is 12pt, which is standard. It is easily readable but not too big. (See also Butterick’s discussion of font sizes.)\nThe spacing is 150% of the point size. This is in line with Butterick’s advice. This avoids that the text is too cramped or too spread out.\nThe margins are 1.1 inch. This provides a bit a white space on the page. Furthermore, with such margins, there are always 80–90 characters per line, just as Butterick recommends. (Longer lines are harder to read.) Headings\nThe template’s headings follow Butterick’s advice. Section headings are a bit larger and bold. Subsection headings are bold. And paragraph headings are just italic (I use a lot of paragraph headings so I did not want them to be too prominent). To clearly separate sections, I also opted to center section headings (just like the paper title).\nI would not recommend using subsubsections and smaller headings in a paper—they are a sign that the paper’s organization is too messy. Accordingly the template does not tailor formatting for these headings.\nThe collection of headings looks like this: Color scheme\nAs Butterick says, use color with restraint. A lot of colors, especially bright ones, are distracting. Furthermore, many colors are hard to read when they are printed in black \u0026 white. To reduce distraction, and to have a paper that prints well, the template only uses the color black for text. Figures\nAn advantage of avoiding colors in the text is that the colors in figures really stand out. Here is a figure with two panels produced by the template:\nThe graphs above are produced with Matlab. I use a sans-serif font (Helvetica) for the text in the graphs to improves readability. I chose the font size in the graphs so the text in the graph is about the same size as footnote text. This way you are sure that the figure will be easily readable (smaller text would be difficult to read).\nThe figure environment is set up so you can reference a figure (figure 1) or directly a panel (figure 1A). It also allows you to enter a note below the figure caption with details about the figure and sources.\nA figure with two panels fits well at the top of a page. A figure with four or six panels fits on a whole page: Tables\nIt is very easy to produce tables with the template. A table looks like this: Lists\nIt is also easy to use itemized or numbered list in the paper template. The lists are customized to fit well with the surrounding text. They look like this: References\nThe template comes with a style file for the bibliography. The syle file follows the Chicago Manual of Style. The references look like this: Appendix\nThe template is also designed so it is easy to add an appendix at the end of the paper. All the appendix sections are clearly marked “Appendix” and are numbered as appendix A, appendix B, appendix C, and so on. The appendix subsections are also numbered so they can be referred to (for instance, appendix A.1). All numbered items in the appendix are labelled with an “A” so it is clear that they come from the appendix (for instance corollary A1 and equation (A1) below). The appendix looks like this: Online appendix\nOnce your paper gets published you will be asked to transform the appendix into an online appendix. To help with this task, the repository also includes a template for online appendices. It adds two features to the paper template. First, the abstract is replaced by a table of contents: Second, it allows you to continue using all the references from the paper. So the cross-references from paper to appendix are not broken even though the appendix is now in a separate file.\n",
-  "wordCount" : "1419",
+  "articleBody": "About This template produces minimalist academic papers with LaTeX. Although academic papers are eventually formatted by their publishers, it is important to format preprints (pre-publication papers) well to disseminate their message effectively. A well-formatted preprint should be easy to read, of course, but also easy to scan. Many scientists look at papers in search of specific results, methods, or references—those should be easy to find.\nHaving well-formatted preprints is especially important in fields in which papers remain at the preprint stage for years before being published—economics for instance. Most people will read your paper at the preprint stage, not in its published form. It is therefore key to have journal-quality, or above-journal-quality formatting. (Elsevier’s journals are notoriously ugly and difficult to read: you want to aim higher than that.)\nIn a previous post, I shared a minimalist template to write academic presentations with LateX Beamer and offered some guidelines to format academic presentations. In this second post on academic typography, I share a minimalist template to write academic papers with LaTeX.\nDownload The paper template is freely available on GitHub. The GitHub repository contains the paper template, accompanying style files (for the paper and bibliography), a paper example, and a readme file explaining how to use the template. The template produces a paper using LaTeX.\nPaper template Template output Additional files for online appendix The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix. This appendix illustrates the output of the template.\nappendix.tex – Skeleton of the online appendix. Fill it out with the content of your online appendix. The appendix must be in the same folder as the paper so the equation and section labels from the paper can be used in the online appendix. By compiling appendix.tex you obtain this PDF file . appendix.sty – LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as appendix.tex. This style file must be used in conjunction with paper.sty, which must also be included in the folder. Features The font for text, roman math, and numbers is Source Serif Pro . The font for Greek and calligraphic math is Euler . No colors are used in the text (only black) to reduce distraction, and so papers print well. Colors are reserved for graphs. Margins, spacing, and font size are set for comfortable reading. Headings are designed so the paper is easy to scan. Formatting is also specified for appendix and online appendix. Reference As much as possible the template follows Matthew Butterick’s wonderful typographical advice in Practical Typography . The references follow the guidelines from the Chicago Manual of Style .\nTitle page The template’s title page is pretty minimalist but contains all the required information: title, authors, date, abstract, affiliations, and acknowledgements. You can specify an URL for the paper, which allows readers to go easily to the latest version of the paper.\nText font The font determines the appearance and readability of the entire paper, so choosing a good font is key. Matthew Butterick has a nice introduction to font choice. Based on Butterick’s advice, I chose Source Serif Pro for the template. Source Serif Pro is a serif font—a typical choice for long-form writing. Source Serif Pro is not part of typical paper templates (unlike Times New Roman or Palatino), so it has a new, fresh feel. And since Source Serif Pro was designed in the last decade, it also has a modern feel.\nMath font LaTeX uses one font for text and other fonts for math. For consistency, the template sticks with Source Serif Pro for roman math. It also uses Source Serif Pro for all the numbers in math. This way you do not get different-looking numbers if you type 2.5 or $2.5$.\nFor the Greek letters in math, the template uses the Euler font. These Greek letters look good, have the same thickness and height as the text letters, and are distinctive.\nThe template also uses the Euler font for calligraphic letters in math. This calligraphic letters fit well with the other fonts and are very readable.\nFinally, the template uses a simple geometric sans-serif font as blackboard bold font. It is cleaner than the default blackboard bold font.\nFont size, spacing, margins The font size is 12pt, which is standard. It is easily readable but not too big. (See also Butterick’s discussion of font sizes.)\nThe spacing is 150% of the point size. This is in line with Butterick’s advice. This avoids that the text is too cramped or too spread out.\nThe margins are 1.1 inch. This provides a bit a white space on the page. Furthermore, with such margins, there are always 80–90 characters per line, just as Butterick recommends. (Longer lines are harder to read.)\nHeadings The template’s headings follow Butterick’s advice. Section headings are a bit larger and bold. Subsection headings are bold. And paragraph headings are just italic (I use a lot of paragraph headings so I did not want them to be too prominent). To clearly separate sections, I also opted to center section headings (just like the paper title).\nI would not recommend using subsubsections and smaller headings in a paper—they are a sign that the paper’s organization is too messy. Accordingly the template does not tailor formatting for these headings.\nColor scheme As Butterick says, use color with restraint. A lot of colors, especially bright ones, are distracting. Furthermore, many colors are hard to read when they are printed in black \u0026 white. To reduce distraction, and to have a paper that prints well, the template only uses the color black for text.\nFigures An advantage of avoiding colors in the text is that the colors in figures really stand out. Here is a figure with two panels produced by the template:\nThe graphs above are produced with Matlab. I use a sans-serif font (Helvetica) for the text in the graphs to improves readability. I chose the font size in the graphs so the text in the graph is about the same size as footnote text. This way you are sure that the figure will be easily readable (smaller text would be difficult to read).\nThe figure environment is set up so you can reference a figure (figure 1) or directly a panel (figure 1A). It also allows you to enter a note below the figure caption with details about the figure and sources.\nA figure with two panels fits well at the top of a page. A figure with four or six panels fits on a whole page.\nTables It is very easy to produce tables with the template. A table looks like this: Lists\nIt is also easy to use itemized or numbered list in the paper template. The lists are customized to fit well with the surrounding text. They look like this:\nReferences The template comes with a style file for the bibliography. The syle file follows the Chicago Manual of Style.\nAppendix The template is also designed so it is easy to add an appendix at the end of the paper. All the appendix sections are clearly marked “Appendix” and are numbered as appendix A, appendix B, appendix C, and so on. The appendix subsections are also numbered so they can be referred to (for instance, appendix A.1). All numbered items in the appendix are labelled with an “A” so it is clear that they come from the appendix (for instance corollary A1 and equation (A1) below). The appendix looks like this:\nOnline appendix Once your paper gets published you will be asked to transform the appendix into an online appendix. To help with this task, the repository also includes a template for online appendices. It adds two features to the paper template:\nThe abstract is replaced by a table of contents. All the references from the paper continue to be usable. So the cross-references from paper to appendix are not broken even though the appendix is now in a separate file. ",
+  "wordCount" : "1345",
   "inLanguage": "en",
   "image":"https://pascalmichaillat.org/d2.png","datePublished": "2023-01-29T00:00:00Z",
   "dateModified": "2023-01-29T00:00:00Z",
@@ -198,29 +198,43 @@
 
         <div class="inner"><nav id="TableOfContents">
   <ul>
+    <li><a href="#about">About</a></li>
     <li><a href="#download">Download</a></li>
     <li><a href="#additional-files-for-online-appendix">Additional files for online appendix</a></li>
-    <li><a href="#key-features">Key features</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#reference">Reference</a></li>
-    <li><a href="#downloading-the-template">Downloading the template</a></li>
+    <li><a href="#title-page">Title page</a></li>
     <li><a href="#text-font">Text font</a></li>
     <li><a href="#math-font">Math font</a></li>
+    <li><a href="#font-size-spacing-margins">Font size, spacing, margins</a></li>
+    <li><a href="#headings">Headings</a></li>
+    <li><a href="#color-scheme">Color scheme</a></li>
+    <li><a href="#figures">Figures</a></li>
+    <li><a href="#tables">Tables</a></li>
+    <li><a href="#references">References</a></li>
+    <li><a href="#appendix">Appendix</a></li>
+    <li><a href="#online-appendix">Online appendix</a></li>
   </ul>
 </nav>
         </div>
     </details>
 </div>
 
-  <div class="post-content"><h2 id="download">Download</h2>
-<p>This template produces minimalist academic papers with LaTeX. <a href="/d2.pdf">This paper</a>
- illustrates the output of the template.</p>
+  <div class="post-content"><h2 id="about">About</h2>
+<p>This template produces minimalist academic papers with LaTeX. Although academic papers are eventually formatted by their publishers, it is important to format preprints (pre-publication papers) well to disseminate their message effectively. A well-formatted preprint should be easy to read, of course, but also easy to scan. Many scientists look at papers in search of specific results, methods, or references—those should be easy to find.</p>
+<p>Having well-formatted preprints is especially important in fields in which papers remain at the preprint stage for years before being published—economics for instance. Most people will read your paper at the preprint stage, not in its published form. It is therefore key to have journal-quality, or above-journal-quality formatting. (Elsevier’s journals are notoriously ugly and difficult to read: you want to aim higher than that.)</p>
+<p>In a previous post, I shared a minimalist template to write academic presentations with LateX Beamer and offered some guidelines to format academic presentations. In this second post on academic typography, I share a minimalist template to write academic papers with LaTeX.</p>
+<!-- - [paper.sty](/paper.sty) --  LaTeX style file collecting all the formatting commands. Must be included in the same folder as `paper.tex`. -->
+<hr>
+<h2 id="download">Download</h2>
+<p>The paper template is freely available on GitHub. The GitHub repository contains the paper template, accompanying style files (for the paper and bibliography), a paper example, and a readme file explaining how to use the template. The template produces a paper using LaTeX.</p>
 <ul>
-<li><a href="/paper.tex">paper.tex</a>
- &ndash;  Skeleton for the paper. Fill it out with the content of your paper. By compiling <code>paper.tex</code> you obtain <a href="/d2.pdf">this PDF file</a>
-.</li>
-<li><a href="/paper.sty">paper.sty</a>
- &ndash;  LaTeX style file collecting all the formatting commands. Must be included in the same folder as <code>paper.tex</code>.</li>
+<li><a href="https://github.com/pmichaillat/latex-paper" target="_blank">Paper template</a>
+</li>
+<li><a href="/d2.pdf">Template output</a>
+</li>
 </ul>
+<hr>
 <h2 id="additional-files-for-online-appendix">Additional files for online appendix</h2>
 <p>The repository also includes an additional template and style file in case the appendix of the paper must be carved out into a separate online appendix. <a href="/d2a.pdf">This appendix</a>
  illustrates the output of the template.</p>
@@ -231,7 +245,8 @@
 <li><a href="/appendix.sty">appendix.sty</a>
  –  LaTeX style file collecting additional formatting commands for the online appendix. Must be included in the same folder as <code>appendix.tex</code>. This style file must be used in conjunction with <code>paper.sty</code>, which must also be included in the folder.</li>
 </ul>
-<h2 id="key-features">Key features</h2>
+<hr>
+<h2 id="features">Features</h2>
 <ul>
 <li>The font for text, roman math, and numbers is <a href="https://fonts.google.com/specimen/Source&#43;Serif&#43;Pro" target="_blank">Source Serif Pro</a>
 .</li>
@@ -242,51 +257,59 @@
 <li>Headings are designed so the paper is easy to scan.</li>
 <li>Formatting is also specified for appendix and online appendix.</li>
 </ul>
+<hr>
 <h2 id="reference">Reference</h2>
 <p>As much as possible the template follows Matthew Butterick&rsquo;s wonderful typographical advice in <a href="https://practicaltypography.com" target="_blank">Practical Typography</a>
 . The references follow the guidelines from the <a href="https://www.chicagomanualofstyle.org/home.html" target="_blank">Chicago Manual of Style</a>
 .</p>
-<p>Although academic papers are eventually formatted by their publishers, it is important to format preprints (pre-publication papers) well to disseminate their message effectively. A well-formatted preprint should be easy to read, of course, but also easy to scan. Many scientists look at papers in search of specific results, methods, or references—those should be easy to find.</p>
-<p>Having well-formatted preprints is especially important in fields in which papers remain at the preprint stage for years before being published—economics for instance. Most people will read your paper at the preprint stage, not in its published form. It is therefore key to have journal-quality, or above-journal-quality formatting. (Elsevier’s journals are notoriously ugly and difficult to read: you want to aim higher than that.)</p>
-<p>In a previous post, I shared a minimalist template to write academic presentations with LateX Beamer and offered some guidelines to format academic presentations. In this second post on academic typography, I share a minimalist template to write academic papers with LaTeX.</p>
-<h2 id="downloading-the-template">Downloading the template</h2>
-<p>The paper template is freely available on GitHub. The GitHub repository contains the paper template, accompanying style files (for the paper and bibliography), a paper example, and a readme file explaining how to use the template. The template produces a paper using LaTeX.
-Title page</p>
+<hr>
+<h2 id="title-page">Title page</h2>
 <p>The template’s title page is pretty minimalist but contains all the required information: title, authors, date, abstract, affiliations, and acknowledgements. You can specify an URL for the paper, which allows readers to go easily to the latest version of the paper.</p>
+<hr>
 <h2 id="text-font">Text font</h2>
 <p>The font determines the appearance and readability of the entire paper, so choosing a good font is key. Matthew Butterick has a nice introduction to font choice. Based on Butterick’s advice, I chose Source Serif Pro for the template. Source Serif Pro is a serif font—a typical choice for long-form writing. Source Serif Pro is not part of typical paper templates (unlike Times New Roman or Palatino), so it has a new, fresh feel. And since Source Serif Pro was designed in the last decade, it also has a modern feel.</p>
+<hr>
 <h2 id="math-font">Math font</h2>
 <p>LaTeX uses one font for text and other fonts for math. For consistency, the template sticks with Source Serif Pro for roman math. It also uses Source Serif Pro for all the numbers in math. This way you do not get different-looking numbers if you type 2.5 or $2.5$.</p>
 <p>For the Greek letters in math, the template uses the Euler font. These Greek letters look good, have the same thickness and height as the text letters, and are distinctive.</p>
 <p>The template also uses the Euler font for calligraphic letters in math. This calligraphic letters fit well with the other fonts and are very readable.</p>
 <p>Finally, the template uses a simple geometric sans-serif font as blackboard bold font. It is cleaner than the default blackboard bold font.</p>
-<p>Mathematical expressions in the paper look like this:
-Font size, spacing, margins</p>
+<hr>
+<h2 id="font-size-spacing-margins">Font size, spacing, margins</h2>
 <p>The font size is 12pt, which is standard. It is easily readable but not too big. (See also Butterick’s discussion of font sizes.)</p>
 <p>The spacing is 150% of the point size. This is in line with Butterick’s advice. This avoids that the text is too cramped or too spread out.</p>
-<p>The margins are 1.1 inch. This provides a bit a white space on the page. Furthermore, with such margins, there are always 80–90 characters per line, just as Butterick recommends. (Longer lines are harder to read.)
-Headings</p>
+<p>The margins are 1.1 inch. This provides a bit a white space on the page. Furthermore, with such margins, there are always 80–90 characters per line, just as Butterick recommends. (Longer lines are harder to read.)</p>
+<hr>
+<h2 id="headings">Headings</h2>
 <p>The template’s headings follow Butterick’s advice. Section headings are a bit larger and bold. Subsection headings are bold. And paragraph headings are just italic (I use a lot of paragraph headings so I did not want them to be too prominent). To clearly separate sections, I also opted to center section headings (just like the paper title).</p>
 <p>I would not recommend using subsubsections and smaller headings in a paper—they are a sign that the paper’s organization is too messy. Accordingly the template does not tailor formatting for these headings.</p>
-<p>The collection of headings looks like this:
-Color scheme</p>
-<p>As Butterick says, use color with restraint. A lot of colors, especially bright ones, are distracting. Furthermore, many colors are hard to read when they are printed in black &amp; white. To reduce distraction, and to have a paper that prints well, the template only uses the color black for text.
-Figures</p>
+<hr>
+<h2 id="color-scheme">Color scheme</h2>
+<p>As Butterick says, use color with restraint. A lot of colors, especially bright ones, are distracting. Furthermore, many colors are hard to read when they are printed in black &amp; white. To reduce distraction, and to have a paper that prints well, the template only uses the color black for text.</p>
+<hr>
+<h2 id="figures">Figures</h2>
 <p>An advantage of avoiding colors in the text is that the colors in figures really stand out. Here is a figure with two panels produced by the template:</p>
 <p>The graphs above are produced with Matlab. I use a sans-serif font (Helvetica) for the text in the graphs to improves readability. I chose the font size in the graphs so the text in the graph is about the same size as footnote text. This way you are sure that the figure will be easily readable (smaller text would be difficult to read).</p>
 <p>The figure environment is set up so you can reference a figure (figure 1) or directly a panel (figure 1A). It also allows you to enter a note below the figure caption with details about the figure and sources.</p>
-<p>A figure with two panels fits well at the top of a page. A figure with four or six panels fits on a whole page:
-Tables</p>
+<p>A figure with two panels fits well at the top of a page. A figure with four or six panels fits on a whole page.</p>
+<hr>
+<h2 id="tables">Tables</h2>
 <p>It is very easy to produce tables with the template. A table looks like this:
 Lists</p>
-<p>It is also easy to use itemized or numbered list in the paper template. The lists are customized to fit well with the surrounding text. They look like this:
-References</p>
-<p>The template comes with a style file for the bibliography. The syle file follows the Chicago Manual of Style. The references look like this:
-Appendix</p>
-<p>The template is also designed so it is easy to add an appendix at the end of the paper. All the appendix sections are clearly marked “Appendix” and are numbered as appendix A, appendix B, appendix C, and so on. The appendix subsections are also numbered so they can be referred to (for instance, appendix A.1). All numbered items in the appendix are labelled with an “A” so it is clear that they come from the appendix (for instance corollary A1 and equation (A1) below). The appendix looks like this:
-Online appendix</p>
-<p>Once your paper gets published you will be asked to transform the appendix into an online appendix. To help with this task, the repository also includes a template for online appendices. It adds two features to the paper template. First, the abstract is replaced by a table of contents:
-Second, it allows you to continue using all the references from the paper. So the cross-references from paper to appendix are not broken even though the appendix is now in a separate file.</p>
+<p>It is also easy to use itemized or numbered list in the paper template. The lists are customized to fit well with the surrounding text. They look like this:</p>
+<hr>
+<h2 id="references">References</h2>
+<p>The template comes with a style file for the bibliography. The syle file follows the Chicago Manual of Style.</p>
+<hr>
+<h2 id="appendix">Appendix</h2>
+<p>The template is also designed so it is easy to add an appendix at the end of the paper. All the appendix sections are clearly marked “Appendix” and are numbered as appendix A, appendix B, appendix C, and so on. The appendix subsections are also numbered so they can be referred to (for instance, appendix A.1). All numbered items in the appendix are labelled with an “A” so it is clear that they come from the appendix (for instance corollary A1 and equation (A1) below). The appendix looks like this:</p>
+<hr>
+<h2 id="online-appendix">Online appendix</h2>
+<p>Once your paper gets published you will be asked to transform the appendix into an online appendix. To help with this task, the repository also includes a template for online appendices. It adds two features to the paper template:</p>
+<ul>
+<li>The abstract is replaced by a table of contents.</li>
+<li>All the references from the paper continue to be usable. So the cross-references from paper to appendix are not broken even though the appendix is now in a separate file.</li>
+</ul>
 
   </div>
 

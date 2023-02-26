@@ -10,7 +10,7 @@
 <meta name="description" content="This LaTeX style file collects commands to easily write mathematical expressions in LaTeX, and easily read them.">
 <meta name="author" content="P Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d3/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.de5a85db056bfe76bf591b6532bc5680c85d493dba4d8ac173623e268df8aca4.css" integrity="sha256-3lqF2wVr/na/WRtlMrxWgMhdST26TYrBc2I&#43;Jo34rKQ=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.34a9b9a46a6bfa2abc487769c493811ec2f2b5b6113a38aebbb76cb471d504f3.css" integrity="sha256-NKm5pGpr&#43;iq8SHdpxJOBHsLytbYROjiuu7dstHHVBPM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -71,8 +71,8 @@
   "keywords": [
     
   ],
-  "articleBody": "Download Collection of LaTeX commands to write math Objective The commands are designed to make it easy to write math in LaTeX. The commands are also designed so the formulas in LaTeX resemble as much as possible the formulas on paper. With these commands, it is therefore easier to read mathematical expressions or write proofs directly in LaTeX.\nFeatures The commands are tailored to write math in economics and other social sciences, although they might also be helpful to write math in other fields. The commands introduce the following functionalities:\nEasily insert brackets that scale automatically Easily list arguments of operators (expectation, probability, min, max, exponential, log, and so on), with surrounding brackets that scale automatically Easily write derivatives and elasticities, in display and text Easily type statistical commands (independent and identically distributed variables, almost sure convergence) Easily type key blackboard letters Easily type uppercase calligraphic letters Easily type Greek letters Easily insert accents that scale automatically Brackets Parentheses: \\bp{x} gives $\\left( x\\right)$, where the brackets scale automatically Square brackets:\\bs{x} gives $\\left[x\\right]$, where the brackets scale automatically Curly brackets: \\bc{x} gives $\\left\\lbrace x\\right\\rbrace$, where the brackets scale automatically Absolute value: \\abs{x} gives $|x|$, where the brackets scale automatically Norm: \\norm{x} gives $\\left\\lVert x \\right\\rVert$, where the brackets scale automatically Floor: \\floor{x} gives $\\left\\lfloor x\\right\\rfloor$, where the brackets scale automatically Parentheses for function arguments: f\\of{x} gives $f(x)$, where the parentheses scale automatically, and where spacing between the function f and the argument (x) is appropriate. f\\bp{x} gives $f\\left( x\\right)$, which introduces too much space between the function f and the argument (x). Operators Logarithm: \\ln gives $\\ln$ \\ln{x} gives $\\ln(x)$, where the parentheses scale automatically Exponential: \\exp gives $\\exp$ \\exp{x} gives $\\exp(x)$, where the parentheses scale automatically Indicator: \\ind gives $\\mathbb{1}$ \\ind{Y} gives $\\mathbb{1}(Y)$, where the parentheses scale automatically Trace: \\tr gives $\\operatorname{tr}$ \\tr{Y} gives $\\operatorname{tr}(Y)$, where the parentheses scale automatically Variance: \\var gives $\\operatorname{var}$ \\var{Y} gives $\\operatorname{var}(Y)$, where the parentheses scale automatically Covariance: \\cov gives $\\operatorname{cov}$ \\cov{Y} gives $\\operatorname{cov}$, where the parentheses scale automatically Correlation: \\corr gives $\\operatorname{corr}$ \\corr{Y} gives $\\operatorname{corr}(Y)$, where the parentheses scale automatically Standard deviation: \\sd gives $\\operatorname{sd}$ \\sd{Y} gives $\\operatorname{sd}(Y)$, where the parentheses scale automatically Standard error: \\se gives $\\operatorname{se}$ \\se{Y} gives $\\operatorname{se}(Y)$, where the parentheses scale automatically Maximum: \\max gives $\\max$ \\max[x] gives $\\max_x$ \\max{y} gives ${\\max}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\max[x]{y} gives ${\\max_x}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\argmax gives $\\operatorname{argmax}$ Minimum: \\min gives $\\min$ \\min[x] gives $\\min_x$ \\min{y} gives ${\\min}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\min[x]{y} gives ${\\min_x}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\argmin gives $\\operatorname{argmin}$ Expectation: \\E gives $\\mathbb{E}$ \\E[X] gives $\\mathbb{E}_X$ \\E{Y} gives $\\mathbb{E}[Y]$, where the brackets scale automatically \\E[X]{Y} gives $\\mathbb{E}_X[Y]$, where the brackets scale automatically Probability: \\P gives $\\mathbb{P}$ \\P[X] gives $\\mathbb{P}_X$ \\P{Y} gives $\\mathbb{P}[Y]$, where the brackets scale automatically \\P[X]{Y} gives $\\mathbb{P}_X[Y]$, where the brackets scale automatically Derivatives Partial derivative of $x$ with respect to $y$ In display: \\pd{x}{y} gives $$\\frac{\\partial x}{\\partial y}$$ In text: \\pdx{x}{y} gives $\\partial x/\\partial y$ Partial derivative of $x$ with respect to $y$, keeping $z$ constant In display: \\pdk{x}{y}{z} $$\\left.\\frac{\\partial x}{\\partial y}\\right\\vert_{z}$$ In text: \\pdkx{x}{y}{z} gives $\\left.\\partial x/\\partial y\\right\\vert_{z}$ Ordinary derivative of $x$ with respect to $y$ In display: \\od{x}{y} gives $$\\frac{d x}{d y}$$ In text: \\odx{x}{y} gives $d x/d y$ Elasticity of $x$ with respect to $y$ Partial, in display: \\pe{x}{y} gives $$\\frac{\\partial\\ln x}{\\partial\\ln y}$$ Ordinary, in display: \\oe{x}{y} gives $$\\frac{d\\ln x}{d\\ln y}$$ Partial, in text: \\pex{x}{y} gives $\\partial\\ln(x)/\\partial\\ln(y)$ Ordinary, in text: \\oex{x}{y} gives $d\\ln(x)/d\\ln(y)$ Statistical commands Independent and identically distributed variables: \\iid gives $\\mathbin{\\overset{iid}{\\sim}}$ Almost sure convergence: \\as gives $\\mathbin{\\overset{as}{\\to}}$ Essential infimum and supremum: \\ees gives $\\operatorname{ees}$ Blackboard letters \\R gives $\\mathbb{R}$ \\N gives $\\mathbb{N}$ \\Z gives $\\mathbb{Z}$ \\Q gives $\\mathbb{Q}$ \\C gives $\\mathbb{C}$ \\I gives $\\mathbb{I}$ Calligraphic letters \\Ac gives $\\mathcal{A}$ \\Bc gives $\\mathcal{B}$ \\Cc gives $\\mathcal{C}$ \\Dc gives $\\mathcal{D}$ \\Ec gives $\\mathcal{E}$ \\Fc gives $\\mathcal{F}$ \\Gc gives $\\mathcal{G}$ \\Hc gives $\\mathcal{H}$ \\Ic gives $\\mathcal{I}$ \\Jc gives $\\mathcal{J}$ \\Kc gives $\\mathcal{K}$ \\Lc gives $\\mathcal{L}$ \\Mc gives $\\mathcal{M}$ \\Nc gives $\\mathcal{N}$ \\Oc gives $\\mathcal{O}$ \\Pc gives $\\mathcal{P}$ \\Qc gives $\\mathcal{Q}$ \\Rc gives $\\mathcal{R}$ \\Sc gives $\\mathcal{S}$ \\Tc gives $\\mathcal{T}$ \\Uc gives $\\mathcal{U}$ \\Vc gives $\\mathcal{V}$ \\Wc gives $\\mathcal{W}$ \\Xc gives $\\mathcal{X}$ \\Yc gives $\\mathcal{Y}$ \\Zc gives $\\mathcal{Z}$ Greek letters \\a gives $\\alpha$ \\b gives $\\beta$ \\c gives $\\chi$ \\d gives $\\delta$ \\D gives $\\Delta$ \\e gives $\\epsilon$ \\f gives $\\phi$ \\vf gives $\\varphi$ \\F gives $\\Phi$ \\g gives $\\gamma$ \\G gives $\\Gamma$ \\h gives $\\eta$ \\k gives $\\kappa$ \\l gives $\\lambda$ \\L gives $\\Lambda$ \\m gives $\\mu$ \\n gives $\\nu$ \\o gives $\\omega$ \\O gives $\\Omega$ \\vp gives $\\varpi$ \\p gives $\\psi$ \\r gives $\\rho$ \\s gives $\\sigma$ \\vs gives $\\varsigma$ \\S gives $\\Sigma$ \\t gives $\\theta$ \\vt gives $\\vartheta$ \\T gives $\\Theta$ \\x gives $\\xi$ \\X gives $\\Xi$ \\z gives $\\zeta$ Accents Overline: \\ol{x} gives $\\overline{x}$, where the accent scales automatically Underline: \\ul{x} gives $\\underline{x}$, where the accent scales automatically Hat: \\wh{x} gives $\\widehat{x}$, where the accent scales automatically Tilde: \\wt{x} gives $\\widetilde{x}$, where the accent scales automatically ",
-  "wordCount" : "833",
+  "articleBody": "About The commands are designed to make it easy to write math in LaTeX. The commands are also designed so the formulas in LaTeX resemble as much as possible the formulas on paper. With these commands, it is therefore easier to read mathematical expressions or write proofs directly in LaTeX.\nDownload Collection of LaTeX commands to write math Features The commands are tailored to write math in economics and other social sciences, although they might also be helpful to write math in other fields. The commands introduce the following functionalities:\nEasily insert brackets that scale automatically Easily list arguments of operators (expectation, probability, min, max, exponential, log, and so on), with surrounding brackets that scale automatically Easily write derivatives and elasticities, in display and text Easily type statistical commands (independent and identically distributed variables, almost sure convergence) Easily type key blackboard letters Easily type uppercase calligraphic letters Easily type Greek letters Easily insert accents that scale automatically Brackets Parentheses: \\bp{x} gives $\\left( x\\right)$, where the brackets scale automatically Square brackets:\\bs{x} gives $\\left[x\\right]$, where the brackets scale automatically Curly brackets: \\bc{x} gives $\\left\\lbrace x\\right\\rbrace$, where the brackets scale automatically Absolute value: \\abs{x} gives $|x|$, where the brackets scale automatically Norm: \\norm{x} gives $\\left\\lVert x \\right\\rVert$, where the brackets scale automatically Floor: \\floor{x} gives $\\left\\lfloor x\\right\\rfloor$, where the brackets scale automatically Parentheses for function arguments: f\\of{x} gives $f(x)$, where the parentheses scale automatically, and where spacing between the function f and the argument (x) is appropriate. f\\bp{x} gives $f\\left( x\\right)$, which introduces too much space between the function f and the argument (x). Operators Logarithm: \\ln gives $\\ln$ \\ln{x} gives $\\ln(x)$, where the parentheses scale automatically Exponential: \\exp gives $\\exp$ \\exp{x} gives $\\exp(x)$, where the parentheses scale automatically Indicator: \\ind gives $\\mathbb{1}$ \\ind{Y} gives $\\mathbb{1}(Y)$, where the parentheses scale automatically Trace: \\tr gives $\\operatorname{tr}$ \\tr{Y} gives $\\operatorname{tr}(Y)$, where the parentheses scale automatically Variance: \\var gives $\\operatorname{var}$ \\var{Y} gives $\\operatorname{var}(Y)$, where the parentheses scale automatically Covariance: \\cov gives $\\operatorname{cov}$ \\cov{Y} gives $\\operatorname{cov}$, where the parentheses scale automatically Correlation: \\corr gives $\\operatorname{corr}$ \\corr{Y} gives $\\operatorname{corr}(Y)$, where the parentheses scale automatically Standard deviation: \\sd gives $\\operatorname{sd}$ \\sd{Y} gives $\\operatorname{sd}(Y)$, where the parentheses scale automatically Standard error: \\se gives $\\operatorname{se}$ \\se{Y} gives $\\operatorname{se}(Y)$, where the parentheses scale automatically Maximum: \\max gives $\\max$ \\max[x] gives $\\max_x$ \\max{y} gives ${\\max}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\max[x]{y} gives ${\\max_x}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\argmax gives $\\operatorname{argmax}$ Minimum: \\min gives $\\min$ \\min[x] gives $\\min_x$ \\min{y} gives ${\\min}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\min[x]{y} gives ${\\min_x}{\\left\\lbrace y\\right\\rbrace}$, where the brackets scale automatically \\argmin gives $\\operatorname{argmin}$ Expectation: \\E gives $\\mathbb{E}$ \\E[X] gives $\\mathbb{E}_X$ \\E{Y} gives $\\mathbb{E}[Y]$, where the brackets scale automatically \\E[X]{Y} gives $\\mathbb{E}_X[Y]$, where the brackets scale automatically Probability: \\P gives $\\mathbb{P}$ \\P[X] gives $\\mathbb{P}_X$ \\P{Y} gives $\\mathbb{P}[Y]$, where the brackets scale automatically \\P[X]{Y} gives $\\mathbb{P}_X[Y]$, where the brackets scale automatically Derivatives Partial derivative of $x$ with respect to $y$: In display: \\pd{x}{y} gives $\\frac{\\partial x}{\\partial y}$ In text: \\pdx{x}{y} gives $\\partial x/\\partial y$ Partial derivative of $x$ with respect to $y$, keeping $z$ constant: In display: \\pdk{x}{y}{z} gives $\\left.\\frac{\\partial x}{\\partial y}\\right\\vert_{z}$ In text: \\pdkx{x}{y}{z} gives $\\left.\\partial x/\\partial y\\right\\vert_{z}$ Ordinary derivative of $x$ with respect to $y$: In display: \\od{x}{y} gives $\\frac{d x}{d y}$ In text: \\odx{x}{y} gives $d x/d y$ Elasticity of $x$ with respect to $y$: Partial, in display: \\pe{x}{y} gives $\\frac{\\partial\\ln x}{\\partial\\ln y}$ Ordinary, in display: \\oe{x}{y} gives $\\frac{d\\ln x}{d\\ln y}$ Partial, in text: \\pex{x}{y} gives $\\partial\\ln(x)/\\partial\\ln(y)$ Ordinary, in text: \\oex{x}{y} gives $d\\ln(x)/d\\ln(y)$ Statistical commands Independent and identically distributed variables: \\iid gives $\\mathbin{\\overset{iid}{\\sim}}$ Almost sure convergence: \\as gives $\\mathbin{\\overset{as}{\\to}}$ Essential infimum and supremum: \\ees gives $\\operatorname{ees}$ Blackboard letters \\R gives $\\mathbb{R}$ \\N gives $\\mathbb{N}$ \\Z gives $\\mathbb{Z}$ \\Q gives $\\mathbb{Q}$ \\C gives $\\mathbb{C}$ \\I gives $\\mathbb{I}$ Calligraphic letters \\Ac gives $\\mathcal{A}$ \\Bc gives $\\mathcal{B}$ \\Cc gives $\\mathcal{C}$ \\Dc gives $\\mathcal{D}$ \\Ec gives $\\mathcal{E}$ \\Fc gives $\\mathcal{F}$ \\Gc gives $\\mathcal{G}$ \\Hc gives $\\mathcal{H}$ \\Ic gives $\\mathcal{I}$ \\Jc gives $\\mathcal{J}$ \\Kc gives $\\mathcal{K}$ \\Lc gives $\\mathcal{L}$ \\Mc gives $\\mathcal{M}$ \\Nc gives $\\mathcal{N}$ \\Oc gives $\\mathcal{O}$ \\Pc gives $\\mathcal{P}$ \\Qc gives $\\mathcal{Q}$ \\Rc gives $\\mathcal{R}$ \\Sc gives $\\mathcal{S}$ \\Tc gives $\\mathcal{T}$ \\Uc gives $\\mathcal{U}$ \\Vc gives $\\mathcal{V}$ \\Wc gives $\\mathcal{W}$ \\Xc gives $\\mathcal{X}$ \\Yc gives $\\mathcal{Y}$ \\Zc gives $\\mathcal{Z}$ Greek letters \\a gives $\\alpha$ \\b gives $\\beta$ \\c gives $\\chi$ \\d gives $\\delta$ \\D gives $\\Delta$ \\e gives $\\epsilon$ \\f gives $\\phi$ \\vf gives $\\varphi$ \\F gives $\\Phi$ \\g gives $\\gamma$ \\G gives $\\Gamma$ \\h gives $\\eta$ \\k gives $\\kappa$ \\l gives $\\lambda$ \\L gives $\\Lambda$ \\m gives $\\mu$ \\n gives $\\nu$ \\o gives $\\omega$ \\O gives $\\Omega$ \\vp gives $\\varpi$ \\p gives $\\psi$ \\r gives $\\rho$ \\s gives $\\sigma$ \\vs gives $\\varsigma$ \\S gives $\\Sigma$ \\t gives $\\theta$ \\vt gives $\\vartheta$ \\T gives $\\Theta$ \\x gives $\\xi$ \\X gives $\\Xi$ \\z gives $\\zeta$ Accents Overline: \\ol{x} gives $\\overline{x}$, where the accent scales automatically Underline: \\ul{x} gives $\\underline{x}$, where the accent scales automatically Hat: \\wh{x} gives $\\widehat{x}$, where the accent scales automatically Tilde: \\wt{x} gives $\\widetilde{x}$, where the accent scales automatically ",
+  "wordCount" : "834",
   "inLanguage": "en",
   "image":"https://pascalmichaillat.org/d3.png","datePublished": "2023-02-25T00:00:00Z",
   "dateModified": "2023-02-25T00:00:00Z",
@@ -198,8 +198,8 @@
 
         <div class="inner"><nav id="TableOfContents">
   <ul>
+    <li><a href="#about">About</a></li>
     <li><a href="#download">Download</a></li>
-    <li><a href="#objective">Objective</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#brackets">Brackets</a></li>
     <li><a href="#operators">Operators</a></li>
@@ -215,13 +215,15 @@
     </details>
 </div>
 
-  <div class="post-content"><h2 id="download">Download</h2>
+  <div class="post-content"><h2 id="about">About</h2>
+<p>The commands are designed to make it easy to write math in LaTeX. The commands are also designed so the formulas in LaTeX resemble as much as possible the formulas on paper. With these commands, it is therefore easier to read mathematical expressions or write proofs directly in LaTeX.</p>
+<hr>
+<h2 id="download">Download</h2>
 <ul>
 <li><a href="https://github.com/pmichaillat/latex-math" target="_blank">Collection of LaTeX commands to write math</a>
 </li>
 </ul>
-<h2 id="objective">Objective</h2>
-<p>The commands are designed to make it easy to write math in LaTeX. The commands are also designed so the formulas in LaTeX resemble as much as possible the formulas on paper. With these commands, it is therefore easier to read mathematical expressions or write proofs directly in LaTeX.</p>
+<hr>
 <h2 id="features">Features</h2>
 <p>The commands are tailored to write math in economics and other social sciences, although they might also be helpful to write math in other fields. The commands introduce the following functionalities:</p>
 <ul>
@@ -234,6 +236,7 @@
 <li>Easily type Greek letters</li>
 <li>Easily insert accents that scale automatically</li>
 </ul>
+<hr>
 <h2 id="brackets">Brackets</h2>
 <ul>
 <li>Parentheses: <code>\bp{x}</code> gives $\left( x\right)$, where the brackets scale automatically</li>
@@ -244,6 +247,7 @@
 <li>Floor: <code>\floor{x}</code> gives $\left\lfloor  x\right\rfloor$, where the brackets scale automatically</li>
 <li>Parentheses for function arguments: <code>f\of{x}</code> gives $f(x)$, where the parentheses scale automatically, and where spacing between the function <code>f</code> and the argument <code>(x)</code> is  appropriate. <code>f\bp{x}</code> gives $f\left( x\right)$, which introduces too much space between the function <code>f</code> and the argument <code>(x)</code>.</li>
 </ul>
+<hr>
 <h2 id="operators">Operators</h2>
 <ul>
 <li>Logarithm:
@@ -335,42 +339,44 @@
 </ul>
 </li>
 </ul>
+<hr>
 <h2 id="derivatives">Derivatives</h2>
 <ul>
-<li>Partial derivative of $x$ with respect to $y$
+<li>Partial derivative of $x$ with respect to $y$:
 <ul>
-<li>In display: <code>\pd{x}{y}</code> gives $$\frac{\partial x}{\partial y}$$</li>
+<li>In display: <code>\pd{x}{y}</code> gives $\frac{\partial x}{\partial y}$</li>
 <li>In text: <code>\pdx{x}{y}</code> gives $\partial x/\partial y$</li>
 </ul>
 </li>
-<li>Partial derivative of $x$ with respect to $y$, keeping $z$ constant</li>
-</ul>
+<li>Partial derivative of $x$ with respect to $y$, keeping $z$ constant:
 <ul>
-<li>In display: <code>\pdk{x}{y}{z}</code> $$\left.\frac{\partial x}{\partial y}\right\vert_{z}$$</li>
+<li>In display: <code>\pdk{x}{y}{z}</code> gives $\left.\frac{\partial x}{\partial y}\right\vert_{z}$</li>
 <li>In text: <code>\pdkx{x}{y}{z}</code> gives $\left.\partial x/\partial y\right\vert_{z}$</li>
 </ul>
+</li>
+<li>Ordinary derivative of $x$ with respect to $y$:
 <ul>
-<li>Ordinary derivative of $x$ with respect to $y$</li>
-</ul>
-<ul>
-<li>In display: <code>\od{x}{y}</code> gives $$\frac{d x}{d y}$$</li>
+<li>In display: <code>\od{x}{y}</code> gives $\frac{d x}{d y}$</li>
 <li>In text: <code>\odx{x}{y}</code> gives $d x/d y$</li>
 </ul>
+</li>
+<li>Elasticity of $x$ with respect to $y$:
 <ul>
-<li>Elasticity of $x$ with respect to $y$</li>
-</ul>
-<ul>
-<li>Partial, in display: <code>\pe{x}{y}</code> gives $$\frac{\partial\ln x}{\partial\ln y}$$</li>
-<li>Ordinary, in display: <code>\oe{x}{y}</code> gives $$\frac{d\ln x}{d\ln y}$$</li>
+<li>Partial, in display: <code>\pe{x}{y}</code> gives $\frac{\partial\ln x}{\partial\ln y}$</li>
+<li>Ordinary, in display: <code>\oe{x}{y}</code> gives $\frac{d\ln x}{d\ln y}$</li>
 <li>Partial, in text: <code>\pex{x}{y}</code> gives $\partial\ln(x)/\partial\ln(y)$</li>
 <li>Ordinary, in text: <code>\oex{x}{y}</code> gives $d\ln(x)/d\ln(y)$</li>
 </ul>
+</li>
+</ul>
+<hr>
 <h2 id="statistical-commands">Statistical commands</h2>
 <ul>
 <li>Independent and identically distributed variables: <code>\iid</code> gives $\mathbin{\overset{iid}{\sim}}$</li>
 <li>Almost sure convergence: <code>\as</code> gives $\mathbin{\overset{as}{\to}}$</li>
 <li>Essential infimum and supremum: <code>\ees</code> gives $\operatorname{ees}$</li>
 </ul>
+<hr>
 <h2 id="blackboard-letters">Blackboard letters</h2>
 <ul>
 <li><code>\R</code> gives $\mathbb{R}$</li>
@@ -380,6 +386,7 @@
 <li><code>\C</code> gives $\mathbb{C}$</li>
 <li><code>\I</code> gives $\mathbb{I}$</li>
 </ul>
+<hr>
 <h2 id="calligraphic-letters">Calligraphic letters</h2>
 <ul>
 <li><code>\Ac</code> gives $\mathcal{A}$</li>
@@ -409,6 +416,7 @@
 <li><code>\Yc</code> gives $\mathcal{Y}$</li>
 <li><code>\Zc</code> gives $\mathcal{Z}$</li>
 </ul>
+<hr>
 <h2 id="greek-letters">Greek letters</h2>
 <ul>
 <li><code>\a</code> gives $\alpha$</li>
@@ -443,6 +451,7 @@
 <li><code>\X</code> gives $\Xi$</li>
 <li><code>\z</code> gives $\zeta$</li>
 </ul>
+<hr>
 <h2 id="accents">Accents</h2>
 <ul>
 <li>Overline: <code>\ol{x}</code> gives $\overline{x}$, where the accent scales automatically</li>

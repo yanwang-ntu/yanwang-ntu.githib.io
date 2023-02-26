@@ -68,7 +68,7 @@
 }
 
 .entry-footer {
-    color: var(--primary);
+    color: var(--content);
     font-size: var(--entrysize);
 }
 

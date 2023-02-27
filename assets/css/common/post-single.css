@@ -207,14 +207,14 @@
     line-height: var(--lineheight);
     background: var(--code-bg);
     border-radius: 2px;
+    border: 1px solid var(--border);
 }
 
 .post-content pre code {
     display: block;
     margin: auto 0;
     padding: 10px;
-    color: rgb(213, 213, 214);
-    background: var(--hljs-bg) !important;
+    color: var(--gray);
     border-radius: var(--radius);
     overflow-x: auto;
     word-break: break-all;
@@ -223,7 +223,7 @@
 .post-content blockquote {
     margin: 20px 0;
     padding: 0 14px;
-    border-inline-start: 3px solid var(--primary);
+    border-inline-start: 4px solid var(--gray);
 }
 
 .post-content hr {
@@ -265,7 +265,7 @@
 
 .toc {
     margin: 0 2px 20px 2px;
-    border: 2px solid var(--border);
+    border: 1px solid var(--border);
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;

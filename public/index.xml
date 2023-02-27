@@ -5,7 +5,16 @@
     <link>https://pascalmichaillat.org/</link>
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimalist Template for Academic Websites</title>
+      <link>https://pascalmichaillat.org/d5/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d5/</guid>
+      <description>This template produces a minimalist academic website with Hugo, Papermod, and GitHub Pages.</description>
+    </item>
+    
     <item>
       <title>LaTeX Commands to Write Math</title>
       <link>https://pascalmichaillat.org/d3/</link>
@@ -40,15 +49,6 @@
       
       <guid>https://pascalmichaillat.org/d1/</guid>
       <description>This template produces a minimalist academic presentation with LaTeX Beamer.</description>
-    </item>
-    
-    <item>
-      <title>Minimalist Template for Academic Websites</title>
-      <link>https://pascalmichaillat.org/d5/</link>
-      <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d5/</guid>
-      <description>This template produces a minimalist academic website with Hugo, Papermod, and GitHub Pages.</description>
     </item>
     
     <item>

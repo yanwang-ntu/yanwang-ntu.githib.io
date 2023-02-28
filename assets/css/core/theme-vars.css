@@ -3,7 +3,7 @@
     --content-gap: 20px;
     --nav-width: 1024px;
     --main-width: 720px;
-    --header-height: 46px;
+    --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
     --theme: rgb(255, 255, 255);
@@ -19,13 +19,13 @@
     --darkpurple: #8e7bd0;
     --midpurple:#c0b5e5;
     --lightpurple: #e5e1f4;
-    --semibold: 550;
+    --semibold: 500;
     --homesize: 16px;
-    --titlesize: 28px;
+    --titlesize: 38px;
     --metasize: 16px;
-    --h2size: 22px;
-    --h3size: 17px;
-    --h4size: 16px;
+    --h2size: 24px;
+    --h3size: 15px;
+    --h4size: 14px;
     --textsize: 18px;
     --listsize: 20px;
     --entrysize: 15px;

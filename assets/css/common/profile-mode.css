@@ -13,7 +13,7 @@
 
 .profile .profile_inner h1 {
     padding: 12px 0;
-    font-size: 48px;
+    font-size: 45px;
     font-weight: var(--semibold);
 }
 
@@ -30,7 +30,7 @@
 .button {
     background: var(--tertiary);
     border-radius: var(--radius);
-    margin: 8px;
+    margin: 8px 16px 8px 0px;
     padding: 6px;
     transition: transform 0.1s;
 }

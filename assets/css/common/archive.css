@@ -8,7 +8,7 @@
 }
 
 .archive-year-header {
-    font-size: var(--h2size);
+    font-size: var(--h1size);
 }
 
 .archive-year:not(:last-of-type) {

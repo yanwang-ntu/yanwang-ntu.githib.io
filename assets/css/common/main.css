@@ -7,7 +7,7 @@
 }
 
 .page-header h1 {
-    font-size: var(--titlesize);
+    font-size: var(--h1size);
 }
 
 .pagination {

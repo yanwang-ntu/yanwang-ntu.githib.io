@@ -19,7 +19,7 @@
     --darkpurple: #8e7bd0;
     --midpurple:#c0b5e5;
     --lightpurple: #e5e1f4;
-    --semibold: 500;
+    --semibold: 550;
     --homesize: 16px;
     --titlesize: 38px;
     --metasize: 16px;
@@ -27,6 +27,7 @@
     --h3size: 15px;
     --h4size: 14px;
     --textsize: 18px;
+    --h1size: 25px;
     --listsize: 20px;
     --entrysize: 15px;
     --headersize: 16px;

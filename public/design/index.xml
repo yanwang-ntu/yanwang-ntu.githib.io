@@ -16,16 +16,16 @@
     </item>
     
     <item>
-      <title>Minimalist Template for Academic Websites</title>
+      <title>Minimalist Hugo Template for Academic Websites</title>
       <link>https://pascalmichaillat.org/d5/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d5/</guid>
-      <description>This template produces a minimalist academic website with Hugo, Papermod, and GitHub Pages.</description>
+      <description>This template produces a minimalist academic website with Hugo.</description>
     </item>
     
     <item>
-      <title>Minimalist Template for Academic Papers</title>
+      <title>Minimalist LaTeX Template for Academic Papers</title>
       <link>https://pascalmichaillat.org/d2/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -34,7 +34,7 @@
     </item>
     
     <item>
-      <title>Minimalist Template for Academic Presentations</title>
+      <title>Minimalist LaTeX Template for Academic Presentations</title>
       <link>https://pascalmichaillat.org/d1/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       

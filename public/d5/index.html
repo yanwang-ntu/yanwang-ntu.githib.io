@@ -10,7 +10,7 @@
 <meta name="description" content="This template produces a minimalist academic website with Hugo, Papermod, and GitHub Pages.">
 <meta name="author" content="P Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d5/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.41a59204c3a2c63bd304e7a9ea6c0948f7a3a8727e86ebddb397f916e667c130.css" integrity="sha256-QaWSBMOixjvTBOep6mwJSPejqHJ&#43;huvds5f5FuZnwTA=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.499b23a103ed4c4652eb3b36643833a3cef9f95df5339f43d9d40b2485487a56.css" integrity="sha256-SZsjoQPtTEZS6zs2ZDgzo875&#43;V31M59D2dQLJIVIelY=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -71,8 +71,8 @@
   "keywords": [
     
   ],
-  "articleBody": "Overview The source code to this website is publicly available as a template repository, so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The code might also be helpful to anyone who wishes to recreate specific features of this website.\nThe website was built with Hugo, PaperMod, and GitHub pages. It was designed to be as minimalist as possible so that it is easy to navigate, fast to load, easy to maintain, and especially so the focus is on the research and teaching material.\nDownload Source code to this website Infrastructure The website is built using the following software and services:\nHugo – A very fast, open-source static website generator PaperMod – A minimalist, fast, and flexible Hugo theme GitHub Pages and GitHub Actions – A simple way to deploy a website hosted in a GitHub repository Google Domains – A simple way to register your domain name and link it to your website Features The PaperMod theme is tailored to be more adapted to academic websites:\nOrganization of the pages in three categories: Papers – List of published and unpublished research papers, with links to individual paper pages Courses – List of undergraduate and graduate courses taught, with links to individual course pages Design projects – List of various design projects, with links to individual project pages It is easy to add new categories from here (code, data, and so on). The three categories are available from any page through the navigation menu and from the home page through buttons. Two automatically generated lists added to the menu: Tags – List of all the keywords for papers and courses Archive – Chronological list of all papers, courses, and design projects A search page could also be added by Placing archetypes/search.md into content/ Adding the following snippet below menu:main: in config.yml: - name: Search url: /search/ weight: 6 New social icons specific to academia: Office hours – Use name: Office Hours below params:socialIcons: in config.yml Zoom – Use name: Zoom below params:socialIcons: in config.yml Substack – Use name: Substack below params:socialIcons: in config.yml Google Scholar – Use name: Google Scholar below params:socialIcons: in config.yml All the icons are located in layouts/partials/svg.html Footer providing easy access to email address and newsletter Page metadata tailored to the academic context: Simple date format Permalinks for published articles and other projects Personalized color scheme, font, and general appearance New archetypes for paper pages and course pages ",
-  "wordCount" : "414",
+  "articleBody": "Overview The source code to this website is publicly available as a template repository, so anyone can generate a new repository with the same directory structure and files, and quickly create their own academic website. The code might also be helpful to anyone who wishes to recreate specific features of this website.\nThe website was built with Hugo, PaperMod, and GitHub pages. It was designed to be as minimalist as possible so that it is easy to navigate, fast to load, easy to maintain, and especially so the focus is on the research and teaching material.\nDownload Source code to this website Infrastructure The website is built using the following software and services:\nHugo – A very fast, open-source static website generator PaperMod – A minimalist, fast, and flexible Hugo theme GitHub Pages and GitHub Actions – A simple way to deploy a website hosted in a GitHub repository Google Domains – A simple way to register your domain name and link it to your website Features The PaperMod theme is tailored to be more adapted to academic websites.\nContent organization The content of the website is organized in three categories, which are available from any page through the navigation menu and from the home page through buttons:\nPapers – List of published and unpublished research papers, with links to individual paper pages Courses – List of undergraduate and graduate courses taught, with links to individual course pages Design projects – List of various design projects, with links to individual project pages It is easy to add new categories from here (code, data, and so on). Tags and archive Two automatically generated lists are added to the website:\nTags – List of all the keywords for papers and courses Archive – Chronological list of all papers, courses, and design projects Search page A search page can also be added to the website:\nPlace archetypes/search.md into content/ Add the following snippet below menu:main: in config.yml: - name: Search url: /search/ weight: 6 Social icons The website includes new social icons specific to academia:\nOffice hours – Use name: Office Hours below params:socialIcons: in config.yml Zoom – Use name: Zoom below params:socialIcons: in config.yml Substack – Use name: Substack below params:socialIcons: in config.yml Google Scholar – Use name: Google Scholar below params:socialIcons: in config.yml All the icons are located in layouts/partials/svg.html Footer The website does not have a footer, but it is possible to add one:\nSet hideFooterto false in config.yml. Customize email address and link to newsletter in layouts/partials/footer.html Other modifications The page metadata is tailored to the academic context, with a simple date format and permalinks for published articles and other projects. Color scheme, font, and general appearance are personalized. The template also comes with archetypes for paper pages and course pages. ",
+  "wordCount" : "462",
   "inLanguage": "en",
   "image":"https://pascalmichaillat.org/d5.png","datePublished": "2023-02-26T00:00:00Z",
   "dateModified": "2023-02-26T00:00:00Z",
@@ -235,9 +235,9 @@
 </ul>
 <hr>
 <h2 id="features">Features<a hidden class="anchor" aria-hidden="true" href="#features">#</a></h2>
-<p>The PaperMod theme is tailored to be more adapted to academic websites:</p>
-<ul>
-<li>Organization of the pages in three categories:
+<p>The PaperMod theme is tailored to be more adapted to academic websites.</p>
+<h3 id="content-organization">Content organization<a hidden class="anchor" aria-hidden="true" href="#content-organization">#</a></h3>
+<p>The content of the website is organized in three categories, which are available from any page through the navigation menu and from the home page through buttons:</p>
 <ul>
 <li><a href="https://pascalmichaillat.org/papers/" target="_blank">Papers</a>
  – List of published and unpublished research papers, with links to individual paper pages</li>
@@ -246,29 +246,26 @@
 <li><a href="https://pascalmichaillat.org/design/" target="_blank">Design projects</a>
  – List of various design projects, with links to individual project pages</li>
 <li>It is easy to add new categories from here (code, data, and so on).</li>
-<li>The three categories are available from any page through the navigation menu and from the home page through buttons.</li>
 </ul>
-</li>
-<li>Two automatically generated lists added to the menu:
+<h3 id="tags-and-archive">Tags and archive<a hidden class="anchor" aria-hidden="true" href="#tags-and-archive">#</a></h3>
+<p>Two automatically generated lists are added to the website:</p>
 <ul>
 <li><a href="https://pascalmichaillat.org/tags/" target="_blank">Tags</a>
  – List of all the keywords for papers and courses</li>
 <li><a href="https://pascalmichaillat.org/archive/" target="_blank">Archive</a>
  – Chronological list of all papers, courses, and design projects</li>
 </ul>
-</li>
-<li>A search page could also be added by
+<h3 id="search-page">Search page<a hidden class="anchor" aria-hidden="true" href="#search-page">#</a></h3>
+<p>A search page can also be added to the website:</p>
 <ul>
-<li>Placing <code>archetypes/search.md</code> into <code>content/</code></li>
-<li>Adding the following snippet below <code>menu:main:</code> in <code>config.yml</code>:</li>
-</ul>
-</li>
+<li>Place <code>archetypes/search.md</code> into <code>content/</code></li>
+<li>Add the following snippet below <code>menu:main:</code> in <code>config.yml</code>:</li>
 </ul>
 <div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yml" data-lang="yml"><span style="display:flex;"><span>- <span style="color:#000">name</span>: <span style="color:#1c01ce">Search  </span>
 </span></span><span style="display:flex;"><span>  <span style="color:#000">url</span>: <span style="color:#1c01ce">/search/  </span>
 </span></span><span style="display:flex;"><span>  <span style="color:#000">weight</span>: <span style="color:#1c01ce">6</span>
-</span></span></code></pre></div><ul>
-<li>New social icons specific to academia:
+</span></span></code></pre></div><h3 id="social-icons">Social icons<a hidden class="anchor" aria-hidden="true" href="#social-icons">#</a></h3>
+<p>The website includes new social icons specific to academia:</p>
 <ul>
 <li>Office hours – Use <code>name: Office Hours</code> below <code>params:socialIcons:</code> in <code>config.yml</code></li>
 <li>Zoom – Use <code>name: Zoom</code> below <code>params:socialIcons:</code> in <code>config.yml</code></li>
@@ -276,16 +273,17 @@
 <li>Google Scholar – Use <code>name: Google Scholar</code> below <code>params:socialIcons:</code> in <code>config.yml</code></li>
 <li>All the icons are located in <code>layouts/partials/svg.html</code></li>
 </ul>
-</li>
-<li>Footer providing easy access to email address and newsletter</li>
-<li>Page metadata tailored to the academic context:
+<h3 id="footer">Footer<a hidden class="anchor" aria-hidden="true" href="#footer">#</a></h3>
+<p>The website does not have a footer, but it is possible to add one:</p>
 <ul>
-<li>Simple date format</li>
-<li>Permalinks for published articles and other projects</li>
+<li>Set <code>hideFooter</code>to <code>false</code> in <code>config.yml</code>.</li>
+<li>Customize email address and link to newsletter in <code>layouts/partials/footer.html</code></li>
 </ul>
-</li>
-<li>Personalized color scheme, font, and general appearance</li>
-<li>New archetypes for paper pages and course pages</li>
+<h3 id="other-modifications">Other modifications<a hidden class="anchor" aria-hidden="true" href="#other-modifications">#</a></h3>
+<ul>
+<li>The page metadata is tailored to the academic context, with a simple date format and permalinks for published articles and other projects.</li>
+<li>Color scheme, font, and general appearance are personalized.</li>
+<li>The template also comes with archetypes for paper pages and course pages.</li>
 </ul>
 
 

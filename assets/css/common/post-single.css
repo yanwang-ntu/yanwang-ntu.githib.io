@@ -52,31 +52,30 @@
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: var(--h2size);
+    font-size: 24px;
 }
 
 .post-content h3 {
-    font-size: var(--h3size);    
-    font-weight: var(--semibold);
-    text-transform: uppercase;
-    color: var(--gray);
+    font-size: 19px;    
 }
 
 .post-content h4 {
-    font-size: var(--h4size);
+    font-size: 15px;    
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
 }
 
 .post-content h5 {
-    font-size: var(--entrysize);
-    color: var(--tertiary);
+    font-size: 14px;
+    font-weight: var(--semibold);
+    text-transform: uppercase;
+    color: var(--gray);
 }
 
 .post-content h6 {
     font-size: var(--footersize);
-    color: var(--tertiary);
+    color: var(--secondary);
 }
 
 .post-content a,
@@ -291,7 +290,7 @@
     display: inline;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    font-size: var(--h4size);
+    font-size: calc(var(--metasize) - 1px);
 }
 
 .toc .inner {

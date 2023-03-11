@@ -5,23 +5,23 @@
     <link>https://pascalmichaillat.org/</link>
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Minimalist LaTeX Commands to Write Math</title>
-      <link>https://pascalmichaillat.org/d3/</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This collection of minimalist commands make it easy to write mathematical expressions with LaTeX.</description>
-    </item>
-    
-    <item>
-      <title>Critical Values Robust to P-Hacking</title>
+      <title>Critical Values Robust to P-hacking</title>
       <link>https://pascalmichaillat.org/12/</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/12/</guid>
       <description>This paper develops a model of p-hacking by scientists. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking.</description>
+    </item>
+    
+    <item>
+      <title>Minimalist LaTeX Commands to Write Math</title>
+      <link>https://pascalmichaillat.org/d3/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d3/</guid>
+      <description>This collection of minimalist commands make it easy to write mathematical expressions with LaTeX.</description>
     </item>
     
     <item>

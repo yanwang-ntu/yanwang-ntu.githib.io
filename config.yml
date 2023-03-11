@@ -58,8 +58,8 @@ params:
           title: Pascal Michaillat
           subtitle: "I am an Associate Professor of Economics at Brown University. I work on unemployment, economic slack, business cycles, macroeconomic policy, and science-related topics. In January–June 2023, I am visiting the Department of Economics at the University of California–San Diego."
           imageUrl: "/picture.jpeg"
-          imageWidth: 130
-          imageHeight: 130
+          imageWidth: 150
+          imageHeight: 150
           imageTitle: Pascal Michaillat
           buttons:
             - name: Papers
@@ -77,10 +77,10 @@ params:
       url: "mailto:pascalmichaillat@brown.edu"
     - name: Twitter
       url: "https://twitter.com/pmichaillat"
-    - name: Office Hours
-      url: /officehours/
     - name: Location
       url: /location/
+    - name: Office Hours
+      url: /officehours/
     - name: GitHub
       url: "https://github.com/pmichaillat"
     - name: YouTube

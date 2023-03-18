@@ -115,6 +115,10 @@
     margin-top: 5px;
 }
 
+.post-content li::marker {
+    color: var(--gray);
+}
+
 .post-content li p {
     margin-bottom: 0;
 }
@@ -271,6 +275,10 @@
     background: var(--code-bg);
     border-radius: var(--radius);
     padding: 0.4em;
+}
+
+.toc li::marker {
+    color: var(--gray);
 }
 
 .dark .toc {

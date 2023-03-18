@@ -96,7 +96,7 @@ params:
     label:
       text: "Pascal Michaillat"
       icon: /favicon.ico
-      iconHeight: 14
+      iconHeight: 18
 
 markup:
     goldmark:

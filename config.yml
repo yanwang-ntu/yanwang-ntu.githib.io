@@ -69,24 +69,24 @@ params:
             - name: Design
               url: /design/
     socialIcons:
-    - name: CV
-      url: "/cv.pdf"
-    - name: Google Scholar
-      url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
-    - name: Email
-      url: "mailto:pascalmichaillat@brown.edu"
-    - name: Twitter
-      url: "https://twitter.com/pmichaillat"
-    - name: Location
-      url: /location/
-    - name: Office Hours
-      url: /officehours/
-    - name: GitHub
-      url: "https://github.com/pmichaillat"
-    - name: YouTube
-      url: "https://www.youtube.com/@pmichaillat"
-    - name: Substack
-      url: "https://pmichaillat.substack.com"
+        - name: CV
+          url: "/cv.pdf"
+        - name: Google Scholar
+          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+        - name: Email
+          url: "mailto:pascalmichaillat@brown.edu"
+        - name: Location
+          url: /location/
+        - name: Office Hours
+          url: /officehours/
+        - name: GitHub
+          url: "https://github.com/pmichaillat"
+        - name: YouTube
+          url: "https://www.youtube.com/@pmichaillat"
+        - name: Substack
+          url: "https://pmichaillat.substack.com"
+        - name: Twitter
+          url: "https://twitter.com/pmichaillat"
     assets:
         disableHLJS: true
         disableScrollBarStyle: true

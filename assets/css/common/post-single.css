@@ -5,7 +5,7 @@
 
 .post-title {
     margin-bottom: 20px;
-    font-size: 40px;
+    font-size: 36px;
 }
 
 .post-description {
@@ -17,8 +17,6 @@
 .breadcrumbs {
     color: var(--secondary);
     font-size: 15px;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 .post-meta .i18n_list li {
@@ -339,6 +337,7 @@
     padding-inline-end: 15px;
     color: var(--secondary);
     font-size: 16px;
+    line-height: 30px;
     background: var(--code-bg);
 }
 

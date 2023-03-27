@@ -5,7 +5,7 @@
 
 .post-title {
     margin-bottom: 20px;
-    font-size: var(--titlesize);
+    font-size: 40px;
 }
 
 .post-description {
@@ -16,7 +16,7 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-    font-size: var(--metasize);
+    font-size: 15px;
     display: flex;
     flex-wrap: wrap;
 }
@@ -29,7 +29,7 @@
 }
 
 .breadcrumbs a {
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .post-content {
@@ -47,7 +47,7 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: var(--titlesize);
+    font-size: 40px;
 }
 
 .post-content h2 {
@@ -298,13 +298,13 @@
     display: inline;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    font-size: calc(var(--metasize) - 1px);
+    font-size: 15px;
 }
 
 .toc .inner {
     margin: 0 calc(var(--marginleft) - 12px);
     padding: 10px 20px;
-    font-size: var(--metasize);
+    font-size: 16px;
 }
 
 .toc li ul {
@@ -338,8 +338,7 @@
     padding-inline-start: 15px;
     padding-inline-end: 15px;
     color: var(--secondary);
-    font-size: var(--metasize);
-    line-height: calc(2*var(--metasize));
+    font-size: 16px;
     background: var(--code-bg);
 }
 

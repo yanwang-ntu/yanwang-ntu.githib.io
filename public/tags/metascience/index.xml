@@ -12,7 +12,7 @@
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/12/</guid>
-      <description>This paper develops a model of p-hacking by scientists. It then gives critical values that correct the inflated type 1 error rates caused by p-hacking.</description>
+      <description>This paper builds a model of hypothesis testing with p-hacking and gives critical values that correct the inflated type 1 error rate caused by p-hacking.</description>
     </item>
     
     <item>

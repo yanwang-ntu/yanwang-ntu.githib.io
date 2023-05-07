@@ -7,7 +7,7 @@ description: "My current office at UC San Diego, permanent office at Brown Unive
 
 ---
 
-- At the University of California--San Diego: office #220, Economics Building
+- At the University of California–San Diego: office #220, Economics Building
 
 - At Brown University: office #201, 70 Waterman Street
 

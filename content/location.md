@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "My office and mailing addresses at the University of California, Santa Cruz."
+description: "My mailing and office addresses at the University of California, Santa Cruz."
 
 ---
 

@@ -25,10 +25,10 @@ menu:
           weight: 3
         - name: Tags
           url: /tags/
-          weight: 4     
+          weight: 5     
         - name: Newsletter
           url: https://pmichaillat.substack.com
-          weight: 5
+          weight: 4
 
 params:
     description: "I am an Associate Professor of Economics at UC Santa Cruz. I work on unemployment, economic slack, business cycles, macroeconomic policy, and metascience."
@@ -68,23 +68,25 @@ params:
               url: /courses/
             - name: Design
               url: /design/
+            - name: Newsletter
+              url: https://pmichaillat.substack.com
     socialIcons:
         - name: CV
-          url: "/cv.pdf"
+          url: /cv.pdf
         - name: Email
-          url: "mailto:pascal.michaillat@gmail.com"
+          url: mailto:pascal.michaillat@gmail.com
         - name: Location
           url: /location/
         - name: Office Hours
           url: /officehours/
         - name: Google Scholar
-          url: "https://scholar.google.com/citations?user=cL23w-4AAAAJ"
+          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
         - name: YouTube
-          url: "https://www.youtube.com/@pmichaillat"
+          url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: "https://github.com/pmichaillat?tab=repositories"
-        - name: Substack
-          url: "https://pmichaillat.substack.com"
+          url: https://github.com/pmichaillat?tab=repositories
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
 
     assets:
         disableHLJS: true

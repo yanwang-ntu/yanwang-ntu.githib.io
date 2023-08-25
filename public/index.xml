@@ -6,7 +6,16 @@
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimalist LaTeX Commands to Write Math</title>
+      <link>https://pascalmichaillat.org/d3/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d3/</guid>
+      <description>This collection of minimalist commands make it easy to write mathematical expressions with LaTeX.</description>
+    </item>
+    
     <item>
       <title>Critical Values Robust to P-hacking</title>
       <link>https://pascalmichaillat.org/12/</link>
@@ -41,15 +50,6 @@
       
       <guid>https://pascalmichaillat.org/14/</guid>
       <description>This paper explains why a wave of immigration reduces the employment rate of native workers, and why this reduction is larger in bad times.</description>
-    </item>
-    
-    <item>
-      <title>Minimalist LaTeX Commands to Write Math</title>
-      <link>https://pascalmichaillat.org/d3/</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This collection of minimalist commands make it easy to write mathematical expressions with LaTeX.</description>
     </item>
     
     <item>

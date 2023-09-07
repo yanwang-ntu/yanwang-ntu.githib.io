@@ -6,11 +6,11 @@
     <description>Recent content in Design on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minimalist LaTeX Template for Academic Papers</title>
       <link>https://pascalmichaillat.org/d2/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d2/</guid>
       <description>This template produces an academic paper with LaTeX. The paper follows typographical best practices and has a minimalist design.</description>
@@ -19,7 +19,7 @@
     <item>
       <title>Minimalist LaTeX Template for Academic Presentations</title>
       <link>https://pascalmichaillat.org/d1/</link>
-      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d1/</guid>
       <description>This template produces an academic presentation with LaTeX and Beamer. The presentation follows typographical best practices and has a minimalist design.</description>

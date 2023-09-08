@@ -16,7 +16,7 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 	* Papers
 	* Courses
 	* Design projects
-+ Automatically generated list of keywords (tags) in papers and courses
++ Automatically generated list of tags (keywords) used in papers and courses
 + New social icons specific to academia:
 	* Office hours
 	* Zoom

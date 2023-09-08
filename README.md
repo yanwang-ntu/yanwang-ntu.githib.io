@@ -22,13 +22,15 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 
 ## Speed
 
-Despite the modifications to the PaperMod theme, the website continues to perform well on both mobile and desktop devices. Here is an overview of the mobile performance from [PageSpeed Insights](https://pagespeed.web.dev/):
+Despite the modifications to the PaperMod theme, the website continues to perform well on mobile and desktop devices. Here is an overview of the mobile performance from [PageSpeed Insights](https://pagespeed.web.dev/):
 
+<img width="448" alt="mobile" src="https://github.com/pmichaillat/pmichaillat.github.io/assets/85443660/b54395b0-f9cb-4ad7-8daa-5f86e5f2cddc">
 
 And here is an overview of the desktop performace:
 
+<img width="453" alt="desktop" src="https://github.com/pmichaillat/pmichaillat.github.io/assets/85443660/eff134d2-6097-4bc2-bfd7-4f5c18571789">
 
-Here is the [full report](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org/hl96ythdue?form_factor=mobile) on mobile performance. And here is the [full report](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org/hl96ythdue?form_factor=desktop) on desktop performances.
+Here are the [full report on mobile performance](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org/hl96ythdue?form_factor=mobile) and the [full report on desktop performance](https://pagespeed.web.dev/analysis/https-pascalmichaillat-org/hl96ythdue?form_factor=desktop).
 
 ## License
 

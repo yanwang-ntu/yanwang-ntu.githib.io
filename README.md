@@ -12,13 +12,19 @@ The source code is documented at https://pascalmichaillat.org/d5/.
 
 The PaperMod theme is modified in several ways to be more adapted to academic websites:
 
-+ Organization of the pages in three categories: papers, courses, and design projects. It is easy to add new categories from here (code, data, and so on). The three categories are available from any page through the menu and from the home page through buttons.
-+ Automatically generated list of the keywords (tags) in papers and courses
-+ New social icons specific to academia: office hours, Zoom, Substack, and Google Scholar
-+ Page metadata tailored to the academic context: simpler date format, permalink on pages
++ Organization of the pages in three categories, which are available from any page through the menu and from the home page through buttons: 
+	* Papers
+	* Courses
+	* Design projects
++ Automatically generated list of keywords (tags) in papers and courses
++ New social icons specific to academia:
+	* Office hours
+	* Zoom
+	* Substack
+	* Google Scholar
++ Page metadata tailored to the academic context
 + Personalized color scheme, font, spacing, buttons, and general appearance
 + New archetypes for paper pages, course pages, an archive page, and a search page
-+ A footer can easily be added
 
 ## Speed
 

@@ -26,6 +26,10 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 + Personalized color scheme, font, spacing, buttons, and general appearance
 + New archetypes for paper pages, course pages, an archive page, and a search page
 
+## Usage
+
+Do not forget to update the Google Analytics ID in `config.yml`. Either replace the ID `G-97G4MZ4061` with your own ID in the line `googleAnalyticsID: "G-97G4MZ4061"`. Or simnply comment the line `googleAnalyticsID: "G-97G4MZ4061"` if you do not wish to use Google Analytics.
+
 ## Speed
 
 Despite the modifications to the PaperMod theme, the website continues to perform well on mobile and desktop devices. Here is an overview of the mobile performance from [PageSpeed Insights](https://pagespeed.web.dev/):

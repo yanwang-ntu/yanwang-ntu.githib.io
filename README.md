@@ -34,11 +34,15 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 
 To check that everything works, experiment with the code, and slowly develop your website, start by rebuilding the website locally. From the repository, run `hugo server` at the command line. The command builds the website with Hugo and starts a local web server. The website is then available at http://localhost:1313 in any web browser. Hugo automatically rebuilds the site and refreshes the web page in the browser as changes are made to the files (content, templates) in the repository. This allows you to see changes instantly as you are developing your website. 
 
-### Website deployment
+### Website compilation
 
 Once your website is ready to be made public, run `hugo` at the command line from the repository. This command will convert content files into HTML pages, handles static assets, generates URLs and organizes pages, and finally compile the website into the `public` folder for deployment.
 
+### Website deployment
 
+With GitHub Desktop, you can just commit the changes and push them to the GitHub repository online. Then, [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) will build the website and deploy it to GitHub Pages. The workflow is in the `hugo.yml` file stored in the `.github/workflows` folder. It usually takes a few minutes for the website to be deployed and go live.
+
+## Updating the template
 
 ### Google Analytics
 

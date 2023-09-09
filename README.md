@@ -26,7 +26,7 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 
 + Clone the repository to your local machine
 + Install [Hugo](https://gohugo.io/installation/). On a Mac, this is easily done with [Homebrew](https://brew.sh): simply run `brew install hugo` at the command line.
-+ Since the website is hosted on GitHub Pages, having [GitHub Desktop](https://desktop.github.com) is very convenient to update the website.
++ Since the website is hosted on GitHub Pages, the website can conveniently be updated by [GitHub Desktop](https://desktop.github.com).
 
 ## Usage
 

@@ -78,7 +78,7 @@ The `public` folder contains the fully generated static website files that are r
 
 The `public` folder can therefore be  safely deleted. A new version of the `public` folder will be created when you run the `hugo` command from your own repository.
 
-## Speed
+## Performance
 
 Despite the modifications to the PaperMod theme, the website continues to perform well on mobile and desktop devices. Here is an overview of the mobile performance from [PageSpeed Insights](https://pagespeed.web.dev/):
 

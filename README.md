@@ -25,18 +25,18 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 ## Installation
 
 + Clone the repository to your local machine
-+ Install [Hugo](https://gohugo.io/installation/). On a Mac, this is easily done with [Homebrew](https://brew.sh): simply run `brew install hugo` at the command line.
++ Install [Hugo](https://gohugo.io/installation/). On a Mac, this is easily done with [Homebrew](https://brew.sh): simply run `brew install hugo` in the terminal.
 + Since the website is hosted on GitHub Pages, the website can conveniently be updated by [GitHub Desktop](https://desktop.github.com).
 
 ## Usage
 
 ### Website development
 
-To check that everything works, experiment with the code, and slowly develop your website, start by rebuilding the website locally. From the repository, run `hugo server` at the command line. The command builds the website with Hugo and starts a local web server. The website is then available at http://localhost:1313 in any web browser. Hugo automatically rebuilds the site and refreshes the web page in the browser as changes are made to the files (content, templates) in the repository. This allows you to see changes instantly as you are developing your website. 
+To check that everything works, experiment with the code, and slowly develop your website, start by rebuilding the website locally. In the terminal, navigate to your website directory and run `hugo server` from there. The command builds the website with Hugo and starts a local web server. The website is then available at http://localhost:1313 in any web browser. Hugo automatically rebuilds the site and refreshes the web page in the browser as changes are made to the files (content, templates) in the repository. This allows you to see changes instantly as you are developing your website. 
 
 ### Website compilation
 
-Once your website is ready to be made public, run `hugo` at the command line from the repository. This command will convert content files into HTML pages, handles static assets, generates URLs and organizes pages, and finally compile the website into the `public` folder for deployment.
+Once your website is ready to be made public, run `hugo` in the terminal from your website directory. This command will convert content files into HTML pages, handles static assets, generates URLs and organizes pages, and finally compile the website into the `public` folder for deployment.
 
 ### Website deployment
 

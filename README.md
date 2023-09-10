@@ -42,7 +42,7 @@ Once your website is ready to be made public, run `hugo` at the command line fro
 
 With GitHub Desktop, you can just commit the changes and push them to the GitHub repository online. Then, [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) will build the website and deploy it to GitHub Pages. The workflow is in the `hugo.yml` file stored in the `.github/workflows` folder. It usually takes a few minutes for the website to be deployed and go live.
 
-## Updating the template
+## Customization
 
 ### Google Analytics
 
@@ -50,6 +50,19 @@ The website supports Google Analytics 4. But do not forget to update the Google 
 
 + Either replace the ID `G-97G4MZ4061` with your own ID in the line `googleAnalyticsID: "G-97G4MZ4061"`. 
 + Or simply comment the line `googleAnalyticsID: "G-97G4MZ4061"` if you do not wish to use Google Analytics.
+
+### Configuration file
+
+Beside the Google Analytics ID, make sure to update all the parameters that are specific to your website in the configuration file `config.yml`. Such parameters include:
+
++ `baseURL` – The website URL
++ `title` – Your name, to be used as title of the website
++ `params:author` - Your name, to be used in HTML meta tags to specify the author of the webpage's content (this only adds a meta tag to the header of the homepage, it doesn't have any direct impact on the appearance or functionality of the webpage itself)
++ `params:description` – A short description (less than 155 characters) of who you are, to be used in HTML meta tags to specify the content of the webpage (this description often appears in search engine results below the title of the webpage)
++ `params:profileMode:title` – Your name, to be used as title on the homepage
++ `params:profileMode:subtitle` – A description of who you are, to be used as a subtitle on the homepage
++ `params:profileMode:imageTitle` – Your name, to be used as tag for your profile picture
++ `params:socialIcons` – The URLs to your social accounts
 
 ### Static files
 

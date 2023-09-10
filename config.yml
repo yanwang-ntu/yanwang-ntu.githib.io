@@ -6,9 +6,6 @@ theme: PaperMod
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    twitter: pmichaillat
-
 taxonomies:
     tag: tags
 

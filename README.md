@@ -31,16 +31,14 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 + Website compilation – Once the website is ready to be made public, run `hugo` in the terminal from the website directory.
 + Website deployment – With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) build the website and deploy it to GitHub Pages. The workflow is in the `.github/workflows/hugo.yml` file.
 
-## Customization
-
-### Google Analytics
+## Google Analytics
 
 The website supports Google Analytics 4. **But do not forget to update the Google Analytics ID in `config.yml`.** Otherwise your website will appear in my Google Analytics dashboard.
 
 + Either replace the ID `G-97G4MZ4061` with your own ID in the line `googleAnalyticsID: "G-97G4MZ4061"`. 
 + Or simply comment the line `googleAnalyticsID: "G-97G4MZ4061"` if you do not wish to use Google Analytics.
 
-### Configuration file
+## Configuration file
 
 Beside the Google Analytics ID, make sure to update all the parameters that are specific to your website in the configuration file `config.yml`. Such parameters include:
 
@@ -53,7 +51,7 @@ Beside the Google Analytics ID, make sure to update all the parameters that are 
 + `params:profileMode:imageTitle` – Your name, to be used as tag for your profile picture
 + `params:socialIcons` – The URLs to your social accounts
 
-### Content files
+## Content files
 
 The files in the `content` folder are Markdown files that contain the content of the website. Each file corresponds to one page of the website. 
 
@@ -66,7 +64,7 @@ All the files currently in the `content` folder pertain to this website and can 
 + `location.md` – Page linked to the location icon on the homepage. Replace the content with your own addresses.
 + `officehours.md` – Page linked to the office hours icon on the homepage. Replace the content with your own office hours.
 
-### Static files
+## Static files
 
 The files in the `static` folder are PDF files and images to which the website links. All the files currently in the `static` folder pertain to this website and can be safely deleted, with the exception of the following files:
 
@@ -74,7 +72,7 @@ The files in the `static` folder are PDF files and images to which the website l
 + `cv.pdf` – CV linked to the CV icon on the homepage. Replace it with your own CV.
 + `favicon.io`, `favicon-32x32.png`, `favicon-16x16.png`, `apple-touch-icon.png` – Favicon appearing in the menu bar next to the website title, and in the browser next to the URL. Replace it with the [favicon of your choice](https://favicon.io).
 
-### Public folder
+## Public folder
 
 The `public` folder contains the fully generated static website files that are ready to be deployed to GitHub Pages. When you run the `hugo` command, Hugo processes your content, templates, and other project files and generates a static website. The resulting output is placed in the `public` folder by default.
 

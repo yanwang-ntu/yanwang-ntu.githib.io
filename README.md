@@ -12,10 +12,7 @@ The source code is documented at https://pascalmichaillat.org/d5/.
 
 The PaperMod theme is modified in several ways to be more adapted to academic websites:
 
-+ Webpages are organized in three categories, which are available from any page through the menu and from the homepage through buttons: 
-	* Papers
-	* Courses
-	* Design projects
++ Webpages are organized in three categories, which are available from any page through the menu and from the homepage through buttons: papers, courses, and other projects.
 + A list of tags (keywords) used in papers and courses is automatically generated so visitors can easily see the topics covered in research and teaching.
 + The website provides social icons specific to academia: office hours, Zoom, Substack, and Google Scholar.
 + The metadata for webpages, which appear below the webpage title, are tailored to the academic context.
@@ -30,23 +27,15 @@ The PaperMod theme is modified in several ways to be more adapted to academic we
 
 ## Usage
 
-### Website development
-
-To check that everything works, experiment with the code, and slowly develop your website, start by rebuilding the website locally. In the terminal, navigate to the website directory and run `hugo server` from there. The command builds the website with Hugo and starts a local web server. The website is then available at http://localhost:1313 in any web browser. Hugo automatically rebuilds the site and refreshes the webpage in the browser as changes are made to any file in the website repository. This allows you to see changes instantly as you are developing your website. 
-
-### Website compilation
-
-Once your website is ready to be made public, run `hugo` in the terminal from the website directory. This command will convert content files into HTML pages, handle static assets, generate URLs and organize pages, and finally compile the website into the `public` folder for deployment.
-
-### Website deployment
-
-With GitHub Desktop, you can  easily commit the changes and push them to the website repository on GitHub. Then, [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) will build the website and deploy it to GitHub Pages. The workflow is in the `hugo.yml` file stored in the `.github/workflows` folder. It usually takes a few minutes for the website to be deployed and go live.
++ Website development – Navigate to the website directory and run `hugo server` in the terminal. The command builds the website on your machine and made it available at http://localhost:1313. 
++ Website compilation – Once the website is ready to be made public, run `hugo` in the terminal from the website directory.
++ Website deployment – With GitHub Desktop, commit the changes and push them to the website repository on GitHub. Then, [GitHub Actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/) build the website and deploy it to GitHub Pages. The workflow is in the `.github/workflows/hugo.yml` file.
 
 ## Customization
 
 ### Google Analytics
 
-The website supports Google Analytics 4. But do not forget to update the Google Analytics ID in `config.yml`. 
+The website supports Google Analytics 4. **But do not forget to update the Google Analytics ID in `config.yml`.** Otherwise your website will appear in my Google Analytics dashboard.
 
 + Either replace the ID `G-97G4MZ4061` with your own ID in the line `googleAnalyticsID: "G-97G4MZ4061"`. 
 + Or simply comment the line `googleAnalyticsID: "G-97G4MZ4061"` if you do not wish to use Google Analytics.
@@ -64,13 +53,26 @@ Beside the Google Analytics ID, make sure to update all the parameters that are 
 + `params:profileMode:imageTitle` – Your name, to be used as tag for your profile picture
 + `params:socialIcons` – The URLs to your social accounts
 
+### Content files
+
+The files in the `content` folder are Markdown files that contain the content of the website. Each file corresponds to one page of the website. 
+
+The folder in which the file is placed (`papers`, `courses`, or `design`) determines the category in which the page will appear (the [paper page](https://pascalmichaillat.org/papers/), the [course page](https://pascalmichaillat.org/courses/), or the [design page](https://pascalmichaillat.org/design/)). 
+
+Keep the folders `papers`, `courses`, and `design` to preserve this website's structure. You can change the name of a folder to change the URL where the category page is located. Keep the `tags` folder to preserve the customization of the [tag page](https://pascalmichaillat.org/tags/).
+
+All the files currently in the `content` folder pertain to this website and can be safely deleted, with the exception of the following files:
+
++ `location.md` – Page linked to the location icon on the homepage. Replace the content with your own addresses.
++ `officehours.md` – Page linked to the office hours icon on the homepage. Replace the content with your own office hours.
+
 ### Static files
 
 The files in the `static` folder are PDF files and images to which the website links. All the files currently in the `static` folder pertain to this website and can be safely deleted, with the exception of the following files:
 
-+ `picture.jpeg` is the picture appearing on the homepage. Replace it with your own picture.
-+ `cv.pdf` is the CV linked to the CV icon on the homepage. Replace it with your own CV.
-+ `favicon.io`, `favicon-32x32.png`, `favicon-16x16.png`, and `apple-touch-icon.png` is the favicon appearing in the menu bar next to the website title, and in the browser next to the URL. Replace it with the [favicon of your choice](https://favicon.io).
++ `picture.jpeg` – Picture appearing on the homepage. Replace it with your own picture.
++ `cv.pdf` – CV linked to the CV icon on the homepage. Replace it with your own CV.
++ `favicon.io`, `favicon-32x32.png`, `favicon-16x16.png`, `apple-touch-icon.png` – Favicon appearing in the menu bar next to the website title, and in the browser next to the URL. Replace it with the [favicon of your choice](https://favicon.io).
 
 ### Public folder
 

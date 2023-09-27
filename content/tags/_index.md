@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics and methods appearing throughout my research papers and courses."
+description: "Topics covered and methods used in my research papers and courses."
 layout: "terms"
 ---

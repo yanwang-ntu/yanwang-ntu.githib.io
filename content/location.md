@@ -20,7 +20,7 @@ Santa Cruz, CA 95064
 
 #### Office address
 
-Room 437  
+Room 437 (4th floor)  
 Engineering 2 Building  
 UC Santa Cruz
 

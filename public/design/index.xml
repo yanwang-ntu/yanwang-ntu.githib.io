@@ -8,12 +8,12 @@
     <language>en</language>
     <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Minimalist LaTeX Commands to Write Math</title>
+      <title>LaTeX Commands to Write Math</title>
       <link>https://pascalmichaillat.org/d3/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This collection of minimalist commands make it easy to write mathematical expressions with LaTeX.</description>
+      <description>This collection of commands make it easy to write mathematical expressions with LaTeX.</description>
     </item>
     
     <item>

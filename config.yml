@@ -66,6 +66,9 @@ params:
               url: https://pmichaillat.substack.com
             - name: Keywords
               url: /tags/
+            - name: Archive
+              url: /archive/
+
     socialIcons:
         - name: CV
           url: /cv.pdf
@@ -86,7 +89,7 @@ params:
         disableHLJS: true
         disableScrollBarStyle: true
     cover:
-        hiddenInList: true
+        hiddenInList: false
         hiddenInSingle: true
     label:
       text: "Pascal Michaillat"

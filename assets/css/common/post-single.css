@@ -379,6 +379,15 @@ h6:hover .anchor {
     box-shadow: 0 0px 0 var(--darkpurple);
 }
 
+
+a[href^="#fn:"], a[href^="#fnref:"] {
+     box-shadow: 0 0px 0 var(--darkpurple);
+}
+
+a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
+    color: var(--darkpurple);
+}
+
 .paginav {
     margin: 10px 0;
     display: flex;

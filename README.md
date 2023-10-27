@@ -1,10 +1,10 @@
-# Source Code and Assets of Pascal Michaillat's Website
+# Source Code and Assets of pascalmichaillat.org
 
-This repository contains the source code and assets of [Pascal Michaillat's website](https://pascalmichaillat.org). 
+This repository contains the source code and assets of Pascal Michaillat's website at https://pascalmichaillat.org. 
 
 ## Source code
 
-The website is built with [Hugo](https://github.com/gohugoio/hugo). The source code comes from the template at [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website).
+The website is built with [Hugo](https://github.com/gohugoio/hugo). The source code is based on the minimalist website template at [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website).
 
 ## Assets
 

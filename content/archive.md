@@ -1,5 +1,5 @@
 ---
 title: "Archive"
-description: "All the papers, courses, and design projects on my website—listed in chronological order."
+description: "Pascal Michaillat's papers, courses, and design projects—listed in chronological order."
 layout: "archives"
 ---

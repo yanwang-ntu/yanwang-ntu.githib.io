@@ -3,7 +3,7 @@ title: "Office Hours"
 aliases:
     - /oh.html
 hidemeta: true
-description: "Schedule and location for my office hours at the University of California, Santa Cruz."
+description: "Schedule and location for Prof. Michaillat's office hours at the University of California, Santa Cruz."
 ---
 
 --- 

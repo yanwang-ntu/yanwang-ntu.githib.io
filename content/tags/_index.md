@@ -1,5 +1,5 @@
 ---
 title: "Tags"
-description: "Topics covered and methods used in Pascal Michaillat's research papers and courses."
+description: "Topics and methods in Pascal Michaillat's research papers and courses."
 layout: "terms"
 ---

@@ -25,7 +25,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am an Associate Professor of Economics at UC Santa Cruz. My research covers unemployment, economic slack, business cycles, and macroeconomic policy."
+    description: "Pascal Michaillat is an Associate Professor of Economics at UC Santa Cruz. His research covers unemployment, business cycles, and macroeconomic policy."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "I am an Associate Professor of Economics at the University of California, Santa Cruz. I try to understand why economic slack—especially unemployment—exists; why it fluctuates over the business cycle; and how macroeconomic policies should respond to such cyclical fluctuations."
+          subtitle: "I'm an Associate Professor of Economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists; why it fluctuates over the business cycle; and how macroeconomic policies should respond to such cyclical fluctuations."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -83,7 +83,7 @@ params:
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat?tab=repositories
+          url: https://github.com/pmichaillat
 
     assets:
         disableHLJS: true

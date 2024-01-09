@@ -71,11 +71,38 @@
     </item>
     
     <item>
+      <title>optimal control</title>
+      <link>https://pascalmichaillat.org/tags/optimal-control/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/optimal-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phillips curve</title>
+      <link>https://pascalmichaillat.org/tags/phillips-curve/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/phillips-curve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>price rigidity</title>
       <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social psychology</title>
+      <link>https://pascalmichaillat.org/tags/social-psychology/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/social-psychology/</guid>
       <description></description>
     </item>
     
@@ -103,6 +130,15 @@
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wealth in the utility</title>
+      <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/wealth-in-the-utility/</guid>
       <description></description>
     </item>
     
@@ -148,33 +184,6 @@
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimal control</title>
-      <link>https://pascalmichaillat.org/tags/optimal-control/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/optimal-control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>social psychology</title>
-      <link>https://pascalmichaillat.org/tags/social-psychology/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/social-psychology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wealth in the utility</title>
-      <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/wealth-in-the-utility/</guid>
       <description></description>
     </item>
     

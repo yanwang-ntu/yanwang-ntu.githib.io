@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beveridge curve</title>
       <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>business cycles</title>
       <link>https://pascalmichaillat.org/tags/business-cycles/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>economic slack</title>
       <link>https://pascalmichaillat.org/tags/economic-slack/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/economic-slack/</guid>
       <description></description>
@@ -37,7 +37,7 @@
     <item>
       <title>efficiency</title>
       <link>https://pascalmichaillat.org/tags/efficiency/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/efficiency/</guid>
       <description></description>
@@ -46,7 +46,7 @@
     <item>
       <title>government spending</title>
       <link>https://pascalmichaillat.org/tags/government-spending/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/government-spending/</guid>
       <description></description>
@@ -55,9 +55,54 @@
     <item>
       <title>matching model</title>
       <link>https://pascalmichaillat.org/tags/matching-model/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>monetary policy</title>
+      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>price rigidity</title>
+      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stabilization policy</title>
+      <link>https://pascalmichaillat.org/tags/stabilization-policy/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/stabilization-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sufficient statistics</title>
+      <link>https://pascalmichaillat.org/tags/sufficient-statistics/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unemployment gap</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     
@@ -67,51 +112,6 @@
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/metascience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>monetary policy</title>
-      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>price rigidity</title>
-      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stabilization policy</title>
-      <link>https://pascalmichaillat.org/tags/stabilization-policy/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/stabilization-policy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sufficient statistics</title>
-      <link>https://pascalmichaillat.org/tags/sufficient-statistics/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>unemployment gap</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-gap/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/unemployment-gap/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,16 @@
     <description>Recent content in stabilization policy on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/stabilization-policy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/stabilization-policy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Economic Slack</title>
+      <link>https://pascalmichaillat.org/c2/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/c2/</guid>
+      <description>This graduate course presents matching models of economic slack and uses them to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
+    </item>
+    
     <item>
       <title>Slackish Business Cycles</title>
       <link>https://pascalmichaillat.org/b1/</link>
@@ -23,15 +32,6 @@
       
       <guid>https://pascalmichaillat.org/15/</guid>
       <description>This paper develops a simple business-cycle model with divine coincidence: inflation is on target when unemployment is efficient.</description>
-    </item>
-    
-    <item>
-      <title>Economic Slack</title>
-      <link>https://pascalmichaillat.org/c2/</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/c2/</guid>
-      <description>This graduate course presents matching models of economic slack and uses them to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
     </item>
     
     <item>

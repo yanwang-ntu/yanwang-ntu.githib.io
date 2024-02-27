@@ -3,7 +3,7 @@ title: "Location"
 aliases:
     - /contact.html
 hidemeta: true
-description: "Prof. Michaillat's mailing and office addresses at the University of California, Santa Cruz."
+description: "Pascal Michaillat's mailing addresses and office address at the University of California, Santa Cruz."
 
 ---
 

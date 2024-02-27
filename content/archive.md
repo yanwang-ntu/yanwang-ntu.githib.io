@@ -1,5 +1,5 @@
 ---
 title: "Archive"
-description: "Pascal Michaillat's papers, courses, and design projects—listed in chronological order."
+description: "Pascal Michaillat's research papers, course material, and design projects listed in reverse chronological order."
 layout: "archives"
 ---

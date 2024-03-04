@@ -85,7 +85,7 @@
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This collection of commands makes it easy to write mathematical expressions with LaTeX, while respecting the rules of mathematical typography.</description>
+      <description>This collection of commands makes it easy to write mathematical expressions with LaTeX while automatically respecting the rules of mathematical typography.</description>
     </item>
     
     <item>
@@ -103,7 +103,7 @@
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d4/</guid>
-      <description>This script produces a set of scientific figures with MATLAB. The figures follow Tufte&amp;#39;s guidelines for the visual display of quantitative information.</description>
+      <description>This script produces a set of scientific figures with MATLAB. The figures adhere to best practices for the visual display of quantitative information.</description>
     </item>
     
     <item>

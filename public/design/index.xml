@@ -13,7 +13,7 @@
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d1/</guid>
-      <description>This template produces a research presentation with LaTeX and Beamer. The slides have a minimalist design and are customized for academics and scientists.</description>
+      <description>This template produces an academic presentation with LaTeX and Beamer. The presentation follows typographical best practices and has a minimalist design.</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d3/</guid>
-      <description>This collection of commands makes it easy to write mathematical expressions with LaTeX.</description>
+      <description>This collection of commands makes it easy to write mathematical expressions with LaTeX, while respecting the rules of mathematical typography.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d5/</guid>
-      <description>This template produces a personal website with Hugo. The website has a minimalist design and is customized for academics, scientists, and researchers.</description>
+      <description>This template produces a personal academic website with Hugo. The website has a minimalist design and is hosted on GitHub Pages.</description>
     </item>
     
     <item>
@@ -40,7 +40,7 @@
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d4/</guid>
-      <description>This script produces scientific figures with MATLAB. The figures follow Tufte&amp;#39;s guidelines and are customized for academics and other researchers.</description>
+      <description>This script produces a set of scientific figures with MATLAB. The figures follow Tufte&amp;#39;s guidelines for the visual display of quantitative information.</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/d2/</guid>
-      <description>This template produces a research paper with LaTeX. The paper has a minimalist design and is customized for academics and scientists.</description>
+      <description>This template produces an academic paper with LaTeX. The paper follows typographical best practices and has a minimalist design.</description>
     </item>
     
   </channel>

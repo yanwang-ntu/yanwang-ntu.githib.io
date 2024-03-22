@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Pascal Michaillat
-          subtitle: "I'm an Associate Professor of Economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists; why it fluctuates over the business cycle; and how macroeconomic policies should respond to such cyclical fluctuations."
+          subtitle: "I'm an Associate Professor of Economics at the University of California, Santa Cruz. I research why economic slack—especially unemployment—exists, why slack fluctuates over the business cycle, and how macroeconomic policies should respond to such fluctuations."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160

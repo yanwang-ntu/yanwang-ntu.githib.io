@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "This website hosts Pascal Michaillat's research papers, course material, and design projects. Also CV, contact information, office hours, social links."
+    description: "This website hosts Pascal Michaillat's research papers, course material, design projects, contact information, and CV."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"

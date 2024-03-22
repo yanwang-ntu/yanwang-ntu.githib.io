@@ -67,8 +67,8 @@ params:
               url: /design/
             - name: Book
               url: /b1/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
             - name: Tags
               url: /tags/
             - name: Archive

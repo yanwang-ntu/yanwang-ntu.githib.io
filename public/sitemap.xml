@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pascalmichaillat.org/location/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/officehours/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/12/</loc>
     <lastmod>2024-03-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -168,9 +174,5 @@
     <lastmod>2012-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/archive/</loc>
-  </url><url>
-    <loc>https://pascalmichaillat.org/location/</loc>
-  </url><url>
-    <loc>https://pascalmichaillat.org/officehours/</loc>
   </url>
 </urlset>

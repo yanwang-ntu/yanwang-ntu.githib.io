@@ -1,9 +1,10 @@
 ---
 title: "Location"
-aliases:
-    - /contact.html
-hidemeta: true
+date: 2024-03-22
+url: /location/
+author: "Pascal Michaillat"
 description: "Pascal Michaillat's mailing addresses and office address at the University of California, Santa Cruz."
+hidemeta: true
 
 ---
 

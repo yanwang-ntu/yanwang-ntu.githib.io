@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Location</title>
       <link>https://pascalmichaillat.org/location/</link>
@@ -258,7 +259,6 @@
       <guid>https://pascalmichaillat.org/1/</guid>
       <description>This paper proposes a matching model of the labor market with job rationing: unemployment persists even without matching frictions. Published in AER, 2012.</description>
     </item>
-    
     
   </channel>
 </rss>

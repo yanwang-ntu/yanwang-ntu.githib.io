@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-date: 2024-03-22
+lastmod: 2024-03-22
 url: /officehours/
 author: "Pascal Michaillat"
 description: "Schedule and location of Prof. Michaillat's office hours at the University of California, Santa Cruz."

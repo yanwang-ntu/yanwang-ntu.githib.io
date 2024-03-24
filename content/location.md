@@ -1,6 +1,6 @@
 ---
 title: "Location"
-date: 2024-03-22
+lastmod: 2024-03-22
 url: /location/
 author: "Pascal Michaillat"
 description: "Pascal Michaillat's mailing addresses and office address at the University of California, Santa Cruz."

@@ -8,7 +8,7 @@ hidemeta: true
 
 ---
 
----
+<div class="thinline"></div>
 
 #### Mailing address
 
@@ -17,7 +17,7 @@ UC Santa Cruz
 1156 High Street  
 Santa Cruz, CA 95064
 
----
+<div class="thinline"></div>
 
 #### Office address
 
@@ -25,7 +25,7 @@ Room 437 (4th floor)
 Engineering 2 Building  
 UC Santa Cruz
 
----
+<div class="thinline"></div>
 
 #### Office location
 

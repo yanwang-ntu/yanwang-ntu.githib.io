@@ -8,7 +8,7 @@ hidemeta: true
 
 ---
 
---- 
+<div class="thinline"></div>
 
 #### Schedule for Spring 2024
 
@@ -16,13 +16,13 @@ hidemeta: true
 + Time for ECON 182 students: 3:00pm–4:00pm
 + Time for other UCSC students: 4:00pm–5:00pm
 
----
+<div class="thinline"></div>
 
 #### Location
 
 By default office hours take place [in my office](/location/). I am also available for virtual meetings upon request. Those take place [in my Zoom room](https://ucsc.zoom.us/my/pmichaillat).
 
----
+<div class="thinline"></div>
 
 #### Meeting material
 

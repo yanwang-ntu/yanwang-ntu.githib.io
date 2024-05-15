@@ -2,6 +2,8 @@
 title: "Location"
 lastmod: 2024-03-22
 url: /location/
+aliases:
+    - /contact.html
 author: "Pascal Michaillat"
 description: "Pascal Michaillat's mailing addresses and office address at the University of California, Santa Cruz."
 hidemeta: true

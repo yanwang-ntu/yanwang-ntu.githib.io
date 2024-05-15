@@ -2,6 +2,8 @@
 title: "Office Hours"
 lastmod: 2024-03-28
 url: /officehours/
+aliases:
+    - /oh.html
 author: "Pascal Michaillat"
 description: "Schedule and location of Prof. Michaillat's office hours at the University of California, Santa Cruz."
 hidemeta: true

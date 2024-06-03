@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-lastmod: 2024-03-28
+lastmod: 2024-06-03
 url: /officehours/
 aliases:
     - /oh.html
@@ -9,6 +9,13 @@ description: "Schedule and location of Prof. Michaillat's office hours at the Un
 hidemeta: true
 
 ---
+
+<div class="thinline"></div>
+
+#### Announcements
+
++ Office hours on Wednesday 5 June are cancelled and replaced by office hours on Friday 7 June at the same time (3pm–4pm for ECON 182 students; 4pm–5pm for other UCSC students).
++ Office hours on Friday 7 June will take place [on Zoom](https://ucsc.zoom.us/my/pmichaillat).
 
 <div class="thinline"></div>
 

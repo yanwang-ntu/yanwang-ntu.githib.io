@@ -12,7 +12,7 @@ hidemeta: true
 
 <div class="thinline"></div>
 
-#### Announcements
+#### Updates
 
 + There are currently no regular office hours. Office hours will resume in the Fall 2024 (9/26/2024–12/6/2024).
 + However, if you are a graduate student on the job market or at the research stage, and you would like to talk, please [email me](mailto:pamichai@ucsc.edu) to set up a Zoom call.

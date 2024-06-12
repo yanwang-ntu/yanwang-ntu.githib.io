@@ -6,7 +6,16 @@
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office Hours</title>
+      <link>https://pascalmichaillat.org/officehours/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/officehours/</guid>
+      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
+    </item>
+    
     <item>
       <title>u* = √uv</title>
       <link>https://pascalmichaillat.org/13/</link>
@@ -14,15 +23,6 @@
       
       <guid>https://pascalmichaillat.org/13/</guid>
       <description>This paper argues that in the United States the full-employment rate of unemployment (FERU) is the geometric average of the unemployment and vacancy rates.</description>
-    </item>
-    
-    <item>
-      <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/officehours/</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/officehours/</guid>
-      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
     </item>
     
     <item>
@@ -87,15 +87,6 @@
       
       <guid>https://pascalmichaillat.org/c2/</guid>
       <description>This graduate course presents matching models of economic slack and uses them to study business-cycle fluctuations, monetary policy, and fiscal policy.</description>
-    </item>
-    
-    <item>
-      <title>Slackish Business Cycles</title>
-      <link>https://pascalmichaillat.org/b1/</link>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/b1/</guid>
-      <description>This book reviews facts about business cycles, develops a matching model to explain them, and discusses how monetary and fiscal policy can stabilize them.</description>
     </item>
     
     <item>

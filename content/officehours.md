@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-lastmod: 2024-06-03
+lastmod: 2024-06-11
 url: /officehours/
 aliases:
     - /oh.html
@@ -14,8 +14,8 @@ hidemeta: true
 
 #### Announcements
 
-+ Office hours on Wednesday 5 June are cancelled and replaced by office hours on Friday 7 June at the same time (3pm–4pm for ECON 182 students; 4pm–5pm for other UCSC students).
-+ Office hours on Friday 7 June will take place [on Zoom](https://ucsc.zoom.us/my/pmichaillat).
++ There currently are no regular office hours. Office hours will resume in the Fall 2024 (9/26/2024–12/6/2024).
++ However, if you are a graduate student on the job market or at the research stage, and you would like to talk, please [email me](mailto:pamichai@ucsc.edu) to set up a Zoom call.
 
 <div class="thinline"></div>
 

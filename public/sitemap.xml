@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pascalmichaillat.org/design/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/d3/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/</loc>
+    <lastmod>2024-06-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/tags/beveridge-curve/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/business-cycles/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/design/</loc>
-    <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/efficiency/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
@@ -18,9 +24,6 @@
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/papers/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/stabilization-policy/</loc>
@@ -121,9 +124,6 @@
   </url><url>
     <loc>https://pascalmichaillat.org/tags/state-dependence/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/d3/</loc>
-    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/d4/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>

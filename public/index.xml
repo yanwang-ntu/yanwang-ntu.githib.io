@@ -6,7 +6,16 @@
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimalist LaTeX Template for Academic Presentations</title>
+      <link>https://pascalmichaillat.org/d1/</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/d1/</guid>
+      <description>This template produces an academic presentation with LaTeX and Beamer. The presentation follows typographical best practices and has a minimalist design.</description>
+    </item>
+    
     <item>
       <title>LaTeX Commands to Write Math</title>
       <link>https://pascalmichaillat.org/d3/</link>
@@ -105,15 +114,6 @@
       
       <guid>https://pascalmichaillat.org/c5/</guid>
       <description>This minicourse describes business cycles, develops a matching model to explain them, and discusses how monetary and fiscal policy can tame them.</description>
-    </item>
-    
-    <item>
-      <title>Minimalist LaTeX Template for Academic Presentations</title>
-      <link>https://pascalmichaillat.org/d1/</link>
-      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/d1/</guid>
-      <description>This template produces an academic presentation with LaTeX and Beamer. The presentation follows typographical best practices and has a minimalist design.</description>
     </item>
     
     <item>

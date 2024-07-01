@@ -152,11 +152,20 @@
     </item>
     
     <item>
-      <title>Efficiency</title>
-      <link>https://pascalmichaillat.org/tags/efficiency/</link>
+      <title>Fiscal Multiplier</title>
+      <link>https://pascalmichaillat.org/tags/fiscal-multiplier/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/tags/efficiency/</guid>
+      <guid>https://pascalmichaillat.org/tags/fiscal-multiplier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frictional Unemployment</title>
+      <link>https://pascalmichaillat.org/tags/frictional-unemployment/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/frictional-unemployment/</guid>
       <description></description>
     </item>
     
@@ -188,11 +197,20 @@
     </item>
     
     <item>
-      <title>Multiplier</title>
-      <link>https://pascalmichaillat.org/tags/multiplier/</link>
+      <title>Public Employment</title>
+      <link>https://pascalmichaillat.org/tags/public-employment/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/tags/multiplier/</guid>
+      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State Dependence</title>
+      <link>https://pascalmichaillat.org/tags/state-dependence/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/state-dependence/</guid>
       <description></description>
     </item>
     
@@ -238,6 +256,15 @@
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/economic-slack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Euler Equation</title>
+      <link>https://pascalmichaillat.org/tags/euler-equation/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/euler-equation/</guid>
       <description></description>
     </item>
     
@@ -296,9 +323,27 @@
     </item>
     
     <item>
+      <title>Keynesian Unemployment</title>
+      <link>https://pascalmichaillat.org/tags/keynesian-unemployment/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/keynesian-unemployment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paradigms</title>
+      <link>https://pascalmichaillat.org/tags/paradigms/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/paradigms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Zero Lower Bound</title>
       <link>https://pascalmichaillat.org/tags/zero-lower-bound/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/zero-lower-bound/</guid>
       <description></description>
@@ -310,15 +355,6 @@
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/tags/immigration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>State Dependence</title>
-      <link>https://pascalmichaillat.org/tags/state-dependence/</link>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/state-dependence/</guid>
       <description></description>
     </item>
     
@@ -377,24 +413,6 @@
     </item>
     
     <item>
-      <title>Euler Equation</title>
-      <link>https://pascalmichaillat.org/tags/euler-equation/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/euler-equation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal Multiplier</title>
-      <link>https://pascalmichaillat.org/tags/fiscal-multiplier/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/fiscal-multiplier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Forward-Guidance Puzzle</title>
       <link>https://pascalmichaillat.org/tags/forward-guidance-puzzle/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
@@ -440,15 +458,6 @@
     </item>
     
     <item>
-      <title>Paradigms</title>
-      <link>https://pascalmichaillat.org/tags/paradigms/</link>
-      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/paradigms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Power</title>
       <link>https://pascalmichaillat.org/tags/power/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
@@ -476,6 +485,42 @@
     </item>
     
     <item>
+      <title>Economic Growth</title>
+      <link>https://pascalmichaillat.org/tags/economic-growth/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/economic-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IS-LM Model</title>
+      <link>https://pascalmichaillat.org/tags/is-lm-model/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/is-lm-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malthusian Model</title>
+      <link>https://pascalmichaillat.org/tags/malthusian-model/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/malthusian-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solow Model</title>
+      <link>https://pascalmichaillat.org/tags/solow-model/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/tags/solow-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Demand Shocks</title>
       <link>https://pascalmichaillat.org/tags/demand-shocks/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
@@ -485,20 +530,11 @@
     </item>
     
     <item>
-      <title>Public Employment</title>
-      <link>https://pascalmichaillat.org/tags/public-employment/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <title>Dynamic Programming</title>
+      <link>https://pascalmichaillat.org/tags/dynamic-programming/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Frictional Unemployment</title>
-      <link>https://pascalmichaillat.org/tags/frictional-unemployment/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/tags/frictional-unemployment/</guid>
+      <guid>https://pascalmichaillat.org/tags/dynamic-programming/</guid>
       <description></description>
     </item>
     

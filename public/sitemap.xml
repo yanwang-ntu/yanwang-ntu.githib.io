@@ -3,61 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://pascalmichaillat.org/design/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/d1/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/d3/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/beveridge-curve/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/business-cycles/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/full-employment/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/efficiency/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <loc>https://pascalmichaillat.org/tags/inefficiency/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/d5/</loc>
     <lastmod>2024-06-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/monetary-policy/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/papers/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/stabilization-policy/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/sufficient-statistics/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/13/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/unemployment-gap/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/vacancies/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/welfare-analysis/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/officehours/</loc>
     <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/critical-values/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/12/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/hypothesis-testing/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/tags/metascience/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/p-hacking/</loc>
+    <lastmod>2024-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/significance/</loc>
     <lastmod>2024-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/d2/</loc>
-    <lastmod>2024-06-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/location/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
@@ -65,14 +89,17 @@
     <loc>https://pascalmichaillat.org/courses/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/government-spending/</loc>
+    <loc>https://pascalmichaillat.org/tags/efficiency/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/government-spending/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/tags/job-rationing/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/matching-function/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/multiplier/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
@@ -81,37 +108,46 @@
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/unemployment-insurance/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/archive/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/directed-search/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/divine-coincidence/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/tags/economic-slack/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/inflation/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/15/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/monetary-policy/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/optimal-control/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/phillips-curve/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/price-rigidity/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/social-psychology/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/wealth-in-the-utility/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/zero-lower-bound/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/c2/</loc>
     <lastmod>2024-01-15T00:00:00+00:00</lastmod>
@@ -119,58 +155,115 @@
     <loc>https://pascalmichaillat.org/c5/</loc>
     <lastmod>2023-12-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/immigration/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/14/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/state-dependence/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/d4/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/7/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/wealth-tax/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/9/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/cost-passthrough/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/fairness/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/markups/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/new-keynesian-model/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/8/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/differential-equations/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/euler-equation/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/fiscal-multiplier/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/forward-guidance-puzzle/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/multiplier-puzzle/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/11/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/6/</loc>
     <lastmod>2024-01-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/samuelson-rule/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/stimulus-spending/</loc>
+    <lastmod>2024-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/homophily/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/paradigms/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/10/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/power/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/scientific-progress/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/tenure/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/c4/</loc>
     <lastmod>2024-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/5/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/4/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/3/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/demand-shocks/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/2/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/public-employment/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/c3/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/1/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/frictional-unemployment/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -22,7 +22,7 @@
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/12/</guid>
-      <description>This paper builds a model of hypothesis testing with p-hacking and gives critical values that correct the inflated type 1 error rate caused by p-hacking.</description>
+      <description>This paper builds a model of hypothesis testing with p-hacking and gives critical values that are robust to by p-hacking. Published in REStat, 2024.</description>
     </item>
     
     <item>
@@ -85,7 +85,7 @@
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pascalmichaillat.org/6/</guid>
-      <description>This paper shows that public expenditure should deviate from the Samuelson rule to reduce the unemployment gap, when it exists. Published in REStud, 2018.</description>
+      <description>This paper shows that public expenditure should deviate from the Samuelson rule to reduce the unemployment gap, when it exists. Published in REStud, 2019.</description>
     </item>
     
     <item>

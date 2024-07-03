@@ -6,7 +6,16 @@
     <description>Recent content on Pascal Michaillat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Location</title>
+      <link>https://pascalmichaillat.org/location/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://pascalmichaillat.org/location/</guid>
+      <description>Pascal Michaillat&amp;#39;s office location and mailing address at the University of California, Santa Cruz.</description>
+    </item>
+    
     <item>
       <title>Minimalist LaTeX Template for Academic Presentations</title>
       <link>https://pascalmichaillat.org/d1/</link>
@@ -68,15 +77,6 @@
       
       <guid>https://pascalmichaillat.org/d2/</guid>
       <description>This template produces an academic paper with LaTeX. The paper follows typographical best practices and has a minimalist design.</description>
-    </item>
-    
-    <item>
-      <title>Location</title>
-      <link>https://pascalmichaillat.org/location/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://pascalmichaillat.org/location/</guid>
-      <description>Pascal Michaillat&amp;#39;s mailing addresses and office address at the University of California, Santa Cruz.</description>
     </item>
     
     <item>

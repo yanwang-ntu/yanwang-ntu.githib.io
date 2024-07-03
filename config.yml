@@ -20,8 +20,6 @@ menu:
         - name: Design
           url: /design/
           weight: 3        
-        # - name: Book
-        #   url: /b1/
           weight: 4
         - name: Newsletter
           url: https://pmichaillat.substack.com
@@ -65,10 +63,6 @@ params:
               url: /courses/
             - name: Design
               url: /design/
-            # - name: Book
-            #   url: /b1/
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
             - name: Tags
               url: /tags/
             - name: Archive
@@ -89,6 +83,10 @@ params:
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/pmichaillat
+        - name: Twitter
+          url: https://x.com/pmichaillat
+        - name: Substack
+          url: https://pmichaillat.substack.com
 
     assets:
         disableHLJS: true

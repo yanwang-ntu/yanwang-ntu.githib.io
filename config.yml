@@ -20,9 +20,11 @@ menu:
         - name: Design
           url: /design/
           weight: 3        
+        - name: Tags
+          url: /tags/
           weight: 4
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
+        - name: Archive
+          url: /archive/
           weight: 5
 
 params:

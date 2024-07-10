@@ -156,8 +156,12 @@
 }
 
 .post-content table th {
-    font-size: 14px;
     text-align: start;
+    font-size: 14px;
+    font-weight: var(--semibold);
+    text-transform: uppercase;
+    color: var(--gray);
+    border-bottom: 2px solid var(--border);
 }
 
 .post-content table:not(.highlighttable) td code:only-child {

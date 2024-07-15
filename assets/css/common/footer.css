@@ -1,6 +1,6 @@
 .footer,
 .top-link {
-    font-size: var(--footersize);
+    font-size: var(--footer-size);
     color: var(--secondary);
 }
 
@@ -26,7 +26,7 @@
 }
 
 .footer a:hover {
-    border-bottom: 2px solid var(--darkpurple);
+    border-bottom: 2px solid var(--purple);
 }
 
 .top-link {

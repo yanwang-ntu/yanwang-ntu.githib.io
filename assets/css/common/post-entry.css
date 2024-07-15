@@ -44,8 +44,8 @@
 }
 
 .post-entry:hover {
-    background: var(--lightpurple);
-    border: 1px solid var(--darkpurple);
+    background: var(--graypurple);
+    border: 1px solid var(--purple);
 }
 
 .tag-entry .entry-cover {
@@ -54,14 +54,14 @@
 
 .entry-header h2 {
     font-size: 20px;
-    line-height: var(--lineheight);
+    line-height: var(--line-height);
 }
 
 .entry-content {
     margin: 20px 10px;
     color: var(--secondary);
-    font-size: var(--entrysize);
-    line-height: var(--lineheight);
+    font-size: var(--entry-size);
+    line-height: var(--line-height);
     overflow: hidden;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -70,7 +70,7 @@
 
 .entry-footer {
     color: var(--content);
-    font-size: var(--entrysize);
+    font-size: var(--entry-size);
 }
 
 .entry-link {
@@ -83,8 +83,8 @@
 
 .entry-cover,
 .entry-isdraft {
-    font-size: var(--entrysize);
-    color: var(--secondary);
+    font-size: var(--entry-size);
+    color: var(--gray);
 }
 
 .entry-cover {

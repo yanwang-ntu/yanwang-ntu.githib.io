@@ -26,14 +26,10 @@
     box-shadow: 0 1px 0 var(--secondary);
 }
 
-.breadcrumbs a {
-    font-size: 15px;
-}
-
 .post-content {
     color: var(--content);
-    line-height: var(--lineheight);
-    font-size: var(--textsize);
+    line-height: var(--line-height);
+    font-size: 18px;
 }
 
 .post-content h3,
@@ -72,14 +68,14 @@
 }
 
 .post-content h6 {
-    font-size: var(--footersize);
+    font-size: var(--footer-size);
     color: var(--secondary);
 }
 
 .post-content a,
 .post-meta a,
 .toc a:hover {
-    box-shadow: 0 2px 0 var(--darkpurple);
+    box-shadow: 0 2px 0 var(--purple);
     color: currentColor; 
 }
 }
@@ -106,7 +102,7 @@
 .post-content ol,
 .post-content ul {
     padding-inline-start: 20px;
-    margin-left: var(--marginleft); 
+    margin-left: var(--margin-left); 
 }
 
 .post-content li {
@@ -151,7 +147,7 @@
 .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
     min-width: 80px;
     padding: 12px 8px;
-    line-height: var(--lineheight);
+    line-height: var(--line-height);
     border-bottom: 1px solid var(--border);
 }
 
@@ -212,7 +208,7 @@
     margin: auto 4px;
     padding: 4px 6px;
     font-size: 0.78em;
-    line-height: var(--lineheight);
+    line-height: var(--line-height);
     background: var(--code-bg);
     border-radius: 2px;
     border: 1px solid var(--border);
@@ -283,13 +279,9 @@
     color: var(--tertiary);
 }
 
-.dark .toc {
-    background: var(--entry);
-}
-
 .toc details summary {
     cursor: zoom-in;
-    margin-inline-start: calc(var(--marginleft) - 12px);
+    margin-inline-start: calc(var(--margin-left) - 12px);
 }
 
 .toc details[open] summary {
@@ -304,7 +296,7 @@
 }
 
 .toc .inner {
-    margin: 0 calc(var(--marginleft) - 12px);
+    margin: 0 calc(var(--margin-left) - 12px);
     padding: 10px 20px;
     font-size: 16px;
 }
@@ -346,13 +338,13 @@
 }
 
 .post-tags a:hover {
-    background: var(--lightpurple);
-    border: 1px solid var(--darkpurple);
+    background: var(--graypurple);
+    border: 1px solid var(--purple);
 
 }
 
 .paginav a:hover {
-    background: var(--lightpurple);
+    background: var(--graypurple);
 }
 
 .share-buttons {
@@ -378,27 +370,27 @@ h4:hover .anchor,
 h5:hover .anchor,
 h6:hover .anchor {
     display: inline-flex;
-    color: var(--darkpurple);
+    color: var(--purple);
     margin-inline-start: 10px;
     font-weight: 700;
     user-select: none;
-    box-shadow: 0 0px 0 var(--darkpurple);
+    box-shadow: 0 0px 0 var(--purple);
 }
 
 
 a[href^="#fn:"], a[href^="#fnref:"] {
-     box-shadow: 0 0px 0 var(--darkpurple);
+     box-shadow: 0 0px 0 var(--purple);
 }
 
 a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
-    color: var(--darkpurple);
+    color: var(--purple);
 }
 
 .paginav {
     margin: 10px 0;
     display: flex;
-    line-height: var(--lineheight);
-    font-size: var(--footersize);
+    line-height: var(--line-height);
+    font-size: var(--footer-size);
     border-radius: var(--radius);
 }
 

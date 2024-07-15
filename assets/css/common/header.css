@@ -23,7 +23,7 @@
 }
 
 .logo a {
-    font-size: var(--headersize);
+    font-size: var(--header-size);
     font-weight: var(--semibold);
 }
 
@@ -62,12 +62,12 @@ body:not(.dark) #sun {
 }
 
 #menu a {
-    font-size: var(--headersize);
+    font-size: var(--header-size);
     font-weight: 400;
 }
 
 #menu .active {
-    border-bottom: 3px solid var(--darkpurple);
+    border-bottom: 3px solid var(--purple);
 }
 
 .lang-switch li,

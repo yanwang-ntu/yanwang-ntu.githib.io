@@ -6,8 +6,8 @@
 .main .profile {
     align-items: center;
     min-height: calc(100vh  - (var(--gap) * 2));
-    font-size: var(--homesize);
-    line-height: var(--lineheight);
+    font-size: var(--home-size);
+    line-height: var(--line-height);
 }
 
 .profile .profile_inner h1 {
@@ -39,7 +39,7 @@
 }
 
 .button:hover {
-    background: var(--lightpurple);
-    border: 1px solid var(--darkpurple);
+    background: var(--graypurple);
+    border: 1px solid var(--purple);
 
 }

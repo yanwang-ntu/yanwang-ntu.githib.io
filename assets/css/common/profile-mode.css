@@ -23,11 +23,10 @@
 
 .buttons {
     flex-wrap: wrap;
-    margin: 0 auto;
 }
 
 .button {
-    background: var(--tertiary);
+    background: var(--entry);
     border: 1px solid rgb(207, 207, 207);
     border-radius: var(--radius);
     margin: 8px 16px 8px 0px;
@@ -40,5 +39,7 @@
 }
 
 .button:hover {
-    background: var(--midpurple);
+    background: var(--lightpurple);
+    border: 1px solid var(--darkpurple);
+
 }

@@ -1,7 +1,6 @@
 .terms-tags li {
     display: inline-block;
     margin: 10px;
-    font-weight: 400;
 }
 
 .terms-tags a {
@@ -16,5 +15,6 @@
 
 .terms-tags a:hover {
     background: var(--lightpurple);
+    border: 1px solid var(--darkpurple);
 }
 

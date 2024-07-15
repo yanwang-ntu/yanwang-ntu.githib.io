@@ -236,7 +236,7 @@
 
 .post-content hr {
     margin: 30px 0;
-    height: 2px;
+    height: 1px;
     background: var(--tertiary);
     border: 0;
 }
@@ -347,6 +347,8 @@
 
 .post-tags a:hover {
     background: var(--lightpurple);
+    border: 1px solid var(--darkpurple);
+
 }
 
 .paginav a:hover {
@@ -437,9 +439,3 @@ img.in-text {
     display: inline;
     margin: auto;
 }
-
-.thinline {
-    height: 1px;
-    background-color: var(--tertiary);
-    margin: 30px 0;
-  }

@@ -1,7 +1,8 @@
 .terms-tags li {
     display: inline-block;
-    margin: 10px;
+    margin: 5px;
 }
+
 
 .terms-tags a {
     display: block;

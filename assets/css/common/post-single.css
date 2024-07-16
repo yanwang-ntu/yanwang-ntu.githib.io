@@ -315,7 +315,7 @@
 
 .post-tags li {
     display: inline-block;
-    margin-right: 4px;
+    margin-inline-end: 6px;
     margin-bottom: 10px;
 }
 

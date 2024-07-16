@@ -28,7 +28,7 @@
 }
 
 .social-icons {
-    padding: 12px 0;
+    padding: 10px 0;
 }
 
 .social-icons a:not(:last-of-type) {
@@ -36,8 +36,8 @@
 }
 
 .social-icons a svg {
-    height: 28px;
-    width: 28px;
+    height: 30px;
+    width: 30px;
 }
 
 .social-icons a:hover {

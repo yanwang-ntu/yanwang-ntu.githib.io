@@ -29,7 +29,7 @@
 .post-content {
     color: var(--content);
     line-height: var(--line-height);
-    font-size: 18px;
+    font-size: var(--content-size);
 }
 
 .post-content h3,
@@ -87,8 +87,7 @@
 }
 
 .post-content del {
-    text-decoration: none;
-    background: linear-gradient(to right, var(--primary) 100%, transparent 0) 0 50%/1px 1px repeat-x;
+    text-decoration: line-through;
 }
 
 .post-content dl,
@@ -205,17 +204,16 @@
 }
 
 .post-content code {
-    margin: auto 4px;
-    padding: 4px 6px;
-    font-size: 0.78em;
+    margin: auto 1px;
+    padding: 3px 3px;
+    font-size: var(--entry-size);
     line-height: var(--line-height);
     background: var(--code-bg);
-    border-radius: 2px;
-    border: 1px solid var(--border);
+    border-radius: 1px;
 }
 
 .post-content pre code {
-    display: block;
+    display: grid;
     margin: auto 0;
     padding: 10px;
     color: var(--secondary);
@@ -226,8 +224,8 @@
 
 .post-content blockquote {
     margin: 20px 0;
-    padding: 0 14px;
-    border-inline-start: 4px solid var(--tertiary);
+    padding: 0 20px;
+    border-inline-start: 6px solid var(--border);
 }
 
 .post-content hr {
@@ -280,12 +278,7 @@
 }
 
 .toc details summary {
-    cursor: zoom-in;
     margin-inline-start: calc(var(--margin-left) - 12px);
-}
-
-.toc details[open] summary {
-    cursor: zoom-out;
 }
 
 .toc .details {
@@ -313,14 +306,17 @@
     margin-top: 60px;
 }
 
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
 .post-tags li {
     display: inline-block;
-    margin-inline-end: 6px;
-    margin-bottom: 10px;
 }
 
 .post-tags a,
-.share-buttons,
 .paginav {
     border-radius: var(--radius);
     background: var(--code-bg);
@@ -329,8 +325,7 @@
 
 .post-tags a {
     display: block;
-    padding-inline-start: 10px;
-    padding-inline-end: 10px;
+    padding: 0 10px;
     color: var(--secondary);
     font-size: 16px;
     line-height: 32px;
@@ -346,22 +341,6 @@
 
 .paginav a:hover {
     background: var(--graypurple);
-}
-
-.share-buttons {
-    margin: 13px 0;
-    padding-inline-start: var(--radius);
-    display: flex;
-    justify-content: center;
-    overflow-x: auto;
-}
-
-.share-buttons a {
-    margin-top: 10px;
-}
-
-.share-buttons a:not(:last-of-type) {
-    margin-inline-end: 12px;
 }
 
 h1:hover .anchor,

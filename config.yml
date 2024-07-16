@@ -57,7 +57,6 @@ params:
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Pascal Michaillat
           buttons:
             - name: Papers
               url: /papers/
@@ -93,7 +92,6 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Pascal Michaillat"
       icon: /favicon.ico
       iconHeight: 18
 

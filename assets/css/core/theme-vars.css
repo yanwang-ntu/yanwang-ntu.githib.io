@@ -8,12 +8,12 @@
     --footer-height: 70px;
     --radius: 8px;
     --content: rgb(30, 30, 30); /*text*/
-    --code-block-bg: rgb(30, 30, 30);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108); /*metadata*/
     --tertiary: rgb(165, 165, 165); /*lines & items*/
     --border: rgb(230, 230, 230); /*borders*/
     --code-bg: rgb(245, 245, 245); /*areas*/
+    --code-block-bg: rgb(245, 245, 245);
     --entry: rgb(255, 255, 255); /*background*/
     --theme: rgb(255, 255, 255);
 /*Custom variables*/

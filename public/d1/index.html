@@ -10,7 +10,7 @@
 <meta name="description" content="This template produces an academic presentation with LaTeX and Beamer. The presentation follows typographical best practices and has a minimalist design.">
 <meta name="author" content="Pascal Michaillat">
 <link rel="canonical" href="https://pascalmichaillat.org/d1/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.fcbb670aee735ff7ebc3bdcc7cbc9398386ed246f7ea12d308d0a2d673c17d3f.css" integrity="sha256-/LtnCu5zX/frw73MfLyTmDhu0kb36hLTCNCi1nPBfT8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.e70cb37c93992a405f5555aaffc0a5b0083e3e3f0bc70a620ec52cf461f1255b.css" integrity="sha256-5wyzfJOZKkBfVVWq/8ClsAg&#43;Pj8LxwpiDsUs9GHxJVs=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://pascalmichaillat.org/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://pascalmichaillat.org/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://pascalmichaillat.org/favicon-32x32.png">
@@ -257,7 +257,7 @@
 <p>Third, 4:3 slides are more robust. They are easily readable will all projectors, both new and old. By contrast, the text of 16:9 slides becomes very small when they are displayed on old 4:3 projectors.</p>
 <p>Fourth, 4:3 slides work better on tablets because most tablets have a 4:3 aspect ratio (iPads for instance). It has becomes very common to read or display slides on tablets, or watch online presentation on tablets. In that context, 4:3 slides display better.</p>
 <p>Sometimes, however, host institutions or conferences require presenters to use 16:9 aspect ratio. The template can be adjusted to produce such slides. Just add the <code>aspectratio=169</code> option to the <code>\documentclass</code> command. Specifically, to produce a 16:9 presentation, the first line of <code>presentation.tex</code> should be:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#00a">\documentclass</span><span style="color:#1e90ff">[11pt,aspectratio=169,xcolor={dvipsnames},hyperref={pdftex,pdfpagemode=UseNone,hidelinks,pdfdisplaydoctitle=true},usepdftitle=false]</span><span style="color:#0aa">{</span>beamer<span style="color:#0aa">}</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#a90d91">\documentclass</span><span style="color:#836c28">[11pt,aspectratio=169,xcolor={dvipsnames},hyperref={pdftex,pdfpagemode=UseNone,hidelinks,pdfdisplaydoctitle=true},usepdftitle=false]</span><span style="color:#a90d91">{</span>beamer<span style="color:#a90d91">}</span>
 </span></span></code></pre></div><hr>
 <h2 id="text-font">Text font<a hidden class="anchor" aria-hidden="true" href="#text-font">#</a></h2>
 <p>Fonts matter in presentations—just as in papers. The font determines the appearance and readability of the entire presentation. For the presentation&rsquo;s text, the template uses <a href="https://mirror.las.iastate.edu/tex-archive/fonts/sourcesanspro/doc/sourcesanspro.pdf" target="_blank">Source Sans Pro</a>
@@ -391,45 +391,45 @@
 <p>The template is designed so the slide headline is used to caption the figure. It is not designed to accommodate a separate caption below the figure.</p>
 <p>An easy way to insert figures into the template is to create a PDF file with all the figures that are featured in the presentation. To do that, create a Keynote or Powerpoint presentation; insert each figure as a slide background; and save the resulting presentation as PDF. With this method, all the figures have the exact same size. It is also possible to use Keynote or Powerpoint to annotate the figures created with an external software (Matlab, R, Python). The file <code>figures.pdf</code> in the repository was created from MATLAB graphs by this method.</p>
 <p>The code for a slide with a basic figure is the following:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#00a">\begin</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\frametitle</span><span style="color:#0aa">{</span>Figure caption<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\includegraphics</span><span style="color:#1e90ff">[scale=0.3]</span><span style="color:#0aa">{</span>figure.pdf<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\end</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#a90d91">\begin</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\frametitle</span><span style="color:#a90d91">{</span>Figure caption<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\includegraphics</span><span style="color:#836c28">[scale=0.3]</span><span style="color:#a90d91">{</span>figure.pdf<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\end</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
 </span></span></code></pre></div><p>The code for a slide with multiple figures displayed sequentially is the following:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#00a">\begin</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\frametitle</span><span style="color:#0aa">{</span>Figure caption<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\includegraphics</span>&lt;1&gt;[scale=0.3,page=1]<span style="color:#0aa">{</span>figures.pdf<span style="color:#0aa">}</span><span style="color:#aaa;font-style:italic">%
-</span></span></span><span style="display:flex;"><span><span style="color:#aaa;font-style:italic"></span><span style="color:#00a">\includegraphics</span>&lt;2&gt;[scale=0.3,page=2]<span style="color:#0aa">{</span>figures.pdf<span style="color:#0aa">}</span><span style="color:#aaa;font-style:italic">%
-</span></span></span><span style="display:flex;"><span><span style="color:#aaa;font-style:italic"></span><span style="color:#00a">\includegraphics</span>&lt;3&gt;[scale=0.3,page=3]<span style="color:#0aa">{</span>figures.pdf<span style="color:#0aa">}</span><span style="color:#aaa;font-style:italic">%
-</span></span></span><span style="display:flex;"><span><span style="color:#aaa;font-style:italic"></span><span style="color:#00a">\includegraphics</span>&lt;4&gt;[scale=0.3,page=4]<span style="color:#0aa">{</span>figures.pdf<span style="color:#0aa">}</span><span style="color:#aaa;font-style:italic">%
-</span></span></span><span style="display:flex;"><span><span style="color:#aaa;font-style:italic"></span><span style="color:#00a">\end</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#a90d91">\begin</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\frametitle</span><span style="color:#a90d91">{</span>Figure caption<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\includegraphics</span>&lt;1&gt;[scale=0.3,page=1]<span style="color:#a90d91">{</span>figures.pdf<span style="color:#a90d91">}</span><span style="color:#177500">%
+</span></span></span><span style="display:flex;"><span><span style="color:#177500"></span><span style="color:#a90d91">\includegraphics</span>&lt;2&gt;[scale=0.3,page=2]<span style="color:#a90d91">{</span>figures.pdf<span style="color:#a90d91">}</span><span style="color:#177500">%
+</span></span></span><span style="display:flex;"><span><span style="color:#177500"></span><span style="color:#a90d91">\includegraphics</span>&lt;3&gt;[scale=0.3,page=3]<span style="color:#a90d91">{</span>figures.pdf<span style="color:#a90d91">}</span><span style="color:#177500">%
+</span></span></span><span style="display:flex;"><span><span style="color:#177500"></span><span style="color:#a90d91">\includegraphics</span>&lt;4&gt;[scale=0.3,page=4]<span style="color:#a90d91">{</span>figures.pdf<span style="color:#a90d91">}</span><span style="color:#177500">%
+</span></span></span><span style="display:flex;"><span><span style="color:#177500"></span><span style="color:#a90d91">\end</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
 </span></span></code></pre></div><hr>
 <h2 id="tables">Tables<a hidden class="anchor" aria-hidden="true" href="#tables">#</a></h2>
 <p>People sometimes copy-paste tables from their papers into their slides. That&rsquo;s not a good idea since it is not possible to read large tables with tiny numbers on slides. It seems more effective to keep the same font size in tables as in the text, and just present in the slide tables the key numbers from the paper tables. If listeners want more details, they will go to the paper.</p>
 <p>Tables are centered by default, and fill the slide.</p>
 <p>Here too, the template is designed so the slide headline is used to caption the table. It is not designed to accommodate a separate caption below the table.</p>
 <p>The code for a slide with a basic table is the following:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#00a">\begin</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\frametitle</span><span style="color:#0aa">{</span>Table caption<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\begin</span><span style="color:#0aa">{</span>tabular*<span style="color:#0aa">}{</span><span style="color:#00a">\textwidth</span><span style="color:#0aa">}{</span>@<span style="color:#0aa">{</span><span style="color:#00a">\extracolsep\fill</span><span style="color:#0aa">}</span>lccc<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\toprule</span>
-</span></span><span style="display:flex;"><span> <span style="color:#0aa">&amp;</span> Column 1 <span style="color:#0aa">&amp;</span> Column 2 <span style="color:#0aa">&amp;</span> Column 3<span style="color:#00a">\\</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\midrule</span>
-</span></span><span style="display:flex;"><span>Line 1 <span style="color:#0aa">&amp;</span> A  <span style="color:#0aa">&amp;</span> B <span style="color:#0aa">&amp;</span> C <span style="color:#00a">\\</span>
-</span></span><span style="display:flex;"><span>Line 2 <span style="color:#0aa">&amp;</span> D <span style="color:#0aa">&amp;</span> E <span style="color:#0aa">&amp;</span> F <span style="color:#00a">\\</span> 
-</span></span><span style="display:flex;"><span>Line 3 <span style="color:#0aa">&amp;</span> G <span style="color:#0aa">&amp;</span> H <span style="color:#0aa">&amp;</span> I <span style="color:#00a">\\</span> 
-</span></span><span style="display:flex;"><span><span style="color:#00a">\midrule</span>
-</span></span><span style="display:flex;"><span>Line 4 <span style="color:#0aa">&amp;</span> J <span style="color:#0aa">&amp;</span> K <span style="color:#0aa">&amp;</span> L <span style="color:#00a">\\</span> 
-</span></span><span style="display:flex;"><span>Line 5 <span style="color:#0aa">&amp;</span> M <span style="color:#0aa">&amp;</span> N <span style="color:#0aa">&amp;</span> O <span style="color:#00a">\\</span> 
-</span></span><span style="display:flex;"><span><span style="color:#00a">\bottomrule</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\end</span><span style="color:#0aa">{</span>tabular*<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\end</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#a90d91">\begin</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\frametitle</span><span style="color:#a90d91">{</span>Table caption<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\begin</span><span style="color:#a90d91">{</span>tabular*<span style="color:#a90d91">}{</span><span style="color:#a90d91">\textwidth</span><span style="color:#a90d91">}{</span>@<span style="color:#a90d91">{</span><span style="color:#a90d91">\extracolsep\fill</span><span style="color:#a90d91">}</span>lccc<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\toprule</span>
+</span></span><span style="display:flex;"><span> <span style="color:#a90d91">&amp;</span> Column 1 <span style="color:#a90d91">&amp;</span> Column 2 <span style="color:#a90d91">&amp;</span> Column 3<span style="color:#a90d91">\\</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\midrule</span>
+</span></span><span style="display:flex;"><span>Line 1 <span style="color:#a90d91">&amp;</span> A  <span style="color:#a90d91">&amp;</span> B <span style="color:#a90d91">&amp;</span> C <span style="color:#a90d91">\\</span>
+</span></span><span style="display:flex;"><span>Line 2 <span style="color:#a90d91">&amp;</span> D <span style="color:#a90d91">&amp;</span> E <span style="color:#a90d91">&amp;</span> F <span style="color:#a90d91">\\</span> 
+</span></span><span style="display:flex;"><span>Line 3 <span style="color:#a90d91">&amp;</span> G <span style="color:#a90d91">&amp;</span> H <span style="color:#a90d91">&amp;</span> I <span style="color:#a90d91">\\</span> 
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\midrule</span>
+</span></span><span style="display:flex;"><span>Line 4 <span style="color:#a90d91">&amp;</span> J <span style="color:#a90d91">&amp;</span> K <span style="color:#a90d91">&amp;</span> L <span style="color:#a90d91">\\</span> 
+</span></span><span style="display:flex;"><span>Line 5 <span style="color:#a90d91">&amp;</span> M <span style="color:#a90d91">&amp;</span> N <span style="color:#a90d91">&amp;</span> O <span style="color:#a90d91">\\</span> 
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\bottomrule</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\end</span><span style="color:#a90d91">{</span>tabular*<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\end</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
 </span></span></code></pre></div><hr>
 <h2 id="section-slide">Section slide<a hidden class="anchor" aria-hidden="true" href="#section-slide">#</a></h2>
 <p>The template has a command to divide the presentation into sections, which adds structure to longer talks. To produces the section slide, just use the following code:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#00a">\begin</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\heading</span><span style="color:#0aa">{</span>Section title<span style="color:#0aa">}</span>
-</span></span><span style="display:flex;"><span><span style="color:#00a">\end</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#a90d91">\begin</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\heading</span><span style="color:#a90d91">{</span>Section title<span style="color:#a90d91">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\end</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
 </span></span></code></pre></div><p>The text on the section slide is in small caps, and with moderately large font (17pt).</p>
 <p>This section slide is a good point to stop, recap what has already been showed, and discuss what comes ahead. It is also a good point to take questions.</p>
 <hr>
@@ -454,10 +454,10 @@
 <hr>
 <h2 id="slide-breaks">Slide breaks<a hidden class="anchor" aria-hidden="true" href="#slide-breaks">#</a></h2>
 <p>Each slide should be prepared and planned carefully. There should be a reason why material is on a certain slide rather than on another slide. Nevertheless, sometimes, a slide contains too much material to fit on one slide, and it does not matter too much how the material is split across successive slides. One example is a slide with a long list of references. Another example is a slide with a long mathematical derivation. In these cases, the option <code>allowframebreaks</code> can be used to split slides automatically, using the following code:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#00a">\begin</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>[allowframebreaks]
-</span></span><span style="display:flex;"><span><span style="color:#00a">\frametitle</span><span style="color:#0aa">{</span>Slide title<span style="color:#0aa">}</span>
+<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-tex" data-lang="tex"><span style="display:flex;"><span><span style="color:#a90d91">\begin</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>[allowframebreaks]
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\frametitle</span><span style="color:#a90d91">{</span>Slide title<span style="color:#a90d91">}</span>
 </span></span><span style="display:flex;"><span>Long list of references or long derivation.
-</span></span><span style="display:flex;"><span><span style="color:#00a">\end</span><span style="color:#0aa">{</span>frame<span style="color:#0aa">}</span>
+</span></span><span style="display:flex;"><span><span style="color:#a90d91">\end</span><span style="color:#a90d91">{</span>frame<span style="color:#a90d91">}</span>
 </span></span></code></pre></div><p>Each successive slide is automatically numbered with an Arabic number in square brackets: [1], [2], [3], and so on. As the <a href="https://tug.ctan.org/macros/latex/contrib/beamer/doc/beameruserguide.pdf" target="_blank">Beamer user guide</a>
  notes, however, the <code>allowframebreaks</code> option invites the creation of endless presentations that resemble more a paper projected on the wall than a presentation. So the option should only be used sporadically, in the specific cases mentioned above.</p>
 <hr>

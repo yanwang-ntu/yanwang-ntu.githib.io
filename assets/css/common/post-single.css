@@ -208,7 +208,7 @@
     font-size: var(--entry-size);
     line-height: var(--line-height);
     background: var(--code-bg);
-    border-radius: 1px;
+    border-radius: 2px;
 }
 
 .post-content pre code {

@@ -1,6 +1,6 @@
 ---
 title: "Location"
-lastmod: 2024-07-02
+date: 2024-07-02
 url: /location/
 aliases:
     - /contact.html

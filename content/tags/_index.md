@@ -1,6 +1,7 @@
 ---
 title: "Tags"
+date: 2024-02-27
 author: "Pascal Michaillat"
-description: "Topics covered and methods used in Pascal Michaillat's research papers and courses."
+description: "List of topics and methods appearing in Pascal Michaillat's research papers and course materials."
 layout: "terms"
 ---

@@ -27,12 +27,9 @@
     margin-inline-start: auto;
 }
 
-.social-icons {
-    padding: 10px 0;
-}
-
-.social-icons a:not(:last-of-type) {
-    margin-inline-end: 16px;
+.social-icons a {
+    display: inline-flex;
+    padding: 10px 14px 10px 0px;
 }
 
 .social-icons a svg {
@@ -78,5 +75,3 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
-
-

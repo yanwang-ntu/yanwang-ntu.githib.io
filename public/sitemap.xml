@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pascalmichaillat.org/archive/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/design/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,6 +13,9 @@
   </url><url>
     <loc>https://pascalmichaillat.org/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/officehours/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/location/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
@@ -47,9 +53,6 @@
     <loc>https://pascalmichaillat.org/tags/sufficient-statistics/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/13/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -64,9 +67,6 @@
   </url><url>
     <loc>https://pascalmichaillat.org/tags/welfare-analysis/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/officehours/</loc>
-    <lastmod>2024-06-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/critical-values/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
@@ -122,7 +122,7 @@
     <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/archive/</loc>
+    <loc>https://pascalmichaillat.org/tags/</loc>
     <lastmod>2024-02-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/directed-search/</loc>

@@ -28,7 +28,7 @@ menu:
           weight: 5
 
 params:
-    description: "This website hosts Pascal Michaillat's research papers, course material, design projects, curriculum vitae, and contact information."
+    description: "This website hosts Pascal Michaillat's research papers, course materials, design templates, curriculum vitae, and contact information."
     author: Pascal Michaillat
     googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -42,7 +42,8 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowRssButtonInSectionTermList: false
+    ShowAllPagesInArchive: false
+    MainSections: ["papers","courses","design"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -86,7 +87,6 @@ params:
           url: https://github.com/pmichaillat
 
     assets:
-        disableHLJS: true
         disableScrollBarStyle: true
     cover:
         hiddenInList: true

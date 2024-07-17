@@ -8,7 +8,7 @@
     --footer-height: 70px;
     --radius: 8px;
     --content: rgb(30, 30, 30); /*text*/
-    --hljs-bg: rgb(30, 30, 30);
+    --code-block-bg: rgb(30, 30, 30);
     --primary: rgb(30, 30, 30);
     --secondary: rgb(108, 108, 108); /*metadata*/
     --tertiary: rgb(165, 165, 165); /*lines & items*/

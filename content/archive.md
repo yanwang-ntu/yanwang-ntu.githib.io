@@ -1,7 +1,7 @@
 ---
 title: "Archive"
-lastmod: 2024-02-27
+date: 2024-07-16
 author: "Pascal Michaillat"
-description: "Pascal Michaillat's research papers, course material, and design projects listed in reverse chronological order."
+description: "List of Pascal Michaillat's research papers, course materials, and design templates in reverse chronological order."
 layout: "archives"
 ---

@@ -4,44 +4,37 @@
     <title>Vacancies on Pascal Michaillat</title>
     <link>https://pascalmichaillat.org/tags/vacancies/</link>
     <description>Recent content in Vacancies on Pascal Michaillat</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.125.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pascalmichaillat.org/tags/vacancies/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://pascalmichaillat.org/tags/vacancies/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>u* = √uv</title>
       <link>https://pascalmichaillat.org/13/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://pascalmichaillat.org/13/</guid>
       <description>This paper argues that in the United States the full-employment rate of unemployment (FERU) is the geometric average of the unemployment and vacancy rates.</description>
     </item>
-    
     <item>
       <title>Unemployment</title>
       <link>https://pascalmichaillat.org/c1/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://pascalmichaillat.org/c1/</guid>
       <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, job rationing, and labor market policies.</description>
     </item>
-    
     <item>
       <title>Beveridgean Unemployment Gap</title>
       <link>https://pascalmichaillat.org/9/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://pascalmichaillat.org/9/</guid>
       <description>This paper develops a formula for the unemployment gap based on the Beveridge curve. In the US the gap is countercyclical. Published in JPubE Plus, 2021.</description>
     </item>
-    
     <item>
       <title>Do Matching Frictions Explain Unemployment? Not in Bad Times</title>
       <link>https://pascalmichaillat.org/1/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://pascalmichaillat.org/1/</guid>
       <description>This paper proposes a matching model of the labor market with job rationing: unemployment persists even without matching frictions. Published in AER, 2012.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-lastmod: 2024-06-12
+date: 2024-07-15
 url: /officehours/
 aliases:
     - /oh.html

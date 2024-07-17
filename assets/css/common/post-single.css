@@ -78,7 +78,6 @@
     box-shadow: 0 2px 0 var(--purple);
     color: currentColor; 
 }
-}
 
 .post-content a code {
     margin: auto 0;
@@ -169,7 +168,7 @@
 
 .post-content .highlight:not(table) {
     margin: 10px auto;
-    background: var(--hljs-bg) !important;
+    background: var(--code-block-bg) !important;
     border-radius: var(--radius);
     direction: ltr;
 }
@@ -304,6 +303,10 @@
 
 .post-footer {
     margin-top: 60px;
+}
+
+.post-footer>* {
+    margin-bottom: 10px;
 }
 
 .post-tags {

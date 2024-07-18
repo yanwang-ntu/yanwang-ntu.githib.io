@@ -22,12 +22,12 @@
     --gray: rgb(165, 165, 165); /*labels*/
     --archive: rgb(200, 200, 200); /*archive lines*/
     --semibold: 500;
-    --h1-size: 25px;
-    --content-size:18px;
-    --home-size: 16px;
-    --header-size: 16px;
-    --entry-size: 15px;
-    --footer-size: 13px;
+    --content-size:1.15rem;
+    --home-size: 1rem;
+    --header-size: 1rem;
+    --meta-size: 1rem;
+    --entry-size: 0.95rem;
+    --footer-size: 0.8rem;
     --line-height: 1.45;
     --margin-left: 26px;
 }

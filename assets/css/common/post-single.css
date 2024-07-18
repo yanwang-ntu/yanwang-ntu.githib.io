@@ -5,7 +5,7 @@
 
 .post-title {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 2.25rem;
 }
 
 .post-description {
@@ -16,7 +16,7 @@
 .post-meta,
 .breadcrumbs {
     color: var(--secondary);
-    font-size: 15px;
+    font-size: var(--meta-size);
 }
 
 .post-meta .i18n_list li {
@@ -41,34 +41,34 @@
 
 .post-content h1 {
     margin: 40px auto 32px;
-    font-size: 40px;
+    font-size: 1.85rem;
 }
 
 .post-content h2 {
     margin: 32px auto 24px;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .post-content h3 {
-    font-size: 19px;    
+    font-size: 1.2rem;    
 }
 
 .post-content h4 {
-    font-size: 15px;    
+    font-size: 0.95rem;    
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
 }
 
 .post-content h5 {
-    font-size: 14px;
+    font-size: 0.85rem;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
 }
 
 .post-content h6 {
-    font-size: var(--footer-size);
+    font-size: 0.8rem;
     color: var(--secondary);
 }
 
@@ -151,7 +151,7 @@
 
 .post-content table th {
     text-align: start;
-    font-size: 14px;
+    font-size: 0.9rem;
     font-weight: var(--semibold);
     text-transform: uppercase;
     color: var(--gray);
@@ -252,15 +252,15 @@
 }
 
 .post-content figure > figcaption {
-    color: var(--primary);
-    font-size: 16px;
+    color: var(--content);
+    font-size: var(--content-size);
     font-weight: bold;
     margin: 8px 0 16px;
 }
 
 .post-content figure > figcaption > p {
     color: var(--secondary);
-    font-size: 14px;
+    font-size: var(--meta-size);
     font-weight: normal;
 }
 
@@ -284,13 +284,13 @@
     display: inline;
     font-weight: var(--semibold);
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 0.9rem;
 }
 
 .toc .inner {
     margin: 0 calc(var(--margin-left) - 12px);
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: var(--meta-size);
 }
 
 .toc li ul {
@@ -330,7 +330,7 @@
     display: block;
     padding: 0 10px;
     color: var(--secondary);
-    font-size: 16px;
+    font-size: var(--meta-size);
     line-height: 32px;
     background: var(--code-bg);
     transition: transform 0.1s;
@@ -387,7 +387,6 @@ a[href^="#fn:"]:hover, a[href^="#fnref:"]:hover {
 .paginav .title {
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-size: small;
     color: var(--secondary);
 }
 

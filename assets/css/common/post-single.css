@@ -205,7 +205,7 @@
 .post-content code {
     margin: auto 1px;
     padding: 3px 3px;
-    font-size: var(--entry-size);
+    font-size: 1rem;
     line-height: var(--line-height);
     background: var(--code-bg);
     border-radius: 2px;

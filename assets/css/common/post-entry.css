@@ -8,7 +8,6 @@
     padding: var(--gap);
     background: var(--entry);
     border-radius: var(--radius);
-    transition: transform 0.1s;
     border: 1px solid var(--border);
 }
 
@@ -21,7 +20,7 @@
     display: none;
 }
 
-.entry-header h2 {
+.entry-header h1, h2 {
     font-size: 1.25rem;
     line-height: var(--line-height);
 }

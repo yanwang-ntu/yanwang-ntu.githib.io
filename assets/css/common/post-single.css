@@ -333,7 +333,6 @@
     font-size: var(--meta-size);
     line-height: 32px;
     background: var(--code-bg);
-    transition: transform 0.1s;
 }
 
 .post-tags a:hover {

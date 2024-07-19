@@ -23,7 +23,7 @@
 
 .archive-month-header {
     margin: var(--home-size) 0;
-    width: 200px;
+    width: 150px;
     font-weight: var(--semibold);
     font-size: var(--home-size);
 }
@@ -40,7 +40,7 @@
 
 .archive-entry-title {
     margin: 5px 0;
-    font-weight: normal;
     font-size: var(--home-size);
+    font-weight: normal;
 }
 

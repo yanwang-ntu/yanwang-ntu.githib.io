@@ -45,7 +45,7 @@ code {
     direction: ltr;
 }
 
-code {
+code, .archive-entry-title, .entry-header {
     text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%;

@@ -4,7 +4,7 @@ This repository contains the source code and assets of Pascal Michaillat's websi
 
 ## Source code
 
-The website is built with [Hugo](https://github.com/gohugoio/hugo). The source code is based on the minimalist website template at [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website).
+The website is built with [Hugo](https://github.com/gohugoio/hugo). The source code comes from the minimalist website template at [pmichaillat/hugo-website](https://github.com/pmichaillat/hugo-website).
 
 ## Assets
 

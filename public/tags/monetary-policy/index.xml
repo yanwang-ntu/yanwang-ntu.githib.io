@@ -6,7 +6,7 @@
     <description>Recent content in monetary policy on Pascal Michaillat</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/monetary-policy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>u* = √uv</title>
@@ -14,13 +14,6 @@
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/13/</guid>
       <description>This paper argues that in the United States the full-employment rate of unemployment (FERU) is the geometric average of the unemployment and vacancy rates.</description>
-    </item>
-    <item>
-      <title>Moen Meets Rotemberg: An Earthly Model of the Divine Coincidence</title>
-      <link>https://pascalmichaillat.org/15/</link>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/15/</guid>
-      <description>This paper develops a simple business-cycle model with divine coincidence: inflation is on target when unemployment is efficient.</description>
     </item>
     <item>
       <title>Economic Slack</title>
@@ -56,13 +49,6 @@
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/11/</guid>
       <description>This paper resolves the New Keynesian model&amp;#39;s anomalies at the zero lower bound by introducing wealth in the utility function. Published in REStat, 2021.</description>
-    </item>
-    <item>
-      <title>Intermediate Macroeconomics</title>
-      <link>https://pascalmichaillat.org/c4/</link>
-      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/c4/</guid>
-      <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
     </item>
   </channel>
 </rss>

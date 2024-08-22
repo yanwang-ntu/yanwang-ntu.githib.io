@@ -9,13 +9,6 @@
     <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/business-cycles/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Has the Recession Started?</title>
-      <link>https://pascalmichaillat.org/16/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/16/</guid>
-      <description>This note uses unemployment and job vacancy data to build a real-time recession indicator. It shows that the US may have been in recession since March 2024.</description>
-    </item>
-    <item>
       <title>u* = √uv</title>
       <link>https://pascalmichaillat.org/13/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
@@ -63,20 +56,6 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/9/</guid>
       <description>This paper develops a formula for the unemployment gap based on the Beveridge curve. In the US the gap is countercyclical. Published in JPubE Plus, 2021.</description>
-    </item>
-    <item>
-      <title>Pricing under Fairness Concerns</title>
-      <link>https://pascalmichaillat.org/8/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/8/</guid>
-      <description>To explain price rigidity, this paper develops a model in which buyers care about the fairness of markups but cannot observe them. Published in JEEA, 2021.</description>
-    </item>
-    <item>
-      <title>Optimal Public Expenditure with Inefficient Unemployment</title>
-      <link>https://pascalmichaillat.org/6/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/6/</guid>
-      <description>This paper shows that public expenditure should deviate from the Samuelson rule to reduce the unemployment gap, when it exists. Published in REStud, 2019.</description>
     </item>
     <item>
       <title>Intermediate Macroeconomics</title>

@@ -9,13 +9,6 @@
     <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>business cycles</title>
-      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>job vacancies</title>
       <link>https://pascalmichaillat.org/tags/job-vacancies/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
@@ -23,10 +16,31 @@
       <description></description>
     </item>
     <item>
+      <title>Michez rule</title>
+      <link>https://pascalmichaillat.org/tags/michez-rule/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/michez-rule/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>recession indicator</title>
       <link>https://pascalmichaillat.org/tags/recession-indicator/</link>
       <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/recession-indicator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recession probability</title>
+      <link>https://pascalmichaillat.org/tags/recession-probability/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recession-probability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>recession threshold</title>
+      <link>https://pascalmichaillat.org/tags/recession-threshold/</link>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/recession-threshold/</guid>
       <description></description>
     </item>
     <item>
@@ -55,6 +69,13 @@
       <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/beveridge-curve/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>business cycles</title>
+      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
       <description></description>
     </item>
     <item>
@@ -149,31 +170,10 @@
       <description></description>
     </item>
     <item>
-      <title>fiscal policy</title>
-      <link>https://pascalmichaillat.org/tags/fiscal-policy/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/fiscal-policy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>frictional unemployment</title>
-      <link>https://pascalmichaillat.org/tags/frictional-unemployment/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/frictional-unemployment/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>job rationing</title>
       <link>https://pascalmichaillat.org/tags/job-rationing/</link>
       <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>matching function</title>
-      <link>https://pascalmichaillat.org/tags/matching-function/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-function/</guid>
       <description></description>
     </item>
     <item>
@@ -233,6 +233,13 @@
       <description></description>
     </item>
     <item>
+      <title>price rigidity</title>
+      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
+      <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>wealth in the utility</title>
       <link>https://pascalmichaillat.org/tags/wealth-in-the-utility/</link>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
@@ -247,52 +254,31 @@
       <description></description>
     </item>
     <item>
-      <title>Keynesian unemployment</title>
-      <link>https://pascalmichaillat.org/tags/keynesian-unemployment/</link>
+      <title>fiscal policy</title>
+      <link>https://pascalmichaillat.org/tags/fiscal-policy/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/keynesian-unemployment/</guid>
+      <guid>https://pascalmichaillat.org/tags/fiscal-policy/</guid>
       <description></description>
     </item>
     <item>
-      <title>paradigms</title>
-      <link>https://pascalmichaillat.org/tags/paradigms/</link>
+      <title>inequality</title>
+      <link>https://pascalmichaillat.org/tags/inequality/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/paradigms/</guid>
+      <guid>https://pascalmichaillat.org/tags/inequality/</guid>
       <description></description>
     </item>
     <item>
-      <title>price rigidity</title>
-      <link>https://pascalmichaillat.org/tags/price-rigidity/</link>
+      <title>Kuhnian model</title>
+      <link>https://pascalmichaillat.org/tags/kuhnian-model/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/price-rigidity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>sufficient statistics</title>
-      <link>https://pascalmichaillat.org/tags/sufficient-statistics/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>welfare analysis</title>
-      <link>https://pascalmichaillat.org/tags/welfare-analysis/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/welfare-analysis/</guid>
+      <guid>https://pascalmichaillat.org/tags/kuhnian-model/</guid>
       <description></description>
     </item>
     <item>
       <title>zero lower bound</title>
       <link>https://pascalmichaillat.org/tags/zero-lower-bound/</link>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/zero-lower-bound/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>matching model&#34;</title>
-      <link>https://pascalmichaillat.org/tags/matching-model/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
+      <guid>https://pascalmichaillat.org/tags/zero-lower-bound/</guid>
       <description></description>
     </item>
     <item>
@@ -303,6 +289,20 @@
       <description></description>
     </item>
     <item>
+      <title>supply shocks</title>
+      <link>https://pascalmichaillat.org/tags/supply-shocks/</link>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/supply-shocks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>monetary multiplier</title>
+      <link>https://pascalmichaillat.org/tags/monetary-multiplier/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/monetary-multiplier/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>wealth tax</title>
       <link>https://pascalmichaillat.org/tags/wealth-tax/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
@@ -310,10 +310,10 @@
       <description></description>
     </item>
     <item>
-      <title>efficient unemployment</title>
-      <link>https://pascalmichaillat.org/tags/efficient-unemployment/</link>
+      <title>efficient unemployment rate</title>
+      <link>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/efficient-unemployment/</guid>
+      <guid>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</guid>
       <description></description>
     </item>
     <item>
@@ -324,10 +324,10 @@
       <description></description>
     </item>
     <item>
-      <title>cost passthrough</title>
-      <link>https://pascalmichaillat.org/tags/cost-passthrough/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/cost-passthrough/</guid>
+      <title>sufficient statistics</title>
+      <link>https://pascalmichaillat.org/tags/sufficient-statistics/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/sufficient-statistics/</guid>
       <description></description>
     </item>
     <item>
@@ -366,10 +366,10 @@
       <description></description>
     </item>
     <item>
-      <title>optimal control</title>
-      <link>https://pascalmichaillat.org/tags/optimal-control/</link>
+      <title>forward guidance</title>
+      <link>https://pascalmichaillat.org/tags/forward-guidance/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/optimal-control/</guid>
+      <guid>https://pascalmichaillat.org/tags/forward-guidance/</guid>
       <description></description>
     </item>
     <item>
@@ -394,10 +394,10 @@
       <description></description>
     </item>
     <item>
-      <title>stimulus spending</title>
-      <link>https://pascalmichaillat.org/tags/stimulus-spending/</link>
+      <title>stimulus package</title>
+      <link>https://pascalmichaillat.org/tags/stimulus-package/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/stimulus-spending/</guid>
+      <guid>https://pascalmichaillat.org/tags/stimulus-package/</guid>
       <description></description>
     </item>
     <item>
@@ -412,13 +412,6 @@
       <link>https://pascalmichaillat.org/tags/homophily/</link>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/homophily/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kuhnian model</title>
-      <link>https://pascalmichaillat.org/tags/kuhnian-model/</link>
-      <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/kuhnian-model/</guid>
       <description></description>
     </item>
     <item>
@@ -478,6 +471,13 @@
       <description></description>
     </item>
     <item>
+      <title>unemployment benefits</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-benefits/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-benefits/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>demand shocks</title>
       <link>https://pascalmichaillat.org/tags/demand-shocks/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
@@ -524,6 +524,20 @@
       <link>https://pascalmichaillat.org/tags/hjb-equation/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/hjb-equation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>optimal control</title>
+      <link>https://pascalmichaillat.org/tags/optimal-control/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/optimal-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>frictional unemployment</title>
+      <link>https://pascalmichaillat.org/tags/frictional-unemployment/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/frictional-unemployment/</guid>
       <description></description>
     </item>
   </channel>

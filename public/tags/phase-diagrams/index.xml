@@ -22,5 +22,12 @@
       <guid>https://pascalmichaillat.org/10/</guid>
       <description>This paper develops a model of science. Due to homophily in promotions, false paradigms may persist when a science has low power. Published in PNAS, 2018.</description>
     </item>
+    <item>
+      <title>Mathematics for Macroeconomics</title>
+      <link>https://pascalmichaillat.org/c3/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/c3/</guid>
+      <description>This graduate course covers basic mathematical methods for macroeconomics: dynamic programming, optimal control, and differential equations.</description>
+    </item>
   </channel>
 </rss>

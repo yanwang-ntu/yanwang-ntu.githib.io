@@ -6,8 +6,64 @@
     <description>Recent content in Tags on Pascal Michaillat</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>business cycles</title>
+      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DMP model</title>
+      <link>https://pascalmichaillat.org/tags/dmp-model/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>job rationing</title>
+      <link>https://pascalmichaillat.org/tags/job-rationing/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>matching model</title>
+      <link>https://pascalmichaillat.org/tags/matching-model/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>public employment</title>
+      <link>https://pascalmichaillat.org/tags/public-employment/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment</title>
+      <link>https://pascalmichaillat.org/tags/unemployment/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>unemployment insurance</title>
+      <link>https://pascalmichaillat.org/tags/unemployment-insurance/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/unemployment-insurance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wage rigidity</title>
+      <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>job vacancies</title>
       <link>https://pascalmichaillat.org/tags/job-vacancies/</link>
@@ -58,13 +114,6 @@
       <description></description>
     </item>
     <item>
-      <title>unemployment</title>
-      <link>https://pascalmichaillat.org/tags/unemployment/</link>
-      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Beveridge curve</title>
       <link>https://pascalmichaillat.org/tags/beveridge-curve/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
@@ -72,10 +121,10 @@
       <description></description>
     </item>
     <item>
-      <title>business cycles</title>
-      <link>https://pascalmichaillat.org/tags/business-cycles/</link>
+      <title>efficient unemployment rate</title>
+      <link>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/business-cycles/</guid>
+      <guid>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</guid>
       <description></description>
     </item>
     <item>
@@ -90,13 +139,6 @@
       <link>https://pascalmichaillat.org/tags/labor-market-tightness/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/labor-market-tightness/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>monetary policy</title>
-      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
       <description></description>
     </item>
     <item>
@@ -160,48 +202,6 @@
       <link>https://pascalmichaillat.org/tags/type-1-error/</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/type-1-error/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>DMP model</title>
-      <link>https://pascalmichaillat.org/tags/dmp-model/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/dmp-model/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>job rationing</title>
-      <link>https://pascalmichaillat.org/tags/job-rationing/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/job-rationing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>matching model</title>
-      <link>https://pascalmichaillat.org/tags/matching-model/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/matching-model/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>public employment</title>
-      <link>https://pascalmichaillat.org/tags/public-employment/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/public-employment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>unemployment insurance</title>
-      <link>https://pascalmichaillat.org/tags/unemployment-insurance/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/unemployment-insurance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>wage rigidity</title>
-      <link>https://pascalmichaillat.org/tags/wage-rigidity/</link>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/wage-rigidity/</guid>
       <description></description>
     </item>
     <item>
@@ -275,6 +275,13 @@
       <description></description>
     </item>
     <item>
+      <title>monetary policy</title>
+      <link>https://pascalmichaillat.org/tags/monetary-policy/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/tags/monetary-policy/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>zero lower bound</title>
       <link>https://pascalmichaillat.org/tags/zero-lower-bound/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
@@ -307,13 +314,6 @@
       <link>https://pascalmichaillat.org/tags/wealth-tax/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/tags/wealth-tax/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>efficient unemployment rate</title>
-      <link>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</guid>
       <description></description>
     </item>
     <item>

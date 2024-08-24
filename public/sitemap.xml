@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pascalmichaillat.org/tags/business-cycles/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/courses/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/dmp-model/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/job-rationing/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/matching-model/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/public-employment/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/c1/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/unemployment-insurance/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
+    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/16/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,9 +45,6 @@
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/papers/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/recession-indicator/</loc>
@@ -30,9 +60,6 @@
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/sahm-rule/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/</loc>
@@ -62,16 +89,13 @@
     <loc>https://pascalmichaillat.org/tags/beveridge-curve/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/business-cycles/</loc>
+    <loc>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/full-employment/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/labor-market-tightness/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/monetary-policy/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/13/</loc>
@@ -110,30 +134,6 @@
     <loc>https://pascalmichaillat.org/d2/</loc>
     <lastmod>2024-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/courses/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/dmp-model/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/job-rationing/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/matching-model/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/public-employment/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/c1/</loc>
-    <lastmod>2024-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment-insurance/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/tags/directed-search/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -170,6 +170,9 @@
     <loc>https://pascalmichaillat.org/tags/kuhnian-model/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://pascalmichaillat.org/tags/monetary-policy/</loc>
+    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/c5/</loc>
     <lastmod>2024-08-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -198,9 +201,6 @@
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/9/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/efficient-unemployment-rate/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/hosios-condition/</loc>

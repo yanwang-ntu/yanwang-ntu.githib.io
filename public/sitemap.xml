@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pascalmichaillat.org/16/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/job-vacancies/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/michez-rule/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/papers/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pascalmichaillat.org/</loc>
-    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/recession-indicator/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/recession-probability/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/recession-threshold/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/recessions/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/sahm-rule/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
+    <lastmod>2024-09-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/tags/</loc>
     <lastmod>2024-08-24T00:00:00+00:00</lastmod>
@@ -26,9 +56,6 @@
     <loc>https://pascalmichaillat.org/tags/public-employment/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pascalmichaillat.org/tags/unemployment/</loc>
-    <lastmod>2024-08-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pascalmichaillat.org/c1/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -37,33 +64,6 @@
   </url><url>
     <loc>https://pascalmichaillat.org/tags/wage-rigidity/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/16/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/job-vacancies/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/michez-rule/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/papers/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/recession-indicator/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/recession-probability/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/recession-threshold/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/recessions/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pascalmichaillat.org/tags/sahm-rule/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pascalmichaillat.org/archive/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>

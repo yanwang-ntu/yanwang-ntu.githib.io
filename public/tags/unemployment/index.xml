@@ -18,7 +18,7 @@
       <link>https://pascalmichaillat.org/16/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/16/</guid>
-      <description>This note uses unemployment and job vacancy data to build a real-time recession indicator. It shows that the US may have been in recession since April 2024.</description>
+      <description>This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024.</description>
     </item>
     <item>
       <title>Unemployment</title>
@@ -26,13 +26,6 @@
       <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/c1/</guid>
       <description>This course presents a matching model of unemployment and uses it to study unemployment fluctuations, job rationing, and labor market policies.</description>
-    </item>
-    <item>
-      <title>u* = √uv</title>
-      <link>https://pascalmichaillat.org/13/</link>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/13/</guid>
-      <description>This paper argues that in the United States the full-employment rate of unemployment (FERU) is the geometric average of the unemployment and vacancy rates.</description>
     </item>
     <item>
       <title>Modeling the Displacement of Native Workers by Immigrants</title>
@@ -49,25 +42,11 @@
       <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
     </item>
     <item>
-      <title>Aggregate Demand, Idle Time, and Unemployment</title>
-      <link>https://pascalmichaillat.org/3/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/3/</guid>
-      <description>This paper develops a model of unemployment fluctuations in which the labor and product markets have a matching structure. Published in QJE, 2015.</description>
-    </item>
-    <item>
       <title>A Theory of Countercyclical Government Multiplier</title>
       <link>https://pascalmichaillat.org/2/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/2/</guid>
       <description>This paper develops a New Keynesian model in which the government multiplier doubles when unemployment rises from 5% to 8%. Published in AEJ Macro, 2014.</description>
-    </item>
-    <item>
-      <title>Do Matching Frictions Explain Unemployment? Not in Bad Times</title>
-      <link>https://pascalmichaillat.org/1/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/1/</guid>
-      <description>This paper proposes a matching model of the labor market with job rationing: unemployment persists even without matching frictions. Published in AER, 2012.</description>
     </item>
   </channel>
 </rss>

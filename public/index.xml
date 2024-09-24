@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Office Hours</title>
+      <link>https://pascalmichaillat.org/officehours/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/officehours/</guid>
+      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
+    </item>
     <item>
       <title>Has the Recession Started?</title>
       <link>https://pascalmichaillat.org/16/</link>
@@ -33,13 +40,6 @@
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/d5/</guid>
       <description>This template produces a personal academic website with Hugo. The website has a minimalist design and is hosted on GitHub Pages.</description>
-    </item>
-    <item>
-      <title>Office Hours</title>
-      <link>https://pascalmichaillat.org/officehours/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://pascalmichaillat.org/officehours/</guid>
-      <description>Schedule and location of Prof. Michaillat&amp;#39;s office hours at the University of California, Santa Cruz.</description>
     </item>
     <item>
       <title>Location</title>

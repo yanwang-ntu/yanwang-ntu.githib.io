@@ -1,7 +1,7 @@
 baseURL: "https://pascalmichaillat.org/" 
 title: Pascal Michaillat
-paginate: 20
 theme: PaperMod
+paginate: 20
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

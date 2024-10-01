@@ -11,14 +11,21 @@
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pascalmichaillat.org/tags/unemployment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modeling Migration-Induced Unemployment</title>
       <link>https://pascalmichaillat.org/14/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/14/</guid>
       <description>This paper explains why a wave of in-migration reduces the employment rate of local workers, and why this reduction is larger in bad times.</description>
+    </item>
+    <item>
+      <title>u* = √uv: The Full-Employment Rate of Unemployment in the United States</title>
+      <link>https://pascalmichaillat.org/13/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/13/</guid>
+      <description>This paper argues that in the United States the full-employment rate of unemployment is the geometric average of the unemployment and vacancy rates.</description>
     </item>
     <item>
       <title>Has the Recession Started?</title>
@@ -40,6 +47,20 @@
       <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://pascalmichaillat.org/c4/</guid>
       <description>This undergraduate course covers IS-LM model of business cycles, matching model of unemployment, inflation, and Malthusian and Solowian models of growth.</description>
+    </item>
+    <item>
+      <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Applications</title>
+      <link>https://pascalmichaillat.org/5/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/5/</guid>
+      <description>This paper studies how the generosity of unemployment insurance should vary over the business cycle in the United States. Published in AEJ Policy, 2018.</description>
+    </item>
+    <item>
+      <title>A Macroeconomic Approach to Optimal Unemployment Insurance: Theory</title>
+      <link>https://pascalmichaillat.org/4/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://pascalmichaillat.org/4/</guid>
+      <description>This paper develops a theory of optimal unemployment insurance in matching models. Published in AEJ Policy, 2018.</description>
     </item>
     <item>
       <title>A Theory of Countercyclical Government Multiplier</title>

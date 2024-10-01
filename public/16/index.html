@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
 <title>Has the Recession Started? | Pascal Michaillat</title>
-<meta name="keywords" content="job vacancies, Michez rule, nowcasting, recession indicator, recession probability, recessions, Sahm rule, unemployment">
+<meta name="keywords" content="false positives, job vacancies, Michez rule, nowcasting, recession indicator, recession probability, recession threshold, recessions, Sahm rule, unemployment">
 <meta name="description" content="This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024.">
 <meta name="author" content="Pascal Michaillat,&thinsp;Emmanuel Saez">
 <link rel="canonical" href="https://pascalmichaillat.org/16/">
@@ -60,7 +60,7 @@
   "name": "Has the Recession Started?",
   "description": "This note uses data on unemployment and job vacancies to build a real-time recession indicator. It shows that the US may be in recession since March 2024.",
   "keywords": [
-    "job vacancies", "Michez rule", "nowcasting", "recession indicator", "recession probability", "recessions", "Sahm rule", "unemployment"
+    "false positives", "job vacancies", "Michez rule", "nowcasting", "recession indicator", "recession probability", "recession threshold", "recessions", "Sahm rule", "unemployment"
   ],
   "articleBody": " Paper Code and data Abstract To answer this question, we develop a new Sahm-type recession indicator that combines vacancy and unemployment data. The indicator is the minimum of the Sahm indicator—the difference between the 3-month trailing average of the unemployment rate and its minimum over the past 12 months—and a similar indicator constructed with the vacancy rate—the difference between the 3-month trailing average of the vacancy rate and its maximum over the past 12 months. We then propose a two-sided recession rule: When our indicator reaches 0.3pp, a recession may have started; when the indicator reaches 0.8pp, a recession has started for sure. This new rule is triggered earlier than the Sahm rule: on average it detects recessions 0.8 month after they have started, while the Sahm rule detects them 2.1 months after their start. The new rule also has a better historical track record: it perfectly identifies all recessions since 1929, while the Sahm rule breaks down before 1960. With August 2024 data, our indicator is at 0.54pp, so the probability that the US economy is now in recession is 48%. In fact, the recession may have started as early as March 2024.\nFigure 2B: Construction of the minimum recession indicator in the United States, 1960–2024 Figure 4: Minimum indicator with two-sided recession rule in the United States, 1960–2024 Citation Michaillat, Pascal, and Emmanuel Saez. 2024. “Has the Recession Started?” arXiv:2408.05856v2. https://doi.org/10.48550/arXiv.2408.05856 .\n@techreport{MS24, author = {Pascal Michaillat and Emmanuel Saez}, year = {2024}, title = {Has the Recession Started?}, number = {arXiv:2408.05856v2}, url = {https://doi.org/10.48550/arXiv.2408.05856}} ",
   "wordCount" : "257",
@@ -214,11 +214,13 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
+      <li><a href="https://pascalmichaillat.org/tags/false-positives/">false positives</a></li>
       <li><a href="https://pascalmichaillat.org/tags/job-vacancies/">job vacancies</a></li>
       <li><a href="https://pascalmichaillat.org/tags/michez-rule/">Michez rule</a></li>
       <li><a href="https://pascalmichaillat.org/tags/nowcasting/">nowcasting</a></li>
       <li><a href="https://pascalmichaillat.org/tags/recession-indicator/">recession indicator</a></li>
       <li><a href="https://pascalmichaillat.org/tags/recession-probability/">recession probability</a></li>
+      <li><a href="https://pascalmichaillat.org/tags/recession-threshold/">recession threshold</a></li>
       <li><a href="https://pascalmichaillat.org/tags/recessions/">recessions</a></li>
       <li><a href="https://pascalmichaillat.org/tags/sahm-rule/">Sahm rule</a></li>
       <li><a href="https://pascalmichaillat.org/tags/unemployment/">unemployment</a></li>
